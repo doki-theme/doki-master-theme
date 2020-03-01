@@ -1,31 +1,20 @@
 {
-  "id": "63fe4617-4cac-47a5-9b93-6794514c35ad",
-  "name": "Megumin",
-  "displayName": "Megumin",
+  "id": "9f62362a-49e0-4b82-8f63-d1f98ae7799f",
+  "name": "Wyla",
+  "displayName": "Wyla",
   "dark": true,
   "author": "Unthrottled",
-  "group": "KonoSuba",
+  "group": "Mistress",
   "editorScheme": {
-    "type": "templateExtension",
-    "file": "Megumin.xml"
+    "type": "custom",
+    "file": "Wyla.xml"
   },
   "stickers": {
-    "default": "megumin.png"
-  },
-  "overrides": {
-    "editorScheme": {
-      "colors": {
-        "accentColor": "#e4ff10",
-        "startColor": "#e4ff10"
-      }
-    }
+    "default": "wyla.png"
   },
   "colors": {
-    "caretRow": "#2c2228",
-    "caretForeground": "#ffffff",
-    "lineNumberColor":"#666879",
-    "completionWindowBackground":"#32393F",
-    "baseIconColor": "#948785",
+    "caretRow": "#3b3539",
+    "baseIconColor": "#979087",
     "ghostColor": "#FFFFFF00",
     "contrastColor": "#2e2b32",
     "nonProjectFileScopeColor":  "#312A26",
@@ -36,23 +25,23 @@
     "inactiveBackgroundDarker": "#333037",
     "headerColor": "#2d2227",
     "baseBackground": "#271c21",
-    "borderColor": "#32262c",
+    "borderColor": "#2b2a32",
     "buttonColor":  "#2f2329",
     "selectionInactive": "#2a272e",
     "tagColor": "#7A7A7A",
-    "selectionBackground":  "#563036",
-    "selectionBackgroundTransparent":  "#563036A5",
+    "selectionBackground":  "#40434c",
+    "selectionBackgroundTransparent":  "#40434cA5",
     "buttonFont": "#766B6B",
     "foregroundColor":  "#bbbbbb",
-    "startColor":  "#511c22",
-    "highlightColor": "#a32f345a",
+    "startColor":  "#6c341d",
+    "highlightColor": "#403033",
     "disabledColor": "#585F6F",
-    "accentColorTransparent": "#a730355A",
-    "accentColorLessTransparent": "#a730359A",
-    "accentColorMoreTransparent": "#a730352A",
-    "accentColor": "#a73035",
+    "accentColorTransparent": "#CCA3315A",
+    "accentColorLessTransparent": "#CCA3319A",
+    "accentColorMoreTransparent": "#CCA3312A",
+    "accentColor": "#CCA331",
     "accentContrastColor": "#271c21",
-    "stopColor": "#ee2e37",
+    "stopColor": "#eeb416",
     "testScopeColor": "#243125",
     "popupMask": "#EAEAF00A",
     "codeBlock": "#2f2329",
@@ -60,7 +49,7 @@
     "searchResultBackground": "#2A272E",
     "classNameColor": "#dae838",
     "htmlTagColor": "#a28a92",
-    "stringColor": "#ffd866",
+    "stringColor": "#f59762",
     "keyColor": "#AF5C5A",
     "keywordColor": "#a28a92"
   },
