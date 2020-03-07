@@ -2,8 +2,6 @@
   "name":"light",
   "extends": "base",
   "ui": {
-      "terminal.ansiGreen": "##20973E",
-      ""
-
+      "terminal.ansiGreen": "#28BD4D"
   }
 }
