@@ -1,7 +1,7 @@
 {
   "name":"light",
   "extends": "base",
-  "ui": {
-      "terminal.ansiGreen": "#28BD4D"
+  "colors": {
+      "terminal.ansiGreen": "#3dd664"
   }
 }
