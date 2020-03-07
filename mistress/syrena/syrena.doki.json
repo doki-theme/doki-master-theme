@@ -5,6 +5,7 @@
   "dark": true,
   "author": "Unthrottled",
   "group": "Mistress",
+  "product": "ultimate",
   "editorScheme": {
     "type": "templateExtension",
     "file": "Syrena.xml"
