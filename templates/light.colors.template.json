@@ -1,4 +1,5 @@
 {
+  "type": "COLOR",
   "name":"light",
   "extends": "base",
   "colors": {

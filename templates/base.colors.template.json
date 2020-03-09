@@ -1,11 +1,12 @@
 {
+  "type": "COLOR",
   "name": "base",
   "colors": {
     "terminal.ansiRed": "#E356A7",
-		"terminal.ansiGreen": "#42E66C",
+    "terminal.ansiGreen": "#42E66C",
     "terminal.ansiYellow": "#EFA554",
-		"terminal.ansiBlue": "#9B6BDF",
-		"terminal.ansiMagenta": "#E64747",
-		"terminal.ansiCyan": "#75D7EC"
+    "terminal.ansiBlue": "#9B6BDF",
+    "terminal.ansiMagenta": "#E64747",
+    "terminal.ansiCyan": "#75D7EC"
   }
 }
