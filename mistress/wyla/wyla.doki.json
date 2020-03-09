@@ -55,5 +55,15 @@
     "keywordColor": "#a28a92"
   },
   "ui": {},
-  "icons": {}
+  "icons": {},
+  "vsCode": {
+    "laf": {
+      "extends": "dark",
+      "ui": {
+        "statusBar.foreground": "&accentContrastColor&",
+        "badge.foreground": "&accentContrastColor&",
+        "activityBarBadge.foreground": "&accentContrastColor&"
+      }
+    }
+  }
 }

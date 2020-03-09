@@ -24,7 +24,7 @@
     "caretRow": "#402d41",
     "ghostColor": "#FFFFFF00",
     "contrastColor": "#341F2D",
-    "nonProjectFileScopeColor":  "#413037",
+    "nonProjectFileScopeColor": "#413037",
     "editorBackground": "#362839",
     "secondaryBackground": "#382639",
     "selectionForeground": "#ffffff",
@@ -36,11 +36,11 @@
     "buttonColor": "#341F2D",
     "selectionInactive": "#883552",
     "tagColor": "#7A7A7A",
-    "selectionBackground":  "#af1f51",
-    "selectionBackgroundTransparent":  "#af1f5155",
+    "selectionBackground": "#af1f51",
+    "selectionBackgroundTransparent": "#af1f5155",
     "buttonFont": "#bbbbbb",
     "foregroundColor": "#b5a3b0",
-    "startColor":  "#6d4466",
+    "startColor": "#6d4466",
     "highlightColor": "#403046",
     "disabledColor": "#525C6F",
     "accentColorTransparent": "#C6FF005A",
@@ -63,5 +63,15 @@
     "keywordColor": "#BD84DD"
   },
   "ui": {},
-  "icons": {}
+  "icons": {},
+  "vsCode": {
+    "laf": {
+      "extends": "dark",
+      "ui": {
+        "statusBar.foreground": "&accentContrastColor&",
+        "badge.foreground": "&accentContrastColor&",
+        "activityBarBadge.foreground": "&accentContrastColor&"
+      }
+    }
+  }
 }
