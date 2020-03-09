@@ -30,7 +30,6 @@ function walkDir(dir: string): Promise<string[]> {
 const readJson = <T>(jsonPath: string): T =>
     JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
 
-const omit = require('lodash/omit');
 
 console.log('Preparing to generate themes.');
 walkDir(masterThemeDefinitionDirectoryPath)
@@ -50,9 +49,40 @@ walkDir(masterThemeDefinitionDirectoryPath)
                 dokiThemeDefinition: readJson<DokiThemeTemplateDefinition>(dokiFileDefinitionPath),
             }))
     }).then(dokiThemes => {
-    console.log(dokiThemes)
-    const dokiThemeDefinitions = dokiThemes.forEach(dokiTheme => {
+    const themeDirectory = path.resolve(repoDirectory, 'temp', 'jetbrains');
+    if (fs.existsSync(themeDirectory)) {
+        fs.rmdirSync(themeDirectory, {recursive: true});
+    }
 
+    const dokiThemeDefinitions = dokiThemes.forEach(dokiTheme => {
+        const {
+            dokiFileDefinitionPath,
+            dokiThemeDefinition
+        } = dokiTheme;
+        const destinationPath = dokiFileDefinitionPath.substr(masterThemeDefinitionDirectoryPath.length);
+        const essentials = {
+            id: dokiThemeDefinition.id,
+            editorScheme: dokiThemeDefinition.editorScheme,
+            overrides: dokiThemeDefinition.overrides,
+            ui: dokiThemeDefinition.ui,
+        };
+        const fullFilePath = path.join(themeDirectory, destinationPath);
+
+        fs.mkdirSync(
+            path.resolve(fullFilePath,'..'),
+            {
+                recursive: true
+            }
+        );
+
+        const definitionAsString = JSON.stringify(
+            essentials, null, 2
+        );
+
+        fs.writeFileSync(
+            fullFilePath,
+            definitionAsString
+        );
     })
 })
     .then(() => {
