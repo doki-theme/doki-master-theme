@@ -1,17 +1,14 @@
 {
   "name": "doki-master-theme",
   "version": "1.0.0",
-  "description": "The Doki Theme for Hyper",
+  "description": "The Doki Theme",
   "main": "build/index.js",
   "repository": "https://github.com/Unthrottled/doki-master-theme.git",
   "author": "Alex Simons <alex@unthrottled.io>",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "tsc",
-    "prebuild":"yarn buildThemes",
-    "buildThemes": "ts-node ./buildSrc/BuildThemes.ts",
-    "dev": "tsc -w"
+    "generateTemplates": "ts-node buildSrc/AppThemeTemplateGenerator.ts"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.149",
