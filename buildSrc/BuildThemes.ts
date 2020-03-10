@@ -77,7 +77,7 @@ walkDir(masterThemeDefinitionDirectoryPath)
         );
 
         fs.writeFileSync(
-            fullFilePath,
+            fullFilePath.replace('doki.json', 'master.definition.json'),
             definitionAsString
         );
     })
