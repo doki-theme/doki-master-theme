@@ -1,5 +1,6 @@
 // @ts-ignore
 import {DokiThemeDefinitions, DokiThemeTemplateDefinition, StringDictonary} from './types';
+import { omit } from 'lodash';
 
 const path = require('path');
 
@@ -49,23 +50,19 @@ walkDir(masterThemeDefinitionDirectoryPath)
                 dokiThemeDefinition: readJson<DokiThemeTemplateDefinition>(dokiFileDefinitionPath),
             }))
     }).then(dokiThemes => {
-    const themeDirectory = path.resolve(repoDirectory, 'temp', 'jetbrains');
+    const themeDirectory = path.resolve(repoDirectory, 'temp', 'master');
     if (fs.existsSync(themeDirectory)) {
         fs.rmdirSync(themeDirectory, {recursive: true});
     }
 
-    const dokiThemeDefinitions = dokiThemes.forEach(dokiTheme => {
+    dokiThemes.forEach(dokiTheme => {
         const {
             dokiFileDefinitionPath,
             dokiThemeDefinition
         } = dokiTheme;
         const destinationPath = dokiFileDefinitionPath.substr(masterThemeDefinitionDirectoryPath.length);
-        const essentials = {
-            id: dokiThemeDefinition.id,
-            editorScheme: dokiThemeDefinition.editorScheme,
-            overrides: dokiThemeDefinition.overrides,
-            ui: dokiThemeDefinition.ui,
-        };
+        const essentials = omit(dokiThemeDefinition, ['ui', 'icons', 'overrides', 'editorScheme']);
+
         const fullFilePath = path.join(themeDirectory, destinationPath);
 
         fs.mkdirSync(
