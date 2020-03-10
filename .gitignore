@@ -3,6 +3,10 @@ scripts/
 # Generated Themes Directory
 src/main/resources/doki/themes
 
+/temp
+
+node_modules/
+
 # macOS
 .DS_Store
 
