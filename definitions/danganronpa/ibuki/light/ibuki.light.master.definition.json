@@ -32,7 +32,7 @@
     "selectionBackgroundTransparent": "#8EDBFF33",
     "buttonFont": "#272426",
     "foregroundColor": "#272426",
-    "startColor": "#3b596d",
+    "startColor": "#da46a7",
     "highlightColor": "#fde2f6",
     "disabledColor": "#cba2c4",
     "accentColorTransparent": "#DA46A75A",
@@ -40,7 +40,7 @@
     "accentColorMoreTransparent": "#DA46A72A",
     "accentColor": "#DA46A7",
     "accentContrastColor": "#252427",
-    "stopColor": "#849eed",
+    "stopColor": "#469fda",
     "testScopeColor": "#e7eff1",
     "popupMask": "#f4eafe50",
     "codeBlock": "#ECEDF8",
@@ -49,7 +49,7 @@
     "classNameColor": "#cb70a5",
     "htmlTagColor": "#7B6970",
     "stringColor": "#d27f2d",
-    "keyColor": "#75acef",
+    "keyColor": "#4174b3",
     "keywordColor": "#C869A3"
   }
 }
