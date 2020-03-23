@@ -16,7 +16,7 @@
     "baseIconColor": "#8b838a",
     "ghostColor": "#FFFFFF00",
     "contrastColor": "#F6D0EF",
-    "nonProjectFileScopeColor": "#eeefeb",
+    "nonProjectFileScopeColor": "#fff2dd",
     "editorBackground": "#ffeefd",
     "secondaryBackground": "#FFEAF9",
     "selectionForeground": "#393d45",
