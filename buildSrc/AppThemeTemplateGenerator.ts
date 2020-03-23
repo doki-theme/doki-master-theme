@@ -7,6 +7,20 @@ const repoDirectory = path.resolve(__dirname, '..');
 
 const fs = require('fs');
 
+const jetbrainsTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+    "id": dokiThemeDefinition.id,
+    "editorScheme": {
+        "type": "template",
+        "name": dokiThemeDefinition.dark ? "Doki Dark" : "Doki Light"
+    },
+    "overrides": {
+        "editorScheme": {
+            "colors": {}
+        }
+    },
+    "ui": {}
+});
+
 /*********************************************************************************************/
 
 /**
@@ -18,19 +32,13 @@ const fs = require('fs');
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-    return {
-        id: dokiThemeDefinition.id,
-        overrides: {},
-        laf: {},
-        syntax: {},
-        colors: {},
-    };
+    return jetbrainsTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
  */
-const appName = 'vsCode';
+const appName = 'jetbrains';
 
 /**************************************************************************/
 
