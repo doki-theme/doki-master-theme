@@ -21,6 +21,14 @@ const jetbrainsTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
     "ui": {}
 });
 
+const vsCodeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+    "id": dokiThemeDefinition.id,
+    "overrides": {},
+    "laf": {},
+    "syntax": {},
+    "colors": {}
+});
+
 /*********************************************************************************************/
 
 /**
@@ -32,13 +40,14 @@ const jetbrainsTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-    return jetbrainsTemplate(dokiThemeDefinition);
+    return vsCodeTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
+ *  jetbrains | vsCode | hyper
  */
-const appName = 'jetbrains';
+const appName = 'vsCode';
 
 /**************************************************************************/
 
