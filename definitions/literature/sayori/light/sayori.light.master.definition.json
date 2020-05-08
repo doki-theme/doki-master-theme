@@ -48,9 +48,9 @@
     "textEditorBackground": "#f0faff",
     "searchResultBackground": "#e5edf6",
     "classNameColor": "#FF3889",
-    "htmlTagColor": "#A89097",
+    "htmlTagColor": "#9D868D",
     "stringColor": "#DC872E",
     "keyColor": "#3F77EF",
-    "keywordColor": "#A89097"
+    "keywordColor": "#9D868D"
   }
 }
