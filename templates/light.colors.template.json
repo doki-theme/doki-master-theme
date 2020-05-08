@@ -3,6 +3,7 @@
   "name":"light",
   "extends": "base",
   "colors": {
-      "terminal.ansiGreen": "#3ab55b"
+      "terminal.ansiGreen": "#3ab55b",
+      "terminal.ansiYellow": "#db974d"
   }
 }
