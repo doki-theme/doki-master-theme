@@ -17,7 +17,7 @@
     "baseIconColor": "#85838b",
     "ghostColor": "#FFFFFF00",
     "contrastColor": "#decff6",
-    "nonProjectFileScopeColor": "#fbf0f4",
+    "nonProjectFileScopeColor": "#faf0fb",
     "editorBackground": "#f3f0ff",
     "secondaryBackground": "#f5ecff",
     "selectionForeground": "#393d45",
@@ -47,10 +47,10 @@
     "codeBlock": "#efeaf6",
     "textEditorBackground": "#f3f0ff",
     "searchResultBackground": "#eae5f6",
-    "classNameColor": "#cb70a5",
+    "classNameColor": "#c26a9d",
     "htmlTagColor": "#7B6970",
     "stringColor": "#d27f2d",
     "keyColor": "#7C75EF",
-    "keywordColor": "#C869A3"
+    "keywordColor": "#c26a9d"
   }
 }

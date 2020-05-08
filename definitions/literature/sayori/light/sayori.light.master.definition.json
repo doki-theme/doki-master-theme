@@ -10,7 +10,7 @@
     "secondary": "sayori_joy.png"
   },
   "colors": {
-    "caretRow": "#dcf5f7",
+    "caretRow": "#dceef7",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#aaaaaa",
     "completionWindowBackground": "#e7e5ea",
