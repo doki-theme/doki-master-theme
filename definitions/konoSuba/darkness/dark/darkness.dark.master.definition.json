@@ -1,12 +1,12 @@
 {
-  "id": "8474d98d-7bb1-462c-82b1-dd7c512142a6",
-  "name": "Darkness Light",
+  "id": "774ec7ad-d6a0-4d9c-b195-2f54d72ab664",
+  "name": "Darkness Dark",
   "displayName": "Darkness",
   "dark": false,
   "author": "Unthrottled",
   "group": "KonoSuba",
   "stickers": {
-    "default": "darkness_light.png"
+    "default": "darkness_dark.png"
   },
   "colors": {
     "caretRow": "#FFF6E4",
