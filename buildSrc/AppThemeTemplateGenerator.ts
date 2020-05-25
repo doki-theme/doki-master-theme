@@ -40,14 +40,14 @@ const vsCodeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-    return vsCodeTemplate(dokiThemeDefinition);
+    return jetbrainsTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
  *  jetbrains | vsCode | hyper
  */
-const appName = 'vsCode';
+const appName = 'jetbrains';
 
 /**************************************************************************/
 
