@@ -9,7 +9,7 @@
     "default": "rias_dark.png"
   },
   "colors": {
-    "caretRow": "#522020",
+    "caretRow": "#491818",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#87727d",
     "completionWindowBackground": "#32393F",
@@ -26,7 +26,7 @@
     "baseBackground": "#411313",
     "borderColor": "#551818",
     "buttonColor": "#611c1c",
-    "selectionInactive": "#572121",
+    "selectionInactive": "#491818",
     "tagColor": "#7A7A7A",
     "selectionBackground": "#822e2e",
     "selectionBackgroundTransparent": "#822e2eaa",
