@@ -2,7 +2,7 @@
   "id": "be058474-b967-4afb-b6d9-bda1948b33ec",
   "name": "Konata",
   "displayName": "Konata",
-  "dark": true,
+  "dark": false,
   "author": "Unthrottled",
   "group": "Lucky Star",
   "stickers": {
@@ -50,8 +50,9 @@
     "searchResultBackground": "#e5edf6",
     "classNameColor": "#FF3889",
     "htmlTagColor": "#9D868D",
-    "stringColor": "#DC872E",
+    "stringColor": "#dc79b9",
     "keyColor": "#3F77EF",
-    "keywordColor": "#9D868D"
+    "keywordColor": "#9D868D",
+    "constantColor": "#005CC5"
   }
 }
