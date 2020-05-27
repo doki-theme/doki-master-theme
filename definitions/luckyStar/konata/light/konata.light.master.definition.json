@@ -33,6 +33,7 @@
     "selectionBackgroundTransparent": "#59a5b233",
     "buttonFont": "#f6f1ff",
     "foregroundColor": "#f3edff",
+    "infoForeground": "#addfa9",
     "startColor": "#0d96f1",
     "highlightColor": "#7ca3f3",
     "disabledColor": "#A2B6CB",
