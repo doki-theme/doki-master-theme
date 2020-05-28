@@ -15,7 +15,7 @@
   "colors": {
     "caretRow": "#6c95ee",
     "caretForeground": "#ffffff",
-    "lineNumberColor": "#aaaaaa",
+    "lineNumberColor": "#ffffff",
     "completionWindowBackground": "#e7e5ea",
     "baseIconColor": "#f2fdff",
     "ghostColor": "#FFFFFF00",
@@ -51,11 +51,11 @@
     "codeBlock": "#eaf0f6",
     "textEditorBackground": "#608ee9",
     "searchResultBackground": "#e5edf6",
-    "classNameColor": "#FF3889",
+    "classNameColor": "#fcc581",
     "htmlTagColor": "#9D868D",
-    "stringColor": "#dc79b9",
-    "keyColor": "#3F77EF",
-    "keywordColor": "#9D868D",
-    "constantColor": "#005CC5"
+    "stringColor": "#FFB6EE",
+    "keyColor": "#FFFBB7",
+    "keywordColor": "#fad7e1",
+    "constantColor": "#f3c0c0"
   }
 }
