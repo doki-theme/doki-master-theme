@@ -18,7 +18,7 @@
     "contrastColor": "#681b1b",
     "nonProjectFileScopeColor": "#3e1c13",
     "editorBackground": "#3E1010",
-    "secondaryBackground": "#481313",
+    "secondaryBackground": "#401010",
     "selectionForeground": "#fbfbfb",
     "inactiveBackground": "#2a272e",
     "inactiveBackgroundDarker": "#333037",
@@ -30,7 +30,7 @@
     "tagColor": "#7A7A7A",
     "selectionBackground": "#822e2e",
     "selectionBackgroundTransparent": "#822e2eaa",
-    "buttonFont": "#6b8b99",
+    "buttonFont": "#996b6b",
     "foregroundColor": "#fafafa",
     "startColor": "#5a1f1f",
     "highlightColor": "#4c1818",
@@ -46,10 +46,10 @@
     "codeBlock": "#292e34",
     "textEditorBackground": "#3E1010",
     "searchResultBackground": "#272e34",
-    "classNameColor": "#8dc6ef",
+    "classNameColor": "#a69dad",
     "htmlTagColor": "#a28a92",
-    "stringColor": "#f4fa8c",
-    "keyColor": "#6893f3",
-    "keywordColor": "#988F9A"
+    "stringColor": "#9EB7D6",
+    "keyColor": "#eea367",
+    "keywordColor": "#C04750"
   }
 }
