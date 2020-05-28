@@ -9,6 +9,9 @@
     "default": "konata_dark.png",
     "secondary": "konata_dark_secondary.png"
   },
+  "meta": {
+    "isVivid": "true"
+  },
   "colors": {
     "caretRow": "#6c95ee",
     "caretForeground": "#ffffff",
