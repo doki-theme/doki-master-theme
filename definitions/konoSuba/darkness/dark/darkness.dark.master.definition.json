@@ -9,7 +9,7 @@
     "default": "darkness_dark.png"
   },
   "colors": {
-    "caretRow": "#0c0c0c",
+    "caretRow": "#141414",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#666879",
     "completionWindowBackground": "#22282b",
@@ -43,9 +43,9 @@
     "stopColor": "#ee6a12",
     "testScopeColor": "#091702",
     "popupMask": "#EAEAF00A",
-    "codeBlock": "#343434",
+    "codeBlock": "#191919",
     "textEditorBackground": "#060602",
-    "searchResultBackground": "#343434",
+    "searchResultBackground": "#191919",
     "classNameColor": "#3492b1",
     "htmlTagColor": "#a28a92",
     "stringColor": "#f3e3e4",
