@@ -44,11 +44,11 @@
     "codeBlock": "#F3F2E2",
     "textEditorBackground": "#FFFEF9",
     "searchResultBackground": "#F3F2E2",
-    "classNameColor": "#6f42c1",
+    "classNameColor": "#c79c19",
     "htmlTagColor": "#22863a",
-    "stringColor": "#E36207",
-    "keyColor": "#6f42c1",
-    "keywordColor": "#d71b6a",
+    "stringColor": "#005CC5",
+    "keyColor": "#3492b1",
+    "keywordColor": "#E36207",
     "constantColor": "#005CC5"
   }
 }
