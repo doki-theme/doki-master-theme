@@ -39,7 +39,7 @@
     "infoForeground": "#addfa9",
     "startColor": "#0d96f1",
     "highlightColor": "#7ca3f3",
-    "disabledColor": "#A2B6CB",
+    "disabledColor": "#afc3db",
     "accentColorTransparent": "#4bcf4c5A",
     "accentColorLessTransparent": "#4bcf4c9A",
     "accentColorMoreTransparent": "#4bcf4c2A",
@@ -48,14 +48,21 @@
     "stopColor": "#3DFFF3",
     "testScopeColor": "#5f99e3",
     "popupMask": "#fbf0ff50",
-    "codeBlock": "#eaf0f6",
+    "codeBlock": "#648adc",
     "textEditorBackground": "#608ee9",
-    "searchResultBackground": "#e5edf6",
-    "classNameColor": "#fcc581",
+    "searchResultBackground": "#648adc",
+    "classNameColor": "#fcd19d",
     "htmlTagColor": "#9D868D",
     "stringColor": "#FFB6EE",
     "keyColor": "#FFFBB7",
     "keywordColor": "#fad7e1",
-    "constantColor": "#f3c0c0"
+    "constantColor": "#f3c0c0",
+
+    "terminal.ansiRed": "#FF99CF",
+    "terminal.ansiGreen": "#72E591",
+    "terminal.ansiYellow": "#FFAA39",
+    "terminal.ansiBlue": "#DABDFB",
+    "terminal.ansiMagenta": "#F79B9E",
+    "terminal.ansiCyan": "#75D7EC"
   }
 }
