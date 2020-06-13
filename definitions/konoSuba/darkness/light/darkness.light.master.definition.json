@@ -11,6 +11,7 @@
   "colors": {
     "caretRow": "#FFF6E4",
     "baseIconColor": "#979087",
+    "lineNumberColor": "#aaaaaa",
     "ghostColor": "#FFFFFF00",
     "contrastColor": "#feffdd",
     "nonProjectFileScopeColor": "#fffaf0",
