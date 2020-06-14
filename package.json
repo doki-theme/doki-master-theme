@@ -3,7 +3,7 @@
   "version": "3.0.3",
   "description": "The Doki Theme",
   "main": "build/index.js",
-  "repository": "https://github.com/Unthrottled/doki-master-theme.git",
+  "repository": "https://github.com/doki-theme/doki-master-theme.git",
   "author": "Alex Simons <alex@unthrottled.io>",
   "license": "MIT",
   "private": false,
