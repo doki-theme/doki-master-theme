@@ -35,7 +35,7 @@
     "foregroundColor": "#bbbbbb",
     "startColor": "#0A74BB",
     "highlightColor": "#232e3f",
-    "disabledColor": "#232323",
+    "disabledColor": "#505050",
     "accentColorTransparent": "#00BCD45A",
     "accentColorLessTransparent": "#00BCD49A",
     "accentColorMoreTransparent": "#00BCD42A",
