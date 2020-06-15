@@ -4,6 +4,8 @@
   "extends": "base",
   "colors": {
       "terminal.ansiGreen": "#3ab55b",
-      "terminal.ansiYellow": "#db974d"
+      "terminal.ansiYellow": "#db974d",
+      "constantColor":"#4C94D6",
+      "comments":"#6a737d"
   }
 }
