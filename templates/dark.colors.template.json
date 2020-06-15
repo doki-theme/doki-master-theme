@@ -3,5 +3,6 @@
   "name":"dark",
   "extends": "base",
   "colors": {
+    "comments":"#6272a4"
   }
 }
