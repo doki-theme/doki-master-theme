@@ -29,6 +29,14 @@ const vsCodeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
     "colors": {}
 });
 
+const chromeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+    "id": dokiThemeDefinition.id,
+    "overrides": {},
+    "laf": {},
+    "syntax": {},
+    "colors": {}
+});
+
 /*********************************************************************************************/
 
 /**
@@ -40,14 +48,14 @@ const vsCodeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-    return jetbrainsTemplate(dokiThemeDefinition);
+    return chromeTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
- *  jetbrains | vsCode | hyper
+ *  jetbrains | vsCode | hyper | chrome
  */
-const appName = 'jetbrains';
+const appName = 'chrome';
 
 /**************************************************************************/
 
