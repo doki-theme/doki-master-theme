@@ -44,6 +44,7 @@
     "accentColorLessTransparent": "#4bcf4c9A",
     "accentColorMoreTransparent": "#4bcf4c2A",
     "accentColor": "#4bcf4c",
+    "accentColorBrighter": "#60ff62",
     "accentContrastColor": "#ffffff",
     "stopColor": "#98ff3d",
     "testScopeColor": "#5f99e3",
@@ -56,7 +57,7 @@
     "stringColor": "#FFB6EE",
     "keyColor": "#fffdae",
     "keywordColor": "#fad7e1",
-    "constantColor": "#f3c0c0",
+    "constantColor": "#F3C49C",
 
     "terminal.ansiRed": "#FFB9D6",
     "terminal.ansiGreen": "#72E591",
