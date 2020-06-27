@@ -37,6 +37,14 @@ const chromeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
     "colors": {}
 });
 
+const vimTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+    "id": dokiThemeDefinition.id,
+    "overrides": {},
+    "laf": {},
+    "syntax": {},
+    "colors": {}
+});
+
 /*********************************************************************************************/
 
 /**
@@ -48,14 +56,14 @@ const chromeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-    return chromeTemplate(dokiThemeDefinition);
+    return vimTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
- *  jetbrains | vsCode | hyper | chrome
+ *  jetbrains | vsCode | hyper | chrome | vim
  */
-const appName = 'chrome';
+const appName = 'vim';
 
 /**************************************************************************/
 
@@ -78,7 +86,6 @@ function walkDir(dir: string): Promise<string[]> {
         .then((scannedDirectories) => scannedDirectories
             .reduce((accum, files) => accum.concat(files), []));
 }
-
 
 const readJson = <T>(jsonPath: string): T =>
     JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
