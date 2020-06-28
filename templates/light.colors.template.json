@@ -1,11 +1,16 @@
 {
   "type": "COLOR",
-  "name":"light",
+  "name": "light",
   "extends": "base",
   "colors": {
-      "terminal.ansiGreen": "#3ab55b",
-      "terminal.ansiYellow": "#db974d",
-      "constantColor":"#4C94D6",
-      "comments":"#6a737d"
+    "terminal.ansiGreen": "#3ab55b",
+    "terminal.ansiYellow": "#db974d",
+    "constantColor": "#4C94D6",
+    "comments": "#6a737d",
+    "constantsColor": "&constantColor&",
+    "caretForeground": "#ffffff",
+    "lineNumberColor": "#aaaaaa",
+    "foregroundColorEditor": "#4D4D4A",
+    "parameterColor": "&accentColor&"
   }
 }

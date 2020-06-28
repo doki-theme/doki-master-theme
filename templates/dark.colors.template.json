@@ -1,8 +1,11 @@
 {
   "type": "COLOR",
-  "name":"dark",
+  "name": "dark",
   "extends": "base",
   "colors": {
-    "comments":"#6272a4"
+    "comments": "#6272a4",
+    "caretForeground": "#ffffff",
+    "lineNumberColor": "#666879",
+    "foregroundColorEditor": "#F8F8F2"
   }
 }
