@@ -45,6 +45,14 @@ const vimTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
     "colors": {}
 });
 
+const githubTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+    "id": dokiThemeDefinition.id,
+    "overrides": {},
+    "laf": {},
+    "syntax": {},
+    "colors": {}
+});
+
 /*********************************************************************************************/
 
 /**
@@ -61,9 +69,9 @@ function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition
 
 /**
  * You also want to change this as well
- *  jetbrains | vsCode | hyper | chrome | vim
+ *  jetbrains | vsCode | hyper | chrome | vim | github
  */
-const appName = 'vim';
+const appName = 'github';
 
 /**************************************************************************/
 
