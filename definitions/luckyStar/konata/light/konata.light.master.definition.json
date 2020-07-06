@@ -64,6 +64,11 @@
     "terminal.ansiYellow": "#ffb760",
     "terminal.ansiBlue": "#DABDFB",
     "terminal.ansiMagenta": "#F79B9E",
-    "terminal.ansiCyan": "#75D7EC"
+    "terminal.ansiCyan": "#75D7EC",
+
+    "diff.deleted": "#789AC4",
+    "diff.conflict": "#c2828a",
+    "diff.inserted": "#59A1CD",
+    "diff.modified": "#63A2FF"
   }
 }
