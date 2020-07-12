@@ -64,14 +64,14 @@ const githubTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-    return vimTemplate(dokiThemeDefinition);
+    return jetbrainsTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
  *  jetbrains | vsCode | hyper | chrome | vim | github
  */
-const appName = 'github';
+const appName = 'jetbrains';
 
 /**************************************************************************/
 
