@@ -50,6 +50,7 @@
     "htmlTagColor": "#BD84DD",
     "stringColor": "#FAF7BA",
     "keyColor": "#FF357C",
-    "keywordColor": "#BD84DD"
+    "keywordColor": "#BD84DD",
+    "diff.deleted": "#423943"
   }
 }
