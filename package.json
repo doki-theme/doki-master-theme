@@ -1,10 +1,10 @@
 {
   "name": "doki-master-theme",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "The Doki Theme",
   "main": "build/index.js",
   "repository": "https://github.com/doki-theme/doki-master-theme.git",
-  "author": "Alex Simons <alex@unthrottled.io>",
+  "author": "Alex Simons <alexsimons9999@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
