@@ -1,6 +1,6 @@
 {
   "id": "b93ab4ea-ff96-4459-8fa2-0caae5bc7116",
-  "name": "Kanna Dark",
+  "name": "Kanna",
   "displayName": "Kanna",
   "dark": true,
   "author": "Unthrottled",
@@ -33,7 +33,7 @@
     "buttonFont": "#a0a0a7",
     "foregroundColor": "#d0d0d0",
     "startColor": "#3f3c45",
-    "highlightColor": "#1f1c26",
+    "highlightColor": "#241c33",
     "disabledColor": "#6f6f6f",
     "accentColorTransparent": "#4140925A",
     "accentColorLessTransparent": "#4140929A",
@@ -56,6 +56,6 @@
     "stringColor": "#FAF7BA",
     "keyColor": "#FF357C",
     "keywordColor": "#d285fd",
-    "diff.deleted": "#404040"
+    "diff.deleted": "#2D2A36"
   }
 }
