@@ -56,6 +56,7 @@
     "stringColor": "#FAF7BA",
     "keyColor": "#FF357C",
     "keywordColor": "#d285fd",
+    "diff.inserted": "#192f24",
     "diff.deleted": "#2D2A36"
   }
 }
