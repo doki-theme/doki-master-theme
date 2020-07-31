@@ -6,7 +6,8 @@
   "author": "Unthrottled",
   "group": "Miss Kobayashi's Dragon Maid",
   "stickers": {
-    "default": "kanna_dark.png"
+    "default": "kanna_dark.png",
+    "secondary": "kanna_dark_secondary.png"
   },
   "colors": {
     "caretRow": "#20182d",
@@ -35,10 +36,10 @@
     "startColor": "#3f3c45",
     "highlightColor": "#241c33",
     "disabledColor": "#6f6f6f",
-    "accentColorTransparent": "#4140925A",
-    "accentColorLessTransparent": "#4140929A",
-    "accentColorMoreTransparent": "#4140922A",
-    "accentColor": "#414092",
+    "accentColorTransparent": "#46459e5A",
+    "accentColorLessTransparent": "#46459e9A",
+    "accentColorMoreTransparent": "#46459e2A",
+    "accentColor": "#46459e",
     "accentColorOverride": "#a363db",
     "accentColorOverrideTransparent": "#a363db5A",
     "accentColorOverrideMoreTransparent": "#a363db2A",
