@@ -55,6 +55,7 @@
     "keyColor": "#7C75EF",
     "constantColor":"#4C94D6",
     "keywordColor": "#C869A3",
-    "diff.conflict": "#FFA9BF"
+    "diff.conflict": "#FFA9BF",
+    "diff.deleted": "#EBD1DE"
   }
 }
