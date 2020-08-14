@@ -53,6 +53,16 @@ const githubTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
     "colors": {}
 });
 
+const eclipseTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+    "id": dokiThemeDefinition.id,
+    "overrides": {},
+    "laf": {},
+    "syntax": {},
+    "colors": {}
+});
+
+
+
 /*********************************************************************************************/
 
 /**
@@ -64,14 +74,14 @@ const githubTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-    return jetbrainsTemplate(dokiThemeDefinition);
+    return eclipseTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
- *  jetbrains | vsCode | hyper | chrome | vim | github
+ *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse
  */
-const appName = 'jetbrains';
+const appName = 'eclipse';
 
 /**************************************************************************/
 
