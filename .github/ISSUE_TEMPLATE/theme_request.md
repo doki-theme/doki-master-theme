@@ -1,7 +1,7 @@
 ---
 name: Theme Request
 about: Suggest a theme to be added to the suite.
-title: ''
+title: '[Theme Request] '
 labels: ''
 assignees: ''
 
