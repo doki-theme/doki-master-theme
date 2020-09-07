@@ -12,6 +12,7 @@
     "caretRow": "#543466",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#666879",
+    "infoForeground": "#a775ab",
     "completionWindowBackground": "#37323f",
     "baseIconColor": "#816b96",
     "ghostColor": "#FFFFFF00",
@@ -48,9 +49,9 @@
     "foldedTextBackground": "#402a54",
     "classNameColor": "#FF9CD6",
     "htmlTagColor": "#bca3aa",
-    "stringColor": "#f1fa8c",
+    "stringColor": "#FDEFA2",
     "keyColor": "#a475ef",
-    "keywordColor": "#bca3aa",
+    "keywordColor": "#D9329F",
     "diff.deleted": "#4E4151"
   }
 }
