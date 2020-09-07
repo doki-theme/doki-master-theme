@@ -19,6 +19,7 @@
     "nonProjectFileScopeColor": "#303638",
     "editorBackground": "#2b3238",
     "secondaryBackground": "#282f35",
+    "infoForeground": "#b13238",
     "selectionForeground": "#E2CB14",
     "inactiveBackground": "#2a272e",
     "inactiveBackgroundDarker": "#333037",

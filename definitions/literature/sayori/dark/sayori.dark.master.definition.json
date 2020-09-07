@@ -41,6 +41,7 @@
     "accentColorMoreTransparent": "#00BCD42A",
     "accentColor": "#00BCD4",
     "accentContrastColor": "#12131f",
+    "infoForeground": "#3a9fb1",
     "stopColor": "#11FFFD",
     "testScopeColor": "#122325",
     "popupMask": "#EAEAF00A",
