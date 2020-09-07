@@ -12,6 +12,7 @@
     "caretRow": "#f6f6f6",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#aaaaaa",
+    "infoForeground": "#a25252",
     "completionWindowBackground": "#e7e5ea",
     "baseIconColor": "#85838b",
     "ghostColor": "#FFFFFF00",
