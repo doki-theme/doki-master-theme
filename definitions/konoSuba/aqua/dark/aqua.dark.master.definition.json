@@ -11,7 +11,7 @@
   "colors": {
     "caretRow": "#2d3047",
     "caretForeground": "#ffffff",
-    "lineNumberColor": "#666879",
+    "lineNumberColor": "#61647b",
     "infoForeground": "#7b8bab",
     "completionWindowBackground": "#32393F",
     "baseIconColor": "#717981",
