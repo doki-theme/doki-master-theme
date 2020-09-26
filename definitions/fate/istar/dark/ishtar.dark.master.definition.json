@@ -39,7 +39,7 @@
     "accentColorMoreTransparent": "#f5c4432A",
     "accentColor": "#f5c443",
     "accentContrastColor": "#272727",
-    "infoForeground": "#974e4e",
+    "infoForeground": "#5369a1",
     "startColor": "#955413",
     "stopColor": "#fec144",
     "testScopeColor": "#091702",
@@ -47,11 +47,11 @@
     "codeBlock": "#191718",
     "searchResultBackground": "#191718",
     "textEditorBackground": "#110F10",
-    "classNameColor": "#4593f5",
-    "htmlTagColor": "#c2a924",
-    "stringColor": "#69e0f5",
-    "keyColor": "#e0474b",
-    "keywordColor": "#666f71",
+    "classNameColor": "#666f71",
+    "htmlTagColor": "#e53935",
+    "stringColor": "#a18649",
+    "keyColor": "#0f68b4",
+    "keywordColor": "#db974d",
     "diff.deleted": "#33342F"
   }
 }
