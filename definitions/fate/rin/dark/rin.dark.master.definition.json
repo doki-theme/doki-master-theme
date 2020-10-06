@@ -9,7 +9,7 @@
     "default": "rin_dark.png"
   },
   "colors": {
-    "caretRow": "#241B1D",
+    "caretRow": "#22191b",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#847878",
     "completionWindowBackground": "#2b2222",
@@ -18,7 +18,7 @@
     "contrastColor": "#312626",
     "nonProjectFileScopeColor": "#21211f",
     "editorBackground": "#161415",
-    "secondaryBackground": "#171111",
+    "secondaryBackground": "#151314",
     "selectionForeground": "#fbfbfb",
     "inactiveBackground": "#292e31",
     "inactiveBackgroundDarker": "#1e2224",
