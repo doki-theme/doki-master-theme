@@ -47,6 +47,7 @@
     "codeBlock": "#211D1E",
     "textEditorBackground": "#161415",
     "searchResultBackground": "#211D1E",
+    "unusedColor": "#3D3D42",
     "classNameColor": "#4593f5",
     "htmlTagColor": "#e0474b",
     "stringColor": "#69e0f5",
