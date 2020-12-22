@@ -2,7 +2,7 @@
   "id": "bac375a4-abb3-44d5-9bef-8039eb83fec0",
   "name": "Asuna",
   "displayName": "Asuna Dark",
-  "dark": false,
+  "dark": true,
   "author": "Unthrottled",
   "group": "Sword Art Online",
   "stickers": {
