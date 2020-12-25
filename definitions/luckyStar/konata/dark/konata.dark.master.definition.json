@@ -57,6 +57,8 @@
     "keyColor": "#fffd9b",
     "keywordColor": "#ffc9d7",
     "constantColor": "#f6be8b",
+    "comments": "#B0C0FC",
+    "unusedColor": "#A5A1A1",
 
     "terminal.ansiRed": "#FF7AB2",
     "terminal.ansiGreen": "#54ea7c",
@@ -65,9 +67,9 @@
     "terminal.ansiMagenta": "#FF91BF",
     "terminal.ansiCyan": "#6DD6EE",
 
-    "diff.deleted": "#7295C4",
-    "diff.conflict": "#c2828a",
-    "diff.inserted": "#59A1CD",
-    "diff.modified": "#63A2FF"
+    "diff.deleted": "#4F6387",
+    "diff.conflict": "#5F0A0E",
+    "diff.inserted": "#1B6D64",
+    "diff.modified": "#3C64C9"
   }
 }
