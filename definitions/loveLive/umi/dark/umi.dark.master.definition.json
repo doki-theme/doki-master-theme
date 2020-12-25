@@ -51,11 +51,11 @@
     "foldedTextBackground": "#251832",
     "textEditorBackground": "#15173c",
     "searchResultBackground": "#181a44",
-    "classNameColor": "#6AADFF",
-    "htmlTagColor": "#BD84DD",
-    "stringColor": "#FAF7BA",
-    "keyColor": "#FF357C",
-    "keywordColor": "#d285fd",
+    "classNameColor": "#78F5F0",
+    "htmlTagColor": "#FF357C",
+    "stringColor": "#FFF6B3",
+    "keyColor": "#BD84DD",
+    "keywordColor": "#58b7ff",
     "diff.inserted": "#192f24",
     "diff.deleted": "#2D2A36"
   }
