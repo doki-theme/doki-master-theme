@@ -6,8 +6,8 @@
   "author": "Unthrottled",
   "group": "Lucky Star",
   "stickers": {
-    "default": "konata_light.png",
-    "secondary": "konata_light_secondary.png"
+    "default": "konata_dark.png",
+    "secondary": "konata_dark_secondary.png"
   },
   "meta": {
     "isVivid": "true"
