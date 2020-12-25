@@ -51,11 +51,23 @@
     "codeBlock": "#3e5f99",
     "textEditorBackground": "#355082",
     "searchResultBackground": "#3b5a91",
-    "classNameColor": "#DABDFB",
-    "htmlTagColor": "#faffcb",
-    "stringColor": "#FFB6EE",
-    "keyColor": "#fffdae",
-    "keywordColor": "#fad7e1",
-    "constantColor": "#F3C49C"
+    "classNameColor": "#cda8fa",
+    "htmlTagColor": "#f4ffa2",
+    "stringColor": "#fc9ee6",
+    "keyColor": "#fffd9b",
+    "keywordColor": "#ffc9d7",
+    "constantColor": "#f6be8b",
+
+    "terminal.ansiRed": "#FF7AB2",
+    "terminal.ansiGreen": "#54ea7c",
+    "terminal.ansiYellow": "#fdaa39",
+    "terminal.ansiBlue": "#B39AFF",
+    "terminal.ansiMagenta": "#FF91BF",
+    "terminal.ansiCyan": "#6DD6EE",
+
+    "diff.deleted": "#7295C4",
+    "diff.conflict": "#c2828a",
+    "diff.inserted": "#59A1CD",
+    "diff.modified": "#63A2FF"
   }
 }
