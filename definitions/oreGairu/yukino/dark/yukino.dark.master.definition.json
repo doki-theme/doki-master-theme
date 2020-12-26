@@ -8,6 +8,13 @@
   "stickers": {
     "default": "yukino_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#84D0FF"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#23252a",
     "caretForeground": "#ffffff",

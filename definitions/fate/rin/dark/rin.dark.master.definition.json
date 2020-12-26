@@ -8,6 +8,14 @@
   "stickers": {
     "default": "rin_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#68a8cb",
+        "startColor": "#68ee75"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#22191b",
     "caretForeground": "#ffffff",

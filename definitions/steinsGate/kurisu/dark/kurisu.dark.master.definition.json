@@ -8,6 +8,13 @@
   "stickers": {
     "default": "kurisu_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#DEC4AA"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#210e0f",
     "caretForeground": "#ffffff",

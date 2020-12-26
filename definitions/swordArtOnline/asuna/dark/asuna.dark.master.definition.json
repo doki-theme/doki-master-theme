@@ -8,6 +8,13 @@
   "stickers": {
     "default": "asuna_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#e0474b"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#1f1f1f",
     "caretForeground": "#ffffff",

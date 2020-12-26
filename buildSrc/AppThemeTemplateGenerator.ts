@@ -13,11 +13,7 @@ const jetbrainsTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
         "type": "template",
         "name": dokiThemeDefinition.dark ? "Doki Dark" : "Doki Light"
     },
-    "overrides": {
-        "editorScheme": {
-            "colors": {}
-        }
-    },
+    "overrides": {},
     "ui": {}
 });
 

@@ -8,6 +8,13 @@
   "stickers": {
     "default": "emilia_light.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#90468c"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#f1dcf7",
     "caretForeground": "#ffffff",

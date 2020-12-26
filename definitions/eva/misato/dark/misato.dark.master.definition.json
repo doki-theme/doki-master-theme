@@ -9,6 +9,14 @@
   "stickers": {
     "default": "misato_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#42E66C",
+        "startColor": "#ff7400"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#402d41",
     "ghostColor": "#FFFFFF00",

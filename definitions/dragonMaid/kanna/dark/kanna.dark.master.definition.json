@@ -9,6 +9,16 @@
     "default": "kanna_dark.png",
     "secondary": "kanna_dark_secondary.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#69ecf5",
+        "startColor": "#ff69df",
+        "nonProjectFileScopeColor": "#221d29",
+        "testScopeColor": "#232c31"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#231a31",
     "caretForeground": "#ffffff",

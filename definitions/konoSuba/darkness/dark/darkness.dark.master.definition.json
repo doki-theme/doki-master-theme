@@ -8,6 +8,14 @@
   "stickers": {
     "default": "darkness_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#f4fa8c",
+        "startColor": "#bb68ee"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#14110d",
     "caretForeground": "#ffffff",

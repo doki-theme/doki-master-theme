@@ -12,6 +12,14 @@
   "meta": {
     "isVivid": "true"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#60ff62",
+        "startColor": "#60ff62"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#3d5d96",
     "caretForeground": "#ffffff",

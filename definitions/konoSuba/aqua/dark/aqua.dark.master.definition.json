@@ -8,6 +8,13 @@
   "stickers": {
     "default": "aqua_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "startColor": "#00c69a"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#2d3047",
     "caretForeground": "#ffffff",

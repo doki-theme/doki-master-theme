@@ -8,6 +8,16 @@
   "stickers": {
     "default": "ram.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#a87ff8",
+        "startColor": "#e565ee",
+        "nonProjectFileScopeColor": "#343635",
+        "testScopeColor": "#2f393a"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#353139",
     "caretForeground": "#ffffff",
