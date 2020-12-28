@@ -17,6 +17,7 @@
     }
   },
   "colors": {
+    "comments": "#41495A",
     "caretRow": "#1a171c",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#6f7779",
