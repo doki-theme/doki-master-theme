@@ -76,8 +76,8 @@
     "terminal.ansiCyan": "#6DD6EE",
 
     "diff.deleted": "#4F6387",
-    "diff.conflict": "#5F0A0E",
-    "diff.inserted": "#1B6D64",
+    "diff.conflict": "#554069",
+    "diff.inserted": "#1E6168",
     "diff.modified": "#3C64C9"
   }
 }
