@@ -16,7 +16,7 @@
     }
   },
   "colors": {
-    "caretRow": "#171943",
+    "caretRow": "#181A46",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#5e5e79",
     "completionWindowBackground": "#24222b",
@@ -57,7 +57,7 @@
     "codeBlock": "#181a47",
     "foldedTextBackground": "#251832",
     "textEditorBackground": "#15173c",
-    "searchResultBackground": "#181a44",
+    "searchResultBackground": "#191B4B",
     "unusedColor": "#3D3D42",
     "classNameColor": "#78F5F0",
     "htmlTagColor": "#FF357C",
