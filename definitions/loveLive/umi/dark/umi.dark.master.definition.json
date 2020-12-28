@@ -8,6 +8,13 @@
   "stickers": {
     "default": "umi_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "startColor": "#e4ff10"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#171943",
     "caretForeground": "#ffffff",
@@ -26,10 +33,10 @@
     "baseBackground": "#15173e",
     "borderColor": "#1c1f50",
     "buttonColor": "#202440",
-    "selectionInactive": "#23264f",
+    "selectionInactive": "#202649",
     "tagColor": "#7a7a7a",
-    "selectionBackground": "#202649",
-    "selectionBackgroundTransparent": "#202649AA",
+    "selectionBackground": "#23264f",
+    "selectionBackgroundTransparent": "#23264fAA",
     "buttonFont": "#a0a0a7",
     "foregroundColor": "#d0d0d0",
     "startColor": "#3f3c45",
@@ -51,6 +58,7 @@
     "foldedTextBackground": "#251832",
     "textEditorBackground": "#15173c",
     "searchResultBackground": "#181a44",
+    "unusedColor": "#3D3D42",
     "classNameColor": "#78F5F0",
     "htmlTagColor": "#FF357C",
     "stringColor": "#FFF6B3",
