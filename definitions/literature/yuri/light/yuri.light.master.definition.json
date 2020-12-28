@@ -9,6 +9,13 @@
     "default": "yuri.png",
     "secondary": "yuri_joy.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#90468c"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#e4dcf7",
     "caretForeground": "#ffffff",

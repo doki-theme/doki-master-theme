@@ -1,0 +1,68 @@
+{
+  "id": "bac375a4-abb3-44d5-9bef-8039eb83fec0",
+  "name": "Asuna Dark",
+  "displayName": "Asuna",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Sword Art Online",
+  "stickers": {
+    "default": "asuna_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#e0474b",
+        "startColor": "#e4ff10"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#41495A",
+    "caretRow": "#1f1f1f",
+    "caretForeground": "#ffffff",
+    "lineNumberColor": "#5d5051",
+    "infoForeground": "#7a3f41",
+    "completionWindowBackground": "#302c2f",
+    "baseIconColor": "#766A6B",
+    "ghostColor": "#FFFFFF00",
+    "contrastColor": "#331d22",
+    "nonProjectFileScopeColor": "#20221c",
+    "editorBackground": "#1b1b1b",
+    "secondaryBackground": "#1c1c1c",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#2a272e",
+    "inactiveBackgroundDarker": "#333037",
+    "headerColor": "#1e1e1e",
+    "baseBackground": "#202020",
+    "borderColor": "#2a2929",
+    "buttonColor": "#272524",
+    "selectionInactive": "#222222",
+    "tagColor": "#7A7A7A",
+    "selectionBackground": "#391717",
+    "selectionBackgroundTransparent": "#391717AA",
+    "buttonFont": "#998c92",
+    "foregroundColor": "#bbbbbb",
+    "startColor": "#4a4a4a",
+    "highlightColor": "#282828",
+    "disabledColor": "#6f606b",
+    "accentColorTransparent": "#99202c5A",
+    "accentColorLessTransparent": "#99202c9A",
+    "accentColorMoreTransparent": "#99202c2A",
+    "accentColor": "#99202c",
+    "accentContrastColor": "#271c21",
+    "stopColor": "#ab2228",
+    "testScopeColor": "#1d231d",
+    "popupMask": "#EAEAF005",
+    "codeBlock": "#232323",
+    "unusedColor": "#3D3D42",
+    "textEditorBackground": "#1b1b1b",
+    "searchResultBackground": "#212121",
+    "classNameColor": "#db974d",
+    "htmlTagColor": "#e53935",
+    "stringColor": "#f5cc5a",
+    "keyColor": "#3B82BD",
+    "keywordColor": "#988F9A",
+    "diff.deleted": "#404245",
+    "diff.inserted": "#1B3B1C"
+  }
+}

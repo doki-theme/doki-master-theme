@@ -10,6 +10,15 @@
     "secondary": "yuri_dark_normal.png",
     "normal": "yuri_dark_normal.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "testScopeColor": "#3a4258",
+        "startColor": "#BC60CB",
+        "accentColor": "#BC60CB"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#473466",
     "caretForeground": "#ffffff",

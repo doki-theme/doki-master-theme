@@ -1,0 +1,70 @@
+{
+  "id": "2d1112ac-04ab-4f78-82c4-22e5e2c1754b",
+  "name": "Sonoda Umi",
+  "displayName": "Umi",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Love Live",
+  "stickers": {
+    "default": "umi_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "startColor": "#e4ff10"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#181A46",
+    "caretForeground": "#ffffff",
+    "lineNumberColor": "#5e5e79",
+    "completionWindowBackground": "#24222b",
+    "baseIconColor": "#656d82",
+    "ghostColor": "#FFFFFF00",
+    "contrastColor": "#665543",
+    "nonProjectFileScopeColor": "#252540",
+    "editorBackground": "#15173c",
+    "secondaryBackground": "#151739",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#2a2931",
+    "inactiveBackgroundDarker": "#1f1e24",
+    "headerColor": "#191b44",
+    "baseBackground": "#15173e",
+    "borderColor": "#1c1f50",
+    "buttonColor": "#202440",
+    "selectionInactive": "#202649",
+    "tagColor": "#7a7a7a",
+    "selectionBackground": "#23264f",
+    "selectionBackgroundTransparent": "#23264fAA",
+    "buttonFont": "#a0a0a7",
+    "foregroundColor": "#d0d0d0",
+    "startColor": "#3f3c45",
+    "highlightColor": "#1e214b",
+    "disabledColor": "#6f6f6f",
+    "accentColorTransparent": "#EFA5545A",
+    "accentColorLessTransparent": "#EFA5549A",
+    "accentColorMoreTransparent": "#EFA5542A",
+    "accentColor": "#EFA554",
+    "accentColorOverride": "#5e4ba0",
+    "accentColorOverrideTransparent": "#5e4ba05A",
+    "accentColorOverrideMoreTransparent": "#5e4ba02A",
+    "accentContrastColor": "#272727",
+    "infoForeground": "#6878c2",
+    "stopColor": "#344acb",
+    "testScopeColor": "#172741",
+    "popupMask": "#8d7fc109",
+    "codeBlock": "#181a47",
+    "foldedTextBackground": "#251832",
+    "textEditorBackground": "#15173c",
+    "searchResultBackground": "#191B4B",
+    "unusedColor": "#3D3D42",
+    "classNameColor": "#78F5F0",
+    "htmlTagColor": "#FF357C",
+    "stringColor": "#FFF6B3",
+    "keyColor": "#BD84DD",
+    "keywordColor": "#58b7ff",
+    "diff.inserted": "#192f24",
+    "diff.deleted": "#2D2A36"
+  }
+}

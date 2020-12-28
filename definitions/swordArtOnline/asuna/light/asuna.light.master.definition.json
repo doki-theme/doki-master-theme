@@ -1,12 +1,19 @@
 {
   "id": "546e8fb8-6082-4ef5-a5e3-44790686f02f",
-  "name": "Asuna",
+  "name": "Asuna Light",
   "displayName": "Asuna",
   "dark": false,
   "author": "Unthrottled",
   "group": "Sword Art Online",
   "stickers": {
     "default": "asuna_light.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#212121"
+      }
+    }
   },
   "colors": {
     "caretRow": "#f6f6f6",

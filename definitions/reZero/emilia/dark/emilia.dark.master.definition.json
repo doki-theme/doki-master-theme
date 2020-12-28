@@ -8,6 +8,15 @@
   "stickers": {
     "default": "emilia_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "testScopeColor": "#3a4258",
+        "accentColor": "#BC60CB",
+        "startColor": "#DADADA"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#543466",
     "caretForeground": "#ffffff",

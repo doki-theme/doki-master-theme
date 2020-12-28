@@ -8,6 +8,14 @@
   "stickers": {
     "default": "ryuko.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#e4ff10",
+        "startColor": "#e4ff10"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#2a3037",
     "caretForeground": "#ffffff",

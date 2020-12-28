@@ -8,6 +8,13 @@
   "stickers": {
     "default": "rory_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "startColor": "#ee2726"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#1a1a1d",
     "caretForeground": "#ffffff",

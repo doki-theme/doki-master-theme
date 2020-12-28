@@ -8,6 +8,16 @@
   "stickers": {
     "default": "ibuki_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#ff69df",
+        "startColor": "#68c4ee",
+        "nonProjectFileScopeColor": "#343635",
+        "testScopeColor": "#2f393a"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#222526",
     "caretForeground": "#ffffff",

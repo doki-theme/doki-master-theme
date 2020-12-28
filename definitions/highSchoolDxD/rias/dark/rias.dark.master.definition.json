@@ -8,6 +8,14 @@
   "stickers": {
     "default": "rias_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#fbf96e",
+        "startColor": "#e03392"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#491818",
     "caretForeground": "#ffffff",

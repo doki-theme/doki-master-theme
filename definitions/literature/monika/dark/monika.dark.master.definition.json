@@ -10,6 +10,13 @@
     "secondary": "just_monika_dark_joy.png",
     "normal": "just_monika_dark_normal.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "testScopeColor": "#222d10"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#292D1F",
     "caretForeground": "#ffffff",

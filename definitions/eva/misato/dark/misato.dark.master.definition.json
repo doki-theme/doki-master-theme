@@ -1,6 +1,6 @@
 {
   "id": "8e8773ee-4bbb-4812-b311-005f04f6bb20",
-  "name": "Misato Katsuragi",
+  "name": "Katsuragi Misato",
   "displayName": "Misato",
   "dark": true,
   "author": "Unthrottled",
@@ -8,6 +8,14 @@
   "product": "community",
   "stickers": {
     "default": "misato_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#42E66C",
+        "startColor": "#ff7400"
+      }
+    }
   },
   "colors": {
     "caretRow": "#402d41",

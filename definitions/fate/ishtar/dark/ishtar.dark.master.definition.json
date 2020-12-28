@@ -8,6 +8,13 @@
   "stickers": {
     "default": "ishtar_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "startColor": "#e0474b"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#1A1913",
     "caretForeground": "#ffffff",
