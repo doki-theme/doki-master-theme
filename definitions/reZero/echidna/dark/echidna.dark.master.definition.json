@@ -8,6 +8,14 @@
   "stickers": {
     "default": "echidna_dark.png"
   },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#7ceec8",
+        "startColor": "#E356A7"
+      }
+    }
+  },
   "colors": {
     "caretRow": "#1a171c",
     "caretForeground": "#ffffff",
@@ -47,12 +55,14 @@
     "codeBlock": "#1e1b20",
     "textEditorBackground": "#121014",
     "searchResultBackground": "#1b181d",
-    "classNameColor": "#8daeef",
-    "htmlTagColor": "#a28a92",
+    "unusedColor": "#3D3D42",
+    "classNameColor": "#EFA554",
+    "htmlTagColor": "#8daeef",
     "stringColor": "#f4fa8c",
-    "keyColor": "#5ea7ff",
+    "keyColor": "#BD93F9",
     "keywordColor": "#8b8b8b",
     "diff.deleted": "#262626",
+    "diff.conflict": "#391B1B",
     "diff.inserted": "#142F14"
   }
 }
