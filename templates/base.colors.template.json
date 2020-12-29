@@ -4,7 +4,7 @@
   "colors": {
     "constantColor":"#86dbfd",
     "parameterColor":"#FFB86C",
-    "commentColor": "#6272A4",
+    "comments": "#6272A4",
     "errorColor": "#ff5555",
     "terminal.ansiRed": "#E356A7",
     "terminal.ansiGreen": "#42E66C",
