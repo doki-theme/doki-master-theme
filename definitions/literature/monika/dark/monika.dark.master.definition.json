@@ -13,7 +13,8 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "testScopeColor": "#222d10"
+        "testScopeColor": "#222d10",
+        "borderColor": "#1A1E12"
       }
     }
   },
