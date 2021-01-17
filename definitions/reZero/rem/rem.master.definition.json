@@ -14,7 +14,8 @@
         "accentColor": "#a87ff8",
         "startColor": "#688dee",
         "nonProjectFileScopeColor": "#343635",
-        "testScopeColor": "#2f393a"
+        "testScopeColor": "#2f393a",
+        "borderColor": "#292A30"
       }
     }
   },
@@ -54,7 +55,7 @@
     "stopColor": "#688dee",
     "testScopeColor": "#2c3436",
     "popupMask": "#EAEAF00A",
-    "codeBlock": "#292e34",
+    "codeBlock": "#2b2c32",
     "textEditorBackground": "#2f3036",
     "searchResultBackground": "#272e34",
     "classNameColor": "#8dc6ef",
