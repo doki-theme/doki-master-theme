@@ -74,14 +74,14 @@ const eclipseTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-  return hyperTemplate(dokiThemeDefinition);
+  return jetbrainsTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
  *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse
  */
-const appName = 'hyper';
+const appName = 'jetbrains';
 
 /**************************************************************************/
 
