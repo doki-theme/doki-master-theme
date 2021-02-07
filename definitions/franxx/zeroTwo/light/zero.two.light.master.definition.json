@@ -11,7 +11,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#212121"
+        "accentColor": "#E356A7"
       }
     }
   },
@@ -19,7 +19,7 @@
     "caretRow": "#f6f6f6",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#aaaaaa",
-    "infoForeground": "#a25252",
+    "infoForeground": "#5282a2",
     "completionWindowBackground": "#e7e5ea",
     "baseIconColor": "#85838b",
     "ghostColor": "#FFFFFF00",
@@ -30,10 +30,10 @@
     "selectionForeground": "#393d45",
     "inactiveBackground": "#eee4e4",
     "inactiveBackgroundDarker": "#ede1e1",
-    "headerColor": "#fdfdfd",
-    "baseBackground": "#ffffff",
+    "headerColor": "#fafafa",
+    "baseBackground": "#fcfcfc",
     "borderColor": "#eeeeee",
-    "buttonColor": "#f9f2f2",
+    "buttonColor": "#eff5f9",
     "selectionInactive": "#fff4f4",
     "tagColor": "#7A7A7A",
     "selectionBackground": "#e9b4b8",
@@ -41,23 +41,27 @@
     "buttonFont": "#252427",
     "foregroundColor": "#252427",
     "startColor": "#a01618",
-    "highlightColor": "#fff1f5",
+    "highlightColor": "#f1f9ff",
     "disabledColor": "#A2B6CB",
     "accentColorTransparent": "#a61d0d5A",
     "accentColorLessTransparent": "#a61d0d9A",
     "accentColorMoreTransparent": "#a61d0d2A",
     "accentColor": "#a61d0d",
+    "accentColorOverrideTransparent": "#009CEC5A",
+    "accentColorOverrideLessTransparent": "#009CEC9A",
+    "accentColorOverrideMoreTransparent": "#009CEC2A",
+    "accentColorOverride": "#009CEC",
     "stopColor": "#ec081e",
     "testScopeColor": "#ecfded",
     "popupMask": "#e7e6eb05",
     "codeBlock": "#f6f6f6",
     "textEditorBackground": "#fcfcfc",
     "searchResultBackground": "#f6f6f6",
-    "classNameColor": "#db974d",
-    "htmlTagColor": "#e53935",
-    "stringColor": "#a61d0d",
-    "keyColor": "#0d5fa6",
-    "keywordColor": "#a61d0d",
-    "constantColor": "#4C94D6"
+    "classNameColor": "#117aa6",
+    "htmlTagColor": "#E356A7",
+    "stringColor": "#131313",
+    "keyColor": "#a61d0d",
+    "keywordColor": "#0da661",
+    "constantColor": "#0d5fa6"
   }
 }
