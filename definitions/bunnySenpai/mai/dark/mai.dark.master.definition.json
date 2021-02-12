@@ -6,7 +6,8 @@
   "author": "Unthrottled",
   "group": "Bunny Senpai",
   "stickers": {
-    "default": "mai_dark.png"
+    "default": "mai_dark.png",
+    "secondary": "mai_dark_spicy.png"
   },
   "overrides": {
     "editorScheme": {
