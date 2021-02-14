@@ -1,0 +1,67 @@
+{
+  "id": "4fd5cb34-d36e-4a3c-8639-052b19b26ba1",
+  "name": "Zero Two Light",
+  "displayName": "Zero Two",
+  "dark": false,
+  "author": "Unthrottled",
+  "group": "Darling in the Franxx",
+  "stickers": {
+    "default": "zero_two_light.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#E356A7"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#f6f6f6",
+    "caretForeground": "#ffffff",
+    "lineNumberColor": "#aaaaaa",
+    "infoForeground": "#5282a2",
+    "completionWindowBackground": "#e7e5ea",
+    "baseIconColor": "#85838b",
+    "ghostColor": "#FFFFFF00",
+    "contrastColor": "#f6d5dc",
+    "nonProjectFileScopeColor": "#fbf4e3",
+    "editorBackground": "#fcfcfc",
+    "secondaryBackground": "#fcfcfc",
+    "selectionForeground": "#393d45",
+    "inactiveBackground": "#eee4e4",
+    "inactiveBackgroundDarker": "#ede1e1",
+    "headerColor": "#fafafa",
+    "baseBackground": "#fcfcfc",
+    "borderColor": "#eeeeee",
+    "buttonColor": "#f0f0f0",
+    "selectionInactive": "#fff4f4",
+    "tagColor": "#7A7A7A",
+    "selectionBackground": "#e9b4b8",
+    "selectionBackgroundTransparent": "#e9b4b833",
+    "buttonFont": "#252427",
+    "foregroundColor": "#252427",
+    "startColor": "#a01618",
+    "highlightColor": "#f1f9ff",
+    "disabledColor": "#A2B6CB",
+    "accentColorTransparent": "#a61d0d5A",
+    "accentColorLessTransparent": "#a61d0d9A",
+    "accentColorMoreTransparent": "#a61d0d2A",
+    "accentColor": "#a61d0d",
+    "accentColorOverrideTransparent": "#009CEC5A",
+    "accentColorOverrideLessTransparent": "#009CEC9A",
+    "accentColorOverrideMoreTransparent": "#009CEC2A",
+    "accentColorOverride": "#009CEC",
+    "stopColor": "#ec081e",
+    "testScopeColor": "#ecfded",
+    "popupMask": "#e7e6eb05",
+    "codeBlock": "#f6f6f6",
+    "textEditorBackground": "#fcfcfc",
+    "searchResultBackground": "#f6f6f6",
+    "classNameColor": "#117aa6",
+    "htmlTagColor": "#E356A7",
+    "stringColor": "#131313",
+    "keyColor": "#a61d0d",
+    "keywordColor": "#0da661",
+    "constantColor": "#0d5fa6"
+  }
+}

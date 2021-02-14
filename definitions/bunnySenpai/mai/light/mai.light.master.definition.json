@@ -1,0 +1,65 @@
+{
+  "id": "98878c8e-9f91-4e25-930d-dd7d280d9e35",
+  "name": "Mai Light",
+  "displayName": "Mai",
+  "dark": false,
+  "author": "Unthrottled",
+  "group": "Bunny Senpai",
+  "stickers": {
+    "default": "mai_light.png",
+    "secondary": "mai_light_spicy.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#90468c"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#f1ecf2",
+    "caretForeground": "#ffffff",
+    "lineNumberColor": "#aaaaaa",
+    "infoForeground": "#6564ac",
+    "baseIconColor": "#85838b",
+    "ghostColor": "#FFFFFF00",
+    "contrastColor": "#cfd1f6",
+    "nonProjectFileScopeColor": "#fef8e7",
+    "editorBackground": "#FAF2F1",
+    "secondaryBackground": "#f8efee",
+    "selectionForeground": "#393d45",
+    "inactiveBackground": "#E4E4EE",
+    "inactiveBackgroundDarker": "#E1E2ED",
+    "headerColor": "#fff7f6",
+    "baseBackground": "#fbf3f2",
+    "borderColor": "#e6d8d7",
+    "buttonColor": "#d7dcf1",
+    "selectionInactive": "#f1ecf2",
+    "tagColor": "#7A7A7A",
+    "selectionBackground": "#a0a5d2",
+    "selectionBackgroundTransparent": "#a0a5d233",
+    "buttonFont": "#4c4a4f",
+    "foregroundColor": "#252427",
+    "startColor": "#3b3e6d",
+    "highlightColor": "#ede5e4",
+    "disabledColor": "#a2accb",
+    "accentColorTransparent": "#4f52875A",
+    "accentColorLessTransparent": "#4f52879A",
+    "accentColorMoreTransparent": "#4f52872A",
+    "accentColor": "#4f5287",
+    "stopColor": "#aba9dd",
+    "testScopeColor": "#f3f9ed",
+    "comments": "#64757d",
+    "popupMask": "#FAF2F150",
+    "codeBlock": "#eaecf6",
+    "textEditorBackground": "#FAF2F1",
+    "searchResultBackground": "#f0e8e7",
+    "classNameColor": "#4f5287",
+    "htmlTagColor": "#7B6970",
+    "stringColor": "#d27f2d",
+    "keyColor": "#C869A3",
+    "constantColor":"#4C94D6",
+    "keywordColor": "#7C75EF",
+    "diff.deleted": "#E9E3E7"
+  }
+}
