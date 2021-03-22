@@ -11,8 +11,8 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#68a8cb",
-        "startColor": "#68ee75"
+        "accentColor": "#efa554",
+        "startColor": "#ee484a"
       }
     }
   },
@@ -49,18 +49,20 @@
     "accentColor": "#d58d9c",
     "accentContrastColor": "#19181e",
     "infoForeground": "#957a4d",
-    "stopColor": "#ee2726",
+    "stopColor": "#eecc4b",
     "testScopeColor": "#172215",
     "popupMask": "#928d8d05",
-    "codeBlock": "#211D1E",
+    "codeBlock": "#201d1d",
     "textEditorBackground": "#1a1c19",
     "searchResultBackground": "#211D1E",
+    "errorColor": "#f44747",
     "unusedColor": "#3D3D42",
-    "classNameColor": "#EFA554",
-    "htmlTagColor": "#e0474b",
-    "stringColor": "#69e0f5",
-    "keyColor": "#e0474b",
-    "keywordColor": "#666f71",
+    "constantColor": "#a7a0d1",
+    "classNameColor": "#f5c9fc",
+    "htmlTagColor": "#e87bc3",
+    "stringColor": "#e06c75",
+    "keyColor": "#f6ebb7",
+    "keywordColor": "#d776ae",
     "diff.modified": "#1A233D",
     "diff.inserted": "#142D14",
     "diff.conflict": "#422121",
