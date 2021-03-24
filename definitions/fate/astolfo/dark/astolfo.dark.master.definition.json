@@ -12,7 +12,7 @@
     "editorScheme": {
       "colors": {
         "accentColor": "#efa554",
-        "startColor": "#ee484a"
+        "startColor": "#E356A7"
       }
     }
   },
@@ -55,12 +55,12 @@
     "codeBlock": "#201d1d",
     "textEditorBackground": "#1a1c19",
     "searchResultBackground": "#211D1E",
-    "errorColor": "#f44747",
+    "errorColor": "#ff2525",
     "unusedColor": "#3D3D42",
     "constantColor": "#a7a0d1",
     "classNameColor": "#f5c9fc",
     "htmlTagColor": "#e87bc3",
-    "stringColor": "#e06c75",
+    "stringColor": "#cd5257",
     "keyColor": "#f6ebb7",
     "keywordColor": "#d776ae",
     "diff.modified": "#1A233D",
