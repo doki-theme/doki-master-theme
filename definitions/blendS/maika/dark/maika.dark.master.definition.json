@@ -17,7 +17,7 @@
     }
   },
   "colors": {
-    "caretRow": "#1f0528",
+    "caretRow": "#2e0639",
     "caretForeground": "#ffffff",
     "lineNumberColor": "#70677b",
     "infoForeground": "#79b7c1",
@@ -26,7 +26,7 @@
     "ghostColor": "#FFFFFF00",
     "contrastColor": "#331c40",
     "nonProjectFileScopeColor": "#221228",
-    "editorBackground": "#371d44",
+    "editorBackground": "#24062f",
     "secondaryBackground": "#260633",
     "selectionForeground": "#fbfbfb",
     "inactiveBackground": "#2a272e",
