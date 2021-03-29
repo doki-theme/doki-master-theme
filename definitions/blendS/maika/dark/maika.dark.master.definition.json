@@ -6,8 +6,7 @@
   "author": "Unthrottled",
   "group": "Blend S",
   "stickers": {
-    "default": "maika_dark.png",
-    "secondary": "maika_dark_sadistic.png"
+    "default": "maika_dark.png"
   },
   "overrides": {
     "editorScheme": {
