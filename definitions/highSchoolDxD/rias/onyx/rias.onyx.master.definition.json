@@ -1,0 +1,71 @@
+{
+  "id": "ea9a13f6-fa7f-46a4-ba6e-6cefe1f55160",
+  "name": "Rias: Onyx",
+  "displayName": "Rias",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "High School DxD",
+  "stickers": {
+    "default": "rias_onyx.png",
+    "secondary": "rias_onyx_spicy.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#C04750",
+        "startColor": "#e03392"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#1e0607",
+    "caretForeground": "#ffffff",
+    "lineNumberColor": "#97706f",
+    "infoForeground": "#6e2727",
+    "completionWindowBackground": "#32393F",
+    "baseIconColor": "#795b5e",
+    "ghostColor": "#FFFFFF00",
+    "contrastColor": "#1e0809",
+    "nonProjectFileScopeColor": "#130700",
+    "editorBackground": "#070000",
+    "secondaryBackground": "#1c0607",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#2a272e",
+    "inactiveBackgroundDarker": "#333037",
+    "headerColor": "#100000",
+    "baseBackground": "#130000",
+    "borderColor": "#220000",
+    "buttonColor": "#2b0808",
+    "selectionInactive": "#220708",
+    "tagColor": "#7A7A7A",
+    "selectionBackground": "#390c10",
+    "selectionBackgroundTransparent": "#390c10aa",
+    "buttonFont": "#996b6b",
+    "foregroundColor": "#d8d8d8",
+    "startColor": "#491b1b",
+    "highlightColor": "#2e090b",
+    "disabledColor": "#584445",
+    "accentColorTransparent": "#7C171F5A",
+    "accentColorLessTransparent": "#7C171F9A",
+    "accentColorMoreTransparent": "#7C171F2A",
+    "accentColor": "#7C171F",
+    "accentContrastColor": "#3f3d42",
+    "stopColor": "#9a101f",
+    "testScopeColor": "#0f0a00",
+    "popupMask": "#EAEAF005",
+    "codeBlock": "#1d0406",
+    "textEditorBackground": "#100000",
+    "searchResultBackground": "#280a0b",
+    "comments": "#694f4d",
+    "constantColor": "#E356A7",
+    "classNameColor": "#5a84dd",
+    "htmlTagColor": "#6297a2",
+    "stringColor": "#F6E3CC",
+    "keyColor": "#b2dbe3",
+    "keywordColor": "#27c0b4",
+    "diff.deleted": "#1c1214",
+    "diff.conflict": "#471316",
+    "diff.inserted": "#0c230b",
+    "diff.modified": "#121e31"
+  }
+}

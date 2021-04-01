@@ -1,0 +1,72 @@
+{
+  "id": "c262185d-9682-413b-9143-85a2dda76b2f",
+  "name": "Rei",
+  "displayName": "Rei",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Evangelion",
+  "product": "community",
+  "stickers": {
+    "default": "rei_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#ef596f",
+        "startColor": "#ff7400"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#1f2125",
+    "ghostColor": "#FFFFFF00",
+    "lineNumberColor": "#666879",
+    "contrastColor": "#1b2a19",
+    "nonProjectFileScopeColor": "#191a13",
+    "editorBackground": "#191b1f",
+    "secondaryBackground": "#191b1a",
+    "selectionForeground": "#ffffff",
+    "inactiveBackground": "#49434c",
+    "inactiveBackgroundDarker": "#3c373f",
+    "headerColor": "#131514",
+    "baseBackground": "#171918",
+    "borderColor": "#1e211f",
+    "buttonColor": "#212122",
+    "selectionInactive": "#18242d",
+    "tagColor": "#7A7A7A",
+    "selectionBackground": "#25435a",
+    "selectionBackgroundTransparent": "#25435a55",
+    "buttonFont": "#bbbbbb",
+    "foregroundColor": "#d2d2d2",
+    "startColor": "#383838",
+    "highlightColor": "#242626",
+    "disabledColor": "#526f69",
+    "accentColorTransparent": "#b532415A",
+    "accentColorLessTransparent": "#b532419A",
+    "accentColorMoreTransparent": "#b532412A",
+    "accentColor": "#b53241",
+    "accentColorOverrideTransparent": "#3E97655A",
+    "accentColorOverrideLessTransparent": "#3E97659A",
+    "accentColorOverrideMoreTransparent": "#3E97652A",
+    "accentColorOverride": "#3E9765",
+    "accentContrastColor": "#362839",
+    "stopColor": "#00e389",
+    "testScopeColor": "#131d13",
+    "popupMask": "#EAEAF009",
+    "infoForeground": "#7da1c2",
+    "baseIconColor": "#76857d",
+    "codeBlock": "#1b242e",
+    "textEditorBackground": "#191b1f",
+    "searchResultBackground": "#232529",
+    "errorColor": "#f44747",
+    "unusedColor": "#3D3D42",
+    "classNameColor": "#6AADFF",
+    "htmlTagColor": "#89c0d9",
+    "stringColor": "#F6E3CC",
+    "keyColor": "#45e68a",
+    "keywordColor": "#788a8b",
+    "diff.deleted": "#262626",
+    "diff.inserted": "#142F14",
+    "diff.conflict": "#422121"
+  }
+}

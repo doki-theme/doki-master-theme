@@ -84,14 +84,14 @@ const jupyterTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
  * @param dokiThemeDefinition
  */
 function buildApplicationTemplate(dokiThemeDefinition: MasterDokiThemeDefinition) {
-  return jupyterTemplate(dokiThemeDefinition);
+  return jetbrainsTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
  *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter
  */
-const appName = 'jupyter';
+const appName = 'jetbrains';
 
 /**************************************************************************/
 

@@ -1,0 +1,69 @@
+{
+  "id": "6106e529-efef-444d-9db0-a9b0b444cf1b",
+  "name": "Maika",
+  "displayName": "Maika",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Blend S",
+  "stickers": {
+    "default": "maika_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#55daff",
+        "startColor": "#6e50f5"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#2e0639",
+    "caretForeground": "#ffffff",
+    "lineNumberColor": "#70677b",
+    "infoForeground": "#79b7c1",
+    "completionWindowBackground": "#32393F",
+    "baseIconColor": "#6d627b",
+    "ghostColor": "#FFFFFF00",
+    "contrastColor": "#331c40",
+    "nonProjectFileScopeColor": "#221228",
+    "editorBackground": "#24062f",
+    "secondaryBackground": "#260633",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#2a272e",
+    "inactiveBackgroundDarker": "#333037",
+    "headerColor": "#20052a",
+    "baseBackground": "#24062f",
+    "borderColor": "#341140",
+    "buttonColor": "#2e1738",
+    "selectionInactive": "#2e0a37",
+    "tagColor": "#7A7A7A",
+    "selectionBackground": "#3d1535",
+    "selectionBackgroundTransparent": "#3d1535AA",
+    "buttonFont": "#876e9c",
+    "foregroundColor": "#c9c9c9",
+    "startColor": "#444b59",
+    "highlightColor": "#300542",
+    "disabledColor": "#5c4e68",
+    "accentColorTransparent": "#bc5d715A",
+    "accentColorLessTransparent": "#bc5d719A",
+    "accentColorMoreTransparent": "#bc5d712A",
+    "accentColor": "#bc5d71",
+    "accentContrastColor": "#271c21",
+    "stopColor": "#5335d2",
+    "testScopeColor": "#1e1028",
+    "popupMask": "#EAEAF005",
+    "codeBlock": "#2a0930",
+    "textEditorBackground": "#24062f",
+    "searchResultBackground": "#310e32",
+    "comments": "#7d62a4",
+    "classNameColor": "#50cefb",
+    "htmlTagColor": "#8f8bff",
+    "stringColor": "#e09cf3",
+    "keyColor": "#f6e7ba",
+    "keywordColor": "#e42b54",
+    "diff.added": "#111D11",
+    "diff.changed": "#0D2339",
+    "diff.conflict": "#451323",
+    "diff.deleted": "#1C1B23"
+  }
+}
