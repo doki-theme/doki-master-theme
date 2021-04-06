@@ -1,0 +1,112 @@
+import path from "path";
+import fs from "fs";
+import jimp from "jimp";
+import {
+  masterThemeDefinitionDirectoryPath,
+  masterThemesDirectory,
+  walkAndBuildTemplates,
+} from "./BuildFunctions";
+
+function buildInactiveTabImage(backgroundDirectory: string): Promise<void> {
+  const highlightColor = jimp.cssColorToHex("#00000000");
+  return new Promise<void>((resolve, reject) => {
+    // @ts-ignore
+    new jimp(300, 120, (err, image) => {
+      for (let i = 0; i < 33; i++) {
+        for (let j = 0; j < 300; j++) {
+          image.setPixelColor(highlightColor, j, i);
+        }
+      }
+
+      image.rgba(true);
+      image.write(backgroundDirectory, (err: any) => {
+        if (err) {
+          reject(err);
+        } else {
+          resolve();
+        }
+      });
+    });
+  });
+}
+
+console.log("Preparing asset generation.");
+
+function createAsset(assetPath: string): Promise<void> {
+  fs.mkdirSync(path.resolve(assetPath, ".."), {
+    recursive: true,
+  });
+
+  if (!fs.existsSync(assetPath)) {
+    console.log("creating ", assetPath);
+    return buildInactiveTabImage(assetPath);
+  } else {
+    return Promise.resolve();
+  }
+}
+
+walkAndBuildTemplates()
+  .then((dokiThemes) => {
+    const dokiThemeAssetsDirectory = path.resolve(
+      masterThemesDirectory,
+      "..",
+      "..",
+      "doki-theme-assets"
+    );
+
+    dokiThemes
+      .map(({ dokiFileDefinitionPath, dokiThemeDefinition }) =>
+        Object.entries(dokiThemeDefinition.stickers).map(([, stickerName]) => ({
+          dokiFileDefinitionPath,
+          stickerName,
+        }))
+      )
+      .reduce((accum, next) => [...accum, ...next], [])
+      .reduce(
+        (accum, dokiTheme) =>
+          accum.then(() => {
+            const { dokiFileDefinitionPath, stickerName } = dokiTheme;
+            const destinationPath = dokiFileDefinitionPath.substr(
+              masterThemeDefinitionDirectoryPath.length
+            );
+            const stickerPath =
+              destinationPath.substr(0, destinationPath.lastIndexOf("/") + 1) +
+              stickerName;
+
+            // create all of the necessary sticker assets
+            return Promise.all(
+              [["jetbrains", "v2"], ["vscode"]].map((directories) => {
+                const fullStickerPath = path.join(
+                  dokiThemeAssetsDirectory,
+                  "stickers",
+                  ...directories,
+                  stickerPath
+                );
+                return createAsset(fullStickerPath);
+              })
+            )
+              .then(() => {
+                // create all background image templates
+                return Promise.all(
+                  [
+                    ["backgrounds"],
+                    ["backgrounds", "wallpapers"],
+                    ["backgrounds", "wallpapers", "transparent"],
+                  ].map((directories) => {
+                    const wallpaperPath = path.join(
+                      dokiThemeAssetsDirectory,
+                      ...directories,
+                      stickerName
+                    );
+                    return createAsset(wallpaperPath);
+                  })
+                );
+              })
+              .then(() => "");
+          }),
+        Promise.resolve("")
+      );
+  })
+  .then(() => {
+    console.log("Asset Generation Complete!");
+  });
