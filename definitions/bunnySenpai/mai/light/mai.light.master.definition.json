@@ -18,7 +18,6 @@
   },
   "colors": {
     "caretRow": "#f1ecf2",
-    "caretForeground": "#ffffff",
     "lineNumberColor": "#aaaaaa",
     "infoForeground": "#6564ac",
     "baseIconColor": "#85838b",

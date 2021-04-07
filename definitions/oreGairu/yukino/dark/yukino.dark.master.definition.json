@@ -18,7 +18,6 @@
   "colors": {
     "comments": "#41495A",
     "caretRow": "#23252a",
-    "caretForeground": "#ffffff",
     "lineNumberColor": "#545e6d",
     "completionWindowBackground": "#23241d",
     "baseIconColor": "#747a84",

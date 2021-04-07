@@ -4,7 +4,6 @@
   "extends": "base",
   "colors": {
     "comments": "#6272a4",
-    "caretForeground": "#ffffff",
     "lineNumberColor": "#666879",
     "foregroundColorEditor": "#F8F8F2",
     "unusedColor": "#72737A",

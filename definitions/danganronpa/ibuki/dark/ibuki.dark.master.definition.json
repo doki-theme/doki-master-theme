@@ -20,7 +20,6 @@
   },
   "colors": {
     "caretRow": "#222526",
-    "caretForeground": "#ffffff",
     "lineNumberColor": "#666879",
     "completionWindowBackground": "#22282b",
     "baseIconColor": "#818181",

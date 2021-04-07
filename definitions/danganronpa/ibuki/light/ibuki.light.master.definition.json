@@ -10,7 +10,6 @@
   },
   "colors": {
     "caretRow": "#f7dcf3",
-    "caretForeground": "#ffffff",
     "lineNumberColor": "#aaaaaa",
     "infoForeground": "#5ca4d4",
     "completionWindowBackground": "#eae5e8",
