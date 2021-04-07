@@ -19,7 +19,6 @@
   },
   "colors": {
     "caretRow": "#1f2125",
-    "ghostColor": "#FFFFFF00",
     "lineNumberColor": "#666879",
     "contrastColor": "#1b2a19",
     "nonProjectFileScopeColor": "#191a13",
@@ -32,7 +31,6 @@
     "borderColor": "#1e211f",
     "buttonColor": "#212122",
     "selectionInactive": "#18242d",
-    "tagColor": "#7A7A7A",
     "selectionBackground": "#25435a",
     "selectionBackgroundTransparent": "#25435a55",
     "buttonFont": "#bbbbbb",

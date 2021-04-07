@@ -11,6 +11,8 @@
     "terminal.ansiYellow": "#EFA554",
     "terminal.ansiBlue": "#9B6BDF",
     "terminal.ansiMagenta": "#E64747",
-    "terminal.ansiCyan": "#75D7EC"
+    "terminal.ansiCyan": "#75D7EC",
+    "ghostColor": "#FFFFFF00",
+    "tagColor": "#7A7A7A"
   }
 }
