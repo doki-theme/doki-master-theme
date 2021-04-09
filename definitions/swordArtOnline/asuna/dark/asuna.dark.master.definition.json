@@ -52,7 +52,7 @@
     "codeBlock": "#232323",
     "unusedColor": "#3D3D42",
     "textEditorBackground": "#1b1b1b",
-    "searchResultBackground": "#212121",
+    "foldedTextBackground": "#212121",
     "classNameColor": "#db974d",
     "htmlTagColor": "#e53935",
     "stringColor": "#f5cc5a",

@@ -50,7 +50,7 @@
     "popupMask": "#EAEAF005",
     "codeBlock": "#2a0930",
     "textEditorBackground": "#24062f",
-    "searchResultBackground": "#310e32",
+    "foldedTextBackground": "#310e32",
     "comments": "#7d62a4",
     "classNameColor": "#50cefb",
     "htmlTagColor": "#8f8bff",

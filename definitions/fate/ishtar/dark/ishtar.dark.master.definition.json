@@ -48,7 +48,7 @@
     "testScopeColor": "#091202",
     "popupMask": "#928d8d05",
     "codeBlock": "#191718",
-    "searchResultBackground": "#191718",
+    "foldedTextBackground": "#191718",
     "textEditorBackground": "#110F10",
     "unusedColor": "#3D3D42",
     "classNameColor": "#7C7C82",

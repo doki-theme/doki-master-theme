@@ -54,7 +54,7 @@
     "baseIconColor": "#76857d",
     "codeBlock": "#1b242e",
     "textEditorBackground": "#191b1f",
-    "searchResultBackground": "#232529",
+    "foldedTextBackground": "#232529",
     "errorColor": "#f44747",
     "unusedColor": "#3D3D42",
     "classNameColor": "#6AADFF",
