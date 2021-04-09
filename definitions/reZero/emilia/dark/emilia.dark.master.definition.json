@@ -35,6 +35,7 @@
     "borderColor": "#553a63",
     "buttonColor": "#553967",
     "selectionInactive": "#513466",
+    "identifierHighlight": "#513466",
     "selectionBackground": "#51256d",
     "buttonFont": "#c799e3",
     "foregroundColor": "#DADADA",
