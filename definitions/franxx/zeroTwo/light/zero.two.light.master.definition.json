@@ -32,7 +32,7 @@
     "borderColor": "#eeeeee",
     "buttonColor": "#f0f0f0",
     "selectionInactive": "#fff4f4",
-    "identifierHighlight": "#fff4f4",
+    "identifierHighlight": "#e6fcfb",
     "selectionBackground": "#e9b4b8",
     "selectionBackgroundTransparent": "#e9b4b833",
     "buttonFont": "#252427",
