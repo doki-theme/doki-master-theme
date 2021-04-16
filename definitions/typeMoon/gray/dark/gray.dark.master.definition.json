@@ -1,0 +1,66 @@
+{
+  "id": "5de1c901-2a12-411f-b75b-64e43aaf2c9d",
+  "name": "Gray",
+  "displayName": "Gray",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Type-Moon",
+  "stickers": {
+    "default": "gray_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#84D0FF"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#41495A",
+    "caretRow": "#23252a",
+    "lineNumberColor": "#545e6d",
+    "completionWindowBackground": "#23241d",
+    "baseIconColor": "#747a84",
+    "contrastColor": "#181c2b",
+    "nonProjectFileScopeColor": "#2c2e2e",
+    "secondaryBackground": "#222429",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#1A1913",
+    "inactiveBackgroundDarker": "#0e0e08",
+    "headerColor": "#282a2f",
+    "baseBackground": "#24262b",
+    "borderColor": "#2b2d32",
+    "buttonColor": "#2f3136",
+    "selectionInactive": "#303237",
+    "identifierHighlight": "#282a2f",
+    "selectionBackground": "#2d3b55",
+    "selectionBackgroundTransparent": "#2d3b55AA",
+    "buttonFont": "#ada89c",
+    "foregroundColor": "#bbbbbb",
+    "highlightColor": "#262c39",
+    "disabledColor": "#6f6f6f",
+    "accentColorTransparent": "#2d63825A",
+    "accentColorLessTransparent": "#2d63829A",
+    "accentColorMoreTransparent": "#2d63822A",
+    "accentColor": "#2d6382",
+    "accentContrastColor": "#0f0d0e",
+    "infoForeground": "#456186",
+    "startColor": "#595959",
+    "stopColor": "#3d63bd",
+    "testScopeColor": "#282e2e",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#25272c",
+    "foldedTextBackground": "#25272d",
+    "textEditorBackground": "#1f2126",
+    "unusedColor": "#3D3D42",
+    "classNameColor": "#9DACF6",
+    "htmlTagColor": "#BD84DD",
+    "stringColor": "#F6E3CC",
+    "keyColor": "#ead979",
+    "keywordColor": "#e0474b",
+    "diff.modified": "#0E2539",
+    "diff.inserted": "#132D14",
+    "diff.conflict": "#391B1B",
+    "diff.deleted": "#2A2929"
+  }
+}

@@ -4,9 +4,10 @@
   "displayName": "Miku",
   "dark": true,
   "author": "Unthrottled",
-  "group": "Miscellaneous",
+  "group": "Vocaloid",
   "stickers": {
-    "default": "miku.png"
+    "default": "miku.png",
+    "secondary": "miku_secondary.png"
   },
   "overrides": {
     "editorScheme": {

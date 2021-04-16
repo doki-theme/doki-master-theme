@@ -1,0 +1,62 @@
+{
+  "id": "2d049451-6e89-4325-af38-6ce889991e5b",
+  "name": "Tohru",
+  "displayName": "Tohru",
+  "dark": false,
+  "author": "Unthrottled",
+  "group": "Miss Kobayashi's Dragon Maid",
+  "stickers": {
+    "default": "tohru_light.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#b6323f",
+        "startColor": "#c79c19"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#FFF6E4",
+    "baseIconColor": "#979087",
+    "lineNumberColor": "#aaaaaa",
+    "infoForeground": "#aaaaaa",
+    "contrastColor": "#feffdd",
+    "nonProjectFileScopeColor": "#fffaf0",
+    "secondaryBackground": "#fffff7",
+    "selectionForeground": "#A8930A",
+    "inactiveBackground": "#FFFFBC",
+    "inactiveBackgroundDarker": "#F5F5B3",
+    "headerColor": "#FFFEF9",
+    "baseBackground": "#fefefa",
+    "borderColor": "#f1f4e0",
+    "buttonColor": "#fffef7",
+    "selectionInactive": "#FFFFBC",
+    "identifierHighlight": "#FFFFBC",
+    "selectionBackground": "#fff3b4",
+    "selectionBackgroundTransparent": "#fff3b455",
+    "buttonFont": "#546E7A",
+    "foregroundColor": "#000000",
+    "startColor": "#EBDA50",
+    "highlightColor": "#fff8e0",
+    "disabledColor": "#7F818F",
+    "accentColorTransparent": "#F5C83C5A",
+    "accentColorLessTransparent": "#F5C83C9A",
+    "accentColorMoreTransparent": "#F5C83C2A",
+    "accentColor": "#F5C83C",
+    "darkerAccentColor": "#dcab2b",
+    "stopColor": "#FCFFA5",
+    "testScopeColor": "#D7FFDC",
+    "popupMask": "#EAEAF030",
+    "codeBlock": "#f4f3ee",
+    "textEditorBackground": "#FFFEF9",
+    "foldedTextBackground": "#F3F2E2",
+    "classNameColor": "#c79c19",
+    "htmlTagColor": "#22863a",
+    "stringColor": "#005CC5",
+    "keyColor": "#3492b1",
+    "keywordColor": "#E36207",
+    "constantColor": "#005CC5",
+    "diff.deleted": "#E9E6DB"
+  }
+}
