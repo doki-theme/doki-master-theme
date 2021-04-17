@@ -1,0 +1,65 @@
+{
+  "id": "5e6a266f-c6d5-4891-a065-a2c2b857016a",
+  "name": "Nakano Nino",
+  "displayName": "Nino",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Quintessential Quintuplets",
+  "stickers": {
+    "default": "nino_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#ff69df",
+        "startColor": "#68c4ee",
+        "nonProjectFileScopeColor": "#343635",
+        "testScopeColor": "#2f393a"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#222526",
+    "lineNumberColor": "#666879",
+    "completionWindowBackground": "#22282b",
+    "baseIconColor": "#818181",
+    "contrastColor": "#31262a",
+    "nonProjectFileScopeColor": "#191a18",
+    "secondaryBackground": "#1a1e20",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#292e31",
+    "inactiveBackgroundDarker": "#1e2224",
+    "headerColor": "#17191b",
+    "baseBackground": "#141617",
+    "borderColor": "#1e2021",
+    "buttonColor": "#262c32",
+    "selectionInactive": "#333333",
+    "identifierHighlight": "#313131",
+    "selectionBackground": "#452735",
+    "selectionBackgroundTransparent": "#452735AA",
+    "buttonFont": "#a7a7a7",
+    "foregroundColor": "#bbbbbb",
+    "startColor": "#494949",
+    "highlightColor": "#23282a",
+    "disabledColor": "#6f6f6f",
+    "accentColorTransparent": "#5395b45A",
+    "accentColorLessTransparent": "#5395b49A",
+    "accentColorMoreTransparent": "#5395b42A",
+    "accentColor": "#5395b4",
+    "accentContrastColor": "#272727",
+    "infoForeground": "#ab8d9f",
+    "stopColor": "#68c4ee",
+    "testScopeColor": "#151b18",
+    "popupMask": "#EAEAF00A",
+    "codeBlock": "#1f2123",
+    "textEditorBackground": "#191b1d",
+    "foldedTextBackground": "#343434",
+    "classNameColor": "#8daeef",
+    "htmlTagColor": "#a28a92",
+    "stringColor": "#f4fa8c",
+    "keyColor": "#5ea7ff",
+    "keywordColor": "#8b8b8b",
+    "diff.deleted": "#262626",
+    "diff.inserted": "#142F14"
+  }
+}
