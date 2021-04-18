@@ -11,7 +11,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#60ff62",
+        "accentColor": "#fc9ee6",
         "startColor": "#60ff62"
       }
     }
@@ -28,15 +28,15 @@
     "headerColor": "#24445b",
     "baseBackground": "#25475e",
     "borderColor": "#26546b",
-    "buttonColor": "#3f6c7c",
+    "buttonColor": "#27575d",
     "selectionInactive": "#345165",
     "identifierHighlight": "#224d54",
-    "selectionBackground": "#5e8092",
-    "selectionBackgroundTransparent": "#5e809233",
+    "selectionBackground": "#498192",
+    "selectionBackgroundTransparent": "#49819233",
     "buttonFont": "#f6f1ff",
     "foregroundColor": "#f3edff",
     "infoForeground": "#addfa9",
-    "startColor": "#4bcf4c",
+    "startColor": "#3882ff",
     "highlightColor": "#255866",
     "disabledColor": "#93A5BA",
     "accentColorTransparent": "#A5F3FA5A",
@@ -44,19 +44,19 @@
     "accentColorMoreTransparent": "#A5F3FA2A",
     "accentColor": "#A5F3FA",
     "accentContrastColor": "#355082",
-    "stopColor": "#98ff3d",
+    "stopColor": "#53c8cf",
     "testScopeColor": "#244853",
     "popupMask": "#648adc20",
-    "codeBlock": "#3e5f99",
+    "codeBlock": "#234b52",
     "textEditorBackground": "#244158",
-    "foldedTextBackground": "#3b5a91",
-    "classNameColor": "#cda8fa",
-    "htmlTagColor": "#f4ffa2",
-    "stringColor": "#fc9ee6",
-    "keyColor": "#fffd9b",
-    "keywordColor": "#ffc9d7",
-    "constantColor": "#f6be8b",
-    "comments": "#B0C0FC",
+    "foldedTextBackground": "#274862",
+    "classNameColor": "#ba92f3",
+    "htmlTagColor": "#cda8fa",
+    "stringColor": "#fffd9b",
+    "keyColor": "#3394dd",
+    "keywordColor": "#60ff62",
+    "constantColor": "#d78d83",
+    "comments": "#6C888D",
     "unusedColor": "#A5A1A1",
 
     "terminal.ansiRed": "#FF7AB2",
@@ -66,9 +66,9 @@
     "terminal.ansiMagenta": "#FF91BF",
     "terminal.ansiCyan": "#6DD6EE",
 
-    "diff.deleted": "#4F6387",
+    "diff.deleted": "#3B4755",
     "diff.conflict": "#554069",
     "diff.inserted": "#1E6168",
-    "diff.modified": "#3C64C9"
+    "diff.modified": "#356B93"
   }
 }
