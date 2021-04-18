@@ -51,6 +51,7 @@
     "codeBlock": "#232024",
     "textEditorBackground": "#1f1b20",
     "foldedTextBackground": "#252126",
+    "comments": "#5A4C63",
     "errorColor": "#ff2525",
     "constantColor": "#ff858c",
     "classNameColor": "#5ea7ff",
