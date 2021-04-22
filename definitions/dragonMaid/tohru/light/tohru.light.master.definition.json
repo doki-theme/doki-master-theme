@@ -12,7 +12,7 @@
     "editorScheme": {
       "colors": {
         "accentColor": "#aa2537",
-        "startColor": "#ff784b"
+        "startColor": "#d96a36"
       }
     }
   },
@@ -27,12 +27,12 @@
     "selectionForeground": "#652009",
     "headerColor": "#f7d988",
     "baseBackground": "#fde494",
-    "borderColor": "#e2ba67",
+    "borderColor": "#e8bf69",
     "buttonColor": "#ffce85",
     "selectionInactive": "#f0c07e",
     "identifierHighlight": "#ffe89f",
-    "selectionBackground": "#e46769",
-    "selectionBackgroundTransparent": "#e4676955",
+    "selectionBackground": "#ec9e74",
+    "selectionBackgroundTransparent": "#ec9e7455",
     "buttonFont": "#96612f",
     "foregroundColor": "#101010",
     "startColor": "#db3e4c",
@@ -44,7 +44,7 @@
     "accentColor": "#d23c4b",
     "darkerAccentColor": "#dcab2b",
     "stopColor": "#ff784b",
-    "testScopeColor": "#cfe287",
+    "testScopeColor": "#e8dd88",
     "popupMask": "#EAEAF030",
     "comments": "#908250",
     "unusedColor": "#afaf77",
