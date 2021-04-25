@@ -11,7 +11,8 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#84D0FF"
+        "accentColor": "#84D0FF",
+        "startColor": "#597cee"
       }
     }
   },
@@ -43,7 +44,7 @@
     "accentContrastColor": "#0f0d0e",
     "infoForeground": "#b0a17f",
     "startColor": "#595959",
-    "stopColor": "#8b4dee",
+    "stopColor": "#597cee",
     "testScopeColor": "#2e3f3a",
     "popupMask": "#928d8d05",
     "codeBlock": "#323f41",
