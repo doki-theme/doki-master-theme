@@ -55,6 +55,7 @@
     "codeBlock": "#2b3231",
     "textEditorBackground": "#2f3635",
     "foldedTextBackground": "#273431",
+    "comments": "#67807b",
     "classNameColor": "#aae2f2",
     "htmlTagColor": "#60a498",
     "stringColor": "#F6E9CB",
