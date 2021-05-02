@@ -1,0 +1,68 @@
+{
+  "id": "5903b523-ea0a-4724-85d4-f0d0652c3010",
+  "name": "Miia",
+  "displayName": "Miia",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Daily Life With A Monster Girl",
+  "stickers": {
+    "default": "miia_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "startColor": "#FFB86C",
+        "accentColor": "#efa2da"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#3a1020",
+    "lineNumberColor": "#a87975",
+    "infoForeground": "#b19e78",
+    "completionWindowBackground": "#32393F",
+    "baseIconColor": "#815f59",
+    "contrastColor": "#681b1b",
+    "nonProjectFileScopeColor": "#3b191e",
+    "secondaryBackground": "#330e1b",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#2a272e",
+    "inactiveBackgroundDarker": "#333037",
+    "headerColor": "#3a1020",
+    "baseBackground": "#36101c",
+    "borderColor": "#411221",
+    "buttonColor": "#541827",
+    "selectionInactive": "#441c21",
+    "identifierHighlight": "#441c21",
+    "selectionBackground": "#5b3225",
+    "selectionBackgroundTransparent": "#5b3225aa",
+    "buttonFont": "#b2918a",
+    "foregroundColor": "#efefef",
+    "startColor": "#5a1f1f",
+    "highlightColor": "#46182a",
+    "disabledColor": "#6f4f4a",
+    "accentColorTransparent": "#d6a53e5A",
+    "accentColorLessTransparent": "#d6a53e9A",
+    "accentColorMoreTransparent": "#d6a53e2A",
+    "accentColor": "#d6a53e",
+    "accentContrastColor": "#271c21",
+    "stopColor": "#ec9800",
+    "testScopeColor": "#3c0f2a",
+    "popupMask": "#EAEAF00A",
+    "codeBlock": "#3c1623",
+    "textEditorBackground": "#310e19",
+    "foldedTextBackground": "#38101e",
+    "comments": "#a47272",
+    "unusedColor": "#54545B",
+    "constantColor": "#34a7d1",
+    "classNameColor": "#FFB86C",
+    "htmlTagColor": "#E356A7",
+    "stringColor": "#e2d9bd",
+    "keyColor": "#c05388",
+    "keywordColor": "#39e6a6",
+    "diff.deleted": "#412a2b",
+    "diff.conflict": "#57171a",
+    "diff.inserted": "#102d0e",
+    "diff.modified": "#1c2331"
+  }
+}

@@ -4,9 +4,10 @@
   "displayName": "Miku",
   "dark": true,
   "author": "Unthrottled",
-  "group": "Miscellaneous",
+  "group": "Vocaloid",
   "stickers": {
-    "default": "miku.png"
+    "default": "miku.png",
+    "secondary": "miku_secondary.png"
   },
   "overrides": {
     "editorScheme": {
@@ -16,7 +17,6 @@
         "nonProjectFileScopeColor": "#343635",
         "testScopeColor": "#2f393a"
       }
-
     }
   },
   "colors": {
@@ -55,9 +55,10 @@
     "codeBlock": "#2b3231",
     "textEditorBackground": "#2f3635",
     "foldedTextBackground": "#273431",
-    "classNameColor": "#8defe4",
-    "htmlTagColor": "#a28a92",
-    "stringColor": "#f4fa8c",
+    "comments": "#67807b",
+    "classNameColor": "#aae2f2",
+    "htmlTagColor": "#60a498",
+    "stringColor": "#F6E9CB",
     "keyColor": "#68f3e7",
     "keywordColor": "#988F9A",
     "diff.deleted": "#393F3A"

@@ -1,0 +1,74 @@
+{
+  "id": "d96c6599-ebf8-4359-ae26-19f79b69e919",
+  "name": "Nakano Miku",
+  "displayName": "Miku",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Quintessential Quintuplets",
+  "stickers": {
+    "default": "nakano_miku_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#fc9ee6",
+        "startColor": "#60ff62"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#25475f",
+    "lineNumberColor": "#b9dfb6",
+    "baseIconColor": "#eaf5f7",
+    "contrastColor": "#27494f",
+    "nonProjectFileScopeColor": "#2c4754",
+    "secondaryBackground": "#233f55",
+    "selectionForeground": "#c1fdff",
+    "inactiveBackground": "#e4ebee",
+    "headerColor": "#24445b",
+    "baseBackground": "#25475e",
+    "borderColor": "#26546b",
+    "buttonColor": "#27575d",
+    "selectionInactive": "#345165",
+    "identifierHighlight": "#224d54",
+    "selectionBackground": "#498192",
+    "selectionBackgroundTransparent": "#49819233",
+    "buttonFont": "#f6f1ff",
+    "foregroundColor": "#f3edff",
+    "infoForeground": "#addfa9",
+    "startColor": "#3882ff",
+    "highlightColor": "#255866",
+    "disabledColor": "#93A5BA",
+    "accentColorTransparent": "#A5F3FA5A",
+    "accentColorLessTransparent": "#A5F3FA9A",
+    "accentColorMoreTransparent": "#A5F3FA2A",
+    "accentColor": "#A5F3FA",
+    "accentContrastColor": "#355082",
+    "stopColor": "#53c8cf",
+    "testScopeColor": "#244853",
+    "popupMask": "#648adc20",
+    "codeBlock": "#234b52",
+    "textEditorBackground": "#244158",
+    "foldedTextBackground": "#274862",
+    "classNameColor": "#ba92f3",
+    "htmlTagColor": "#cda8fa",
+    "stringColor": "#fffeaf",
+    "keyColor": "#3394dd",
+    "keywordColor": "#60ff62",
+    "constantColor": "#da8d97",
+    "comments": "#6C888D",
+    "unusedColor": "#A5A1A1",
+
+    "terminal.ansiRed": "#FF7AB2",
+    "terminal.ansiGreen": "#54ea7c",
+    "terminal.ansiYellow": "#fdaa39",
+    "terminal.ansiBlue": "#B39AFF",
+    "terminal.ansiMagenta": "#FF91BF",
+    "terminal.ansiCyan": "#6DD6EE",
+
+    "diff.deleted": "#3B4755",
+    "diff.conflict": "#554069",
+    "diff.inserted": "#1E6168",
+    "diff.modified": "#2f5d80"
+  }
+}
