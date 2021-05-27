@@ -1,13 +1,9 @@
 import path from "path";
 import fs from "fs";
 import jimp from "jimp";
-import {
-  masterThemeDefinitionDirectoryPath,
-  masterThemesDirectory,
-  walkAndBuildTemplates,
-} from "./BuildFunctions";
+import {masterThemeDefinitionDirectoryPath, masterThemesDirectory, walkAndBuildTemplates,} from "./BuildFunctions";
 
-function buildInactiveTabImage(backgroundDirectory: string): Promise<void> {
+function buildBlankAsset(backgroundDirectory: string): Promise<void> {
   const highlightColor = jimp.cssColorToHex("#00000000");
   return new Promise<void>((resolve, reject) => {
     // @ts-ignore
@@ -39,11 +35,40 @@ function createAsset(assetPath: string): Promise<void> {
 
   if (!fs.existsSync(assetPath)) {
     console.log("creating ", assetPath);
-    return buildInactiveTabImage(assetPath);
+    return buildBlankAsset(assetPath);
   } else {
     return Promise.resolve();
   }
 }
+
+const createSmolAsset = (
+  stickerPath: string,
+  smolStickerPath: string
+): Promise<void> => {
+  fs.mkdirSync(path.resolve(smolStickerPath, ".."), {
+    recursive: true,
+  });
+  return new Promise((resolve, reject) => {
+    jimp.read(stickerPath, function (err, img) {
+      if(err) {
+        reject(err)
+      } else {
+        const width = img.getWidth();
+        const height = img.getHeight();
+        const newHeight = width > height ? (height / width) * 150 : 150;
+        const newWidth = height > width ? (width / height) * 150 : 150;
+        img.resize(newWidth, newHeight)
+          .write(smolStickerPath, (err) => {
+            if(err) {
+              reject(err)
+            } else {
+              resolve()
+            }
+          })
+      }
+    })
+  });
+};
 
 walkAndBuildTemplates()
   .then((dokiThemes) => {
@@ -55,7 +80,7 @@ walkAndBuildTemplates()
     );
 
     dokiThemes
-      .map(({ dokiFileDefinitionPath, dokiThemeDefinition }) =>
+      .map(({dokiFileDefinitionPath, dokiThemeDefinition}) =>
         Object.entries(dokiThemeDefinition.stickers).map(([, stickerName]) => ({
           dokiFileDefinitionPath,
           stickerName,
@@ -65,7 +90,7 @@ walkAndBuildTemplates()
       .reduce(
         (accum, dokiTheme) =>
           accum.then(() => {
-            const { dokiFileDefinitionPath, stickerName } = dokiTheme;
+            const {dokiFileDefinitionPath, stickerName} = dokiTheme;
             const destinationPath = dokiFileDefinitionPath.substr(
               masterThemeDefinitionDirectoryPath.length
             );
@@ -100,6 +125,23 @@ walkAndBuildTemplates()
                     );
                     return createAsset(wallpaperPath);
                   })
+                );
+              })
+              .then(() => {
+                // create all smol image assets for doki-home
+                const chonkyStickerPath = path.join(
+                  dokiThemeAssetsDirectory,
+                  "stickers", "jetbrains", "v2",
+                  stickerPath
+                );
+                const smolStickerPath = path.join(
+                  dokiThemeAssetsDirectory,
+                  "stickers", "smol",
+                  stickerPath
+                );
+                return createSmolAsset(
+                  chonkyStickerPath,
+                  smolStickerPath,
                 );
               })
               .then(() => "");
