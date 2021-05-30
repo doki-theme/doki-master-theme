@@ -46,7 +46,7 @@
     "accentColor": "#82357d",
     "stopColor": "#e984ed",
     "testScopeColor": "#e7eff1",
-    "popupMask": "#fbf0ff50",
+    "popupMask": "#fbf0ff30",
     "codeBlock": "#f2eaf6",
     "textEditorBackground": "#fbf0ff",
     "foldedTextBackground": "#f2e5f6",

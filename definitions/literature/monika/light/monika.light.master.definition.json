@@ -40,7 +40,7 @@
     "infoForeground": "#3b753d",
     "stopColor": "#5EEF1B",
     "testScopeColor": "#dcf6e1",
-    "popupMask": "#fbf0ff50",
+    "popupMask": "#f2fff030",
     "codeBlock": "#eaf6eb",
     "textEditorBackground": "#f2fff0",
     "foldedTextBackground": "#def6f3",
