@@ -1,0 +1,68 @@
+{
+  "id": "ca45f54a-57cb-4d8c-82a6-d4b31c850bd6",
+  "name": "Hayase Nagatoro",
+  "displayName": "Nagatoro",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Don't Toy with me Miss Nagator",
+  "stickers": {
+    "default": "nagatoro_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#efa554",
+        "startColor": "#E356A7"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#20221f",
+    "lineNumberColor": "#8e856e",
+    "completionWindowBackground": "#2b2222",
+    "baseIconColor": "#837e6f",
+    "contrastColor": "#312e26",
+    "nonProjectFileScopeColor": "#1e2015",
+    "secondaryBackground": "#141513",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#292e31",
+    "inactiveBackgroundDarker": "#1e2224",
+    "headerColor": "#181917",
+    "baseBackground": "#171816",
+    "borderColor": "#212220",
+    "buttonColor": "#242422",
+    "selectionInactive": "#261c20",
+    "identifierHighlight": "#281e22",
+    "selectionBackground": "#391717",
+    "selectionBackgroundTransparent": "#391717AA",
+    "buttonFont": "#a7a7a7",
+    "foregroundColor": "#bbbbbb",
+    "startColor": "#494949",
+    "highlightColor": "#241517",
+    "disabledColor": "#6f6f6f",
+    "accentColorTransparent": "#d58d9c5A",
+    "accentColorLessTransparent": "#d58d9c9A",
+    "accentColorMoreTransparent": "#d58d9c2A",
+    "accentColor": "#d58d9c",
+    "accentContrastColor": "#19181e",
+    "infoForeground": "#957a4d",
+    "stopColor": "#eecc4b",
+    "testScopeColor": "#172215",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#201d1d",
+    "textEditorBackground": "#1a1c19",
+    "foldedTextBackground": "#211D1E",
+    "errorColor": "#ff2525",
+    "unusedColor": "#3D3D42",
+    "constantColor": "#a7a0d1",
+    "classNameColor": "#f5c9fc",
+    "htmlTagColor": "#e87bc3",
+    "stringColor": "#cd5257",
+    "keyColor": "#f6ebb7",
+    "keywordColor": "#d776ae",
+    "diff.modified": "#1A233D",
+    "diff.inserted": "#142D14",
+    "diff.conflict": "#422121",
+    "diff.deleted": "#242424"
+  }
+}
