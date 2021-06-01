@@ -11,7 +11,6 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "testScopeColor": "#243223",
         "accentColor": "#efa2da",
         "startColor": "#BB0A69"
       }
@@ -22,7 +21,7 @@
     "lineNumberColor": "#796675",
     "baseIconColor": "#766370",
     "contrastColor": "#3c0c33",
-    "nonProjectFileScopeColor": "#2f1125",
+    "nonProjectFileScopeColor": "#211515",
     "secondaryBackground": "#130511",
     "selectionForeground": "#f6c4d3",
     "headerColor": "#1a0717",
@@ -46,7 +45,7 @@
     "accentContrastColor": "#251923",
     "infoForeground": "#ab5555",
     "stopColor": "#ffa5b0",
-    "testScopeColor": "#182613",
+    "testScopeColor": "#181d16",
     "popupMask": "#EAEAF00A",
     "codeBlock": "#261231",
     "textEditorBackground": "#150713",
@@ -58,7 +57,9 @@
     "stringColor": "#F6E3CC",
     "keyColor": "#39e6a6",
     "keywordColor": "#e0474b",
-    "diff.deleted": "#362B31",
-    "diff.inserted": "#1B3B1C"
+    "diff.modified": "#122542",
+    "diff.deleted": "#211C21",
+    "diff.conflict": "#451414",
+    "diff.inserted": "#111F11"
   }
 }
