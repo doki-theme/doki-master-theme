@@ -11,7 +11,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#0cc2f5",
+        "accentColor": "#E3A70E",
         "startColor": "#9B6BDF"
       }
     }
@@ -52,7 +52,7 @@
     "textEditorBackground": "#151515",
     "foldedTextBackground": "#212121",
     "errorColor": "#ff2525",
-    "classNameColor": "#db974d",
+    "classNameColor": "#D233A2",
     "htmlTagColor": "#62e665",
     "stringColor": "#95acbd",
     "constantColor": "#d776ae",
