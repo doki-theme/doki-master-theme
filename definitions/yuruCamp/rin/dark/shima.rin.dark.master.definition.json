@@ -22,7 +22,7 @@
     "lineNumberColor": "#5a626c",
     "baseIconColor": "#6c747d",
     "contrastColor": "#404a57",
-    "nonProjectFileScopeColor": "#373e3a",
+    "nonProjectFileScopeColor": "#33393c",
     "secondaryBackground": "#2c3039",
     "selectionForeground": "#fbfbfb",
     "headerColor": "#2e343e",
@@ -45,7 +45,7 @@
     "infoForeground": "#b0a17f",
     "startColor": "#595959",
     "stopColor": "#e66895",
-    "testScopeColor": "#2e3f3a",
+    "testScopeColor": "#2e3a3c",
     "popupMask": "#928d8d05",
     "codeBlock": "#3c3443",
     "foldedTextBackground": "#323743",
@@ -57,9 +57,9 @@
     "stringColor": "#F6E9CB",
     "keyColor": "#61ead9",
     "keywordColor": "#9f73ea",
-    "diff.modified": "#233352",
-    "diff.inserted": "#223622",
-    "diff.conflict": "#442222",
-    "diff.deleted": "#3f4244"
+    "diff.modified": "#253F4C",
+    "diff.inserted": "#223B28",
+    "diff.conflict": "#3E2424",
+    "diff.deleted": "#30383E"
   }
 }
