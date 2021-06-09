@@ -1,0 +1,65 @@
+{
+  "id": "5fb9c0a4-e613-457c-97a5-6204f9076cef",
+  "name": "Shima Rin",
+  "displayName": "Rin",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Yuru Camp",
+  "stickers": {
+    "default": "shima_rin_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#84D0FF",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#6b7b80",
+    "caretRow": "#353d41",
+    "lineNumberColor": "#556c6a",
+    "baseIconColor": "#6e7b7d",
+    "contrastColor": "#2d5548",
+    "nonProjectFileScopeColor": "#373e3a",
+    "secondaryBackground": "#363e3e",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#363b3d",
+    "baseBackground": "#3b3f41",
+    "borderColor": "#424648",
+    "buttonColor": "#414648",
+    "selectionInactive": "#324142",
+    "identifierHighlight": "#324142",
+    "selectionBackground": "#295043",
+    "selectionBackgroundTransparent": "#295043AA",
+    "buttonFont": "#ada89c",
+    "foregroundColor": "#b0b0b0",
+    "highlightColor": "#324344",
+    "disabledColor": "#6f6f6f",
+    "accentColorTransparent": "#4ed4b05A",
+    "accentColorLessTransparent": "#4ed4b09A",
+    "accentColorMoreTransparent": "#4ed4b02A",
+    "accentColor": "#4ed4b0",
+    "accentContrastColor": "#1D4230",
+    "infoForeground": "#b0a17f",
+    "startColor": "#595959",
+    "stopColor": "#597cee",
+    "testScopeColor": "#2e3f3a",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#323f41",
+    "foldedTextBackground": "#3c4443",
+    "textEditorBackground": "#35393b",
+    "constantColor": "#ec9cb2",
+    "unusedColor": "#545c5b",
+    "classNameColor": "#89acf6",
+    "htmlTagColor": "#788a8b",
+    "stringColor": "#F6E9CB",
+    "keyColor": "#61ead9",
+    "keywordColor": "#9f73ea",
+    "diff.modified": "#233352",
+    "diff.inserted": "#223622",
+    "diff.conflict": "#442222",
+    "diff.deleted": "#3f4244"
+  }
+}
