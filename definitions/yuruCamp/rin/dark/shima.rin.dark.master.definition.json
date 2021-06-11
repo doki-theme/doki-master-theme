@@ -50,6 +50,7 @@
     "codeBlock": "#3c3443",
     "foldedTextBackground": "#323743",
     "textEditorBackground": "#2b303b",
+    "editorAccentColor": "#8bd9ff",
     "constantColor": "#ec9cb2",
     "unusedColor": "#545c5b",
     "classNameColor": "#89acf6",
