@@ -71,7 +71,12 @@ const jupyterTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
 const homeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   id: dokiThemeDefinition.id,
   overrides: {},
-  content: {}
+  content: {},
+  "backgrounds": {
+    "default": {
+      "anchor": "right"
+    }
+  },
 });
 
 
