@@ -72,11 +72,7 @@ const homeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   id: dokiThemeDefinition.id,
   overrides: {},
   content: {},
-  "backgrounds": {
-    "default": {
-      "anchor": "right"
-    }
-  },
+  "backgrounds": {},
 });
 
 
