@@ -1,0 +1,65 @@
+{
+  "id": "5ec63d95-1e7d-4649-b3d0-0078af8f8740",
+  "name": "Gasai Yuno",
+  "displayName": "Yuno",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Future Diary",
+  "stickers": {
+    "default": "yuno_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#efa2da",
+        "startColor": "#BB0A69"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#230920",
+    "lineNumberColor": "#796675",
+    "baseIconColor": "#766370",
+    "contrastColor": "#3c0c33",
+    "nonProjectFileScopeColor": "#211515",
+    "secondaryBackground": "#130511",
+    "selectionForeground": "#f6c4d3",
+    "headerColor": "#1a0717",
+    "baseBackground": "#1a081a",
+    "borderColor": "#300c30",
+    "buttonColor": "#37223a",
+    "selectionInactive": "#2b0c27",
+    "selectionInactiveTransparent": "#2b0c2755",
+    "identifierHighlight": "#2c0f27",
+    "selectionBackground": "#602b50",
+    "selectionBackgroundTransparent": "#602b506c",
+    "buttonFont": "#bba0b7",
+    "foregroundColor": "#c8c8c8",
+    "startColor": "#691933",
+    "highlightColor": "#3c0c33",
+    "disabledColor": "#505050",
+    "accentColorTransparent": "#ffa0b25A",
+    "accentColorLessTransparent": "#ffa0b29A",
+    "accentColorMoreTransparent": "#ffa0b22A",
+    "accentColor": "#ffa0b2",
+    "accentContrastColor": "#251923",
+    "infoForeground": "#ab5555",
+    "stopColor": "#ffa5b0",
+    "testScopeColor": "#181d16",
+    "popupMask": "#EAEAF005",
+    "codeBlock": "#261231",
+    "textEditorBackground": "#150713",
+    "foldedTextBackground": "#240a24",
+    "comments": "#a06aa4",
+    "constantColor": "#34a7d1",
+    "classNameColor": "#EFA554",
+    "htmlTagColor": "#8d82ea",
+    "stringColor": "#F6E3CC",
+    "keyColor": "#39e6a6",
+    "keywordColor": "#e0474b",
+    "diff.modified": "#122542",
+    "diff.deleted": "#211C21",
+    "diff.conflict": "#451414",
+    "diff.inserted": "#111F11"
+  }
+}

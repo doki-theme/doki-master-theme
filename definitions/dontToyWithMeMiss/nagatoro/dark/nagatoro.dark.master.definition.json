@@ -1,0 +1,66 @@
+{
+  "id": "ca45f54a-57cb-4d8c-82a6-d4b31c850bd6",
+  "name": "Hayase Nagatoro",
+  "displayName": "Nagatoro",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Don't Toy with me Miss Nagatoro",
+  "stickers": {
+    "default": "nagatoro_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#E3A70E",
+        "startColor": "#9B6BDF"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#5b574a",
+    "caretRow": "#1f1f1f",
+    "lineNumberColor": "#5d5550",
+    "infoForeground": "#7e5b37",
+    "baseIconColor": "#767066",
+    "contrastColor": "#33291d",
+    "nonProjectFileScopeColor": "#20221c",
+    "secondaryBackground": "#171717",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#1a1a1a",
+    "baseBackground": "#1d1d1d",
+    "borderColor": "#272626",
+    "buttonColor": "#2e2c2b",
+    "selectionInactive": "#262626",
+    "identifierHighlight": "#272727",
+    "selectionBackground": "#5d3e2f",
+    "selectionBackgroundTransparent": "#5d3e2fAA",
+    "buttonFont": "#c9c9c9",
+    "foregroundColor": "#bbbbbb",
+    "startColor": "#4a4a4a",
+    "highlightColor": "#252525",
+    "disabledColor": "#6f6461",
+    "accentColorTransparent": "#d2824e5A",
+    "accentColorLessTransparent": "#d2824e9A",
+    "accentColorMoreTransparent": "#d2824e2A",
+    "accentColor": "#d2824e",
+    "accentContrastColor": "#271c21",
+    "stopColor": "#a9b3bd",
+    "testScopeColor": "#1d231d",
+    "popupMask": "#EAEAF005",
+    "codeBlock": "#1f1c1b",
+    "unusedColor": "#444449",
+    "textEditorBackground": "#151515",
+    "foldedTextBackground": "#212121",
+    "errorColor": "#ff2525",
+    "classNameColor": "#D233A2",
+    "htmlTagColor": "#62e665",
+    "stringColor": "#95acbd",
+    "constantColor": "#d776ae",
+    "keyColor": "#5cd7d7",
+    "keywordColor": "#6d7fd4",
+    "diff.deleted": "#242426",
+    "diff.inserted": "#132A13",
+    "diff.modified": "#142B40",
+    "diff.conflict": "#3E1D1D"
+  }
+}

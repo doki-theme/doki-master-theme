@@ -1,0 +1,63 @@
+{
+  "id": "dfd05a73-c189-4622-87c7-573fbb3a46b9",
+  "name": "Hanekawa Tsubasa",
+  "displayName": "Tsubasa",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Monogatari",
+  "stickers": {
+    "default": "hanekawa_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#9a97f4",
+        "startColor": "#9ee38c"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#1e1d1f",
+    "lineNumberColor": "#777495",
+    "baseIconColor": "#7e7997",
+    "contrastColor": "#322849",
+    "nonProjectFileScopeColor": "#191a18",
+    "secondaryBackground": "#1b1820",
+    "selectionForeground": "#ebd6fc",
+    "headerColor": "#0f0d10",
+    "baseBackground": "#141115",
+    "borderColor": "#211c23",
+    "buttonColor": "#2e2939",
+    "selectionInactive": "#362338",
+    "identifierHighlight": "#262626",
+    "selectionBackground": "#5a3b5d",
+    "selectionBackgroundTransparent": "#5a3b5dAA",
+    "buttonFont": "#c7c7c7",
+    "foregroundColor": "#c3c3c3",
+    "startColor": "#494949",
+    "highlightColor": "#262129",
+    "disabledColor": "#6f6f6f",
+    "accentColorTransparent": "#634F8D5A",
+    "accentColorLessTransparent": "#634F8D9A",
+    "accentColorMoreTransparent": "#634F8D2A",
+    "accentColor": "#634F8D",
+    "accentContrastColor": "#272727",
+    "infoForeground": "#988ccb",
+    "stopColor": "#f7f6ff",
+    "testScopeColor": "#151b18",
+    "popupMask": "#EAEAF005",
+    "codeBlock": "#281f28",
+    "textEditorBackground": "#100d11",
+    "foldedTextBackground": "#322932",
+    "comments": "#79769f",
+    "classNameColor": "#e39656",
+    "htmlTagColor": "#ff8fec",
+    "stringColor": "#F6E3CC",
+    "keyColor": "#7ceec8",
+    "keywordColor": "#d55fde",
+    "diff.conflict": "#36151F",
+    "diff.deleted": "#1D1D1D",
+    "diff.inserted": "#142F14",
+    "diff.modified": "#152A3D"
+  }
+}

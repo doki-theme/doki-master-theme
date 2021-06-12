@@ -1,0 +1,65 @@
+{
+  "id": "a1da4f2f-e736-40e7-86d9-9167a247da93",
+  "name": "Jabami Yumeko",
+  "displayName": "Yumeko",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Kakegurui",
+  "stickers": {
+    "default": "yumeko_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#b48fec",
+        "startColor": "#ffa037"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#1e0607",
+    "lineNumberColor": "#97706f",
+    "infoForeground": "#7e2a2a",
+    "completionWindowBackground": "#32393F",
+    "baseIconColor": "#795555",
+    "contrastColor": "#2e090b",
+    "nonProjectFileScopeColor": "#130700",
+    "secondaryBackground": "#160304",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#0b0000",
+    "baseBackground": "#070000",
+    "borderColor": "#1e0000",
+    "buttonColor": "#2b0808",
+    "selectionInactive": "#220708",
+    "identifierHighlight": "#220708",
+    "selectionBackground": "#390c10",
+    "selectionBackgroundTransparent": "#390c10aa",
+    "buttonFont": "#a67676",
+    "foregroundColor": "#dbdbdb",
+    "startColor": "#491b1b",
+    "highlightColor": "#2e090b",
+    "disabledColor": "#584445",
+    "accentColorTransparent": "#8a18205A",
+    "accentColorLessTransparent": "#8a18209A",
+    "accentColorMoreTransparent": "#8a18202A",
+    "accentColor": "#8a1820",
+    "accentContrastColor": "#3f3d42",
+    "stopColor": "#9a101f",
+    "testScopeColor": "#0f0a00",
+    "popupMask": "#EAEAF005",
+    "codeBlock": "#1d0406",
+    "textEditorBackground": "#050000",
+    "foldedTextBackground": "#280a0b",
+    "comments": "#735253",
+    "constantColor": "#e4ff10",
+    "classNameColor": "#7092ea",
+    "htmlTagColor": "#4fcad5",
+    "stringColor": "#F6E3CC",
+    "keyColor": "#42E66C",
+    "keywordColor": "#e0474b",
+    "diff.deleted": "#1c1214",
+    "diff.conflict": "#471316",
+    "diff.inserted": "#0c230b",
+    "diff.modified": "#121e31"
+  }
+}
