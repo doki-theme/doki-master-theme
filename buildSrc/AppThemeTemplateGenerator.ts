@@ -23,6 +23,14 @@ const vsCodeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   colors: {},
 });
 
+const visualStudioTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+  id: dokiThemeDefinition.id,
+  overrides: {},
+  laf: {},
+  syntax: {},
+  colors: {},
+});
+
 const chromeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   id: dokiThemeDefinition.id,
   overrides: {},
@@ -79,7 +87,8 @@ const homeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
 /*********************************************************************************************/
 
 /**
- * This Function creates each application specific template and puts it in the "temp directory"
+ * This Function creates each application specific template and puts it in the "buildSrc/assets/templates 
+ * of the current app"
  *
  * This is most handy when creating the doki theme for a new application as it preserves the
  * folder structure, which is not important, but it is nice.
@@ -94,7 +103,7 @@ function buildApplicationTemplate(
 
 /**
  * You also want to change this as well
- *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home
+ *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home | visualstudio
  */
 const appName = 'jetbrains';
 
