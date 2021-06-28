@@ -50,6 +50,7 @@
     "testScopeColor": "#151e15",
     "popupMask": "#928d8d05",
     "codeBlock": "#211D1E",
+    "comments": "#4c8484",
     "textEditorBackground": "#161415",
     "foldedTextBackground": "#211D1E",
     "unusedColor": "#3D3D42",
