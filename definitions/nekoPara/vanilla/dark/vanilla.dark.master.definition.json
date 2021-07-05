@@ -1,0 +1,65 @@
+{
+  "id": "31d5574d-f56b-408f-81dc-9d44feeb62c2",
+  "name": "Vanilla",
+  "displayName": "Vanilla",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "NekoPara",
+  "stickers": {
+    "default": "vanilla_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#9bf8ff",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#686a80",
+    "caretRow": "#333446",
+    "lineNumberColor": "#5a5e6c",
+    "baseIconColor": "#6c6f7d",
+    "contrastColor": "#3d3d55",
+    "nonProjectFileScopeColor": "#303237",
+    "secondaryBackground": "#272935",
+    "selectionForeground": "#fefefe",
+    "headerColor": "#292a3a",
+    "baseBackground": "#2d2f43",
+    "borderColor": "#383a50",
+    "buttonColor": "#393c48",
+    "selectionInactive": "#3a425e",
+    "identifierHighlight": "#3b3c4c",
+    "selectionBackground": "#374872",
+    "selectionBackgroundTransparent": "#374872AA",
+    "buttonFont": "#b4afa2",
+    "foregroundColor": "#b9b9b9",
+    "highlightColor": "#3b3c58",
+    "disabledColor": "#5b5d6f",
+    "accentColorTransparent": "#9debff5A",
+    "accentColorLessTransparent": "#9debff9A",
+    "accentColorMoreTransparent": "#9debff2A",
+    "accentColor": "#9debff",
+    "accentContrastColor": "#182f42",
+    "infoForeground": "#b0a17f",
+    "startColor": "#595959",
+    "stopColor": "#478ceb",
+    "testScopeColor": "#293237",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#2f3354",
+    "foldedTextBackground": "#323449",
+    "textEditorBackground": "#2b2c3d",
+    "constantColor": "#5ddeda",
+    "unusedColor": "#545c5b",
+    "classNameColor": "#9d8df6",
+    "htmlTagColor": "#f689f6",
+    "stringColor": "#F6E9CB",
+    "keyColor": "#6a96e9",
+    "keywordColor": "#FFD448",
+    "diff.modified": "#243558",
+    "diff.inserted": "#233D2A",
+    "diff.conflict": "#492929",
+    "diff.deleted": "#363842"
+  }
+}
