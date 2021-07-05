@@ -56,7 +56,7 @@
     "htmlTagColor": "#f689f6",
     "stringColor": "#F6E9CB",
     "keyColor": "#5e8ee9",
-    "keywordColor": "#ffef6c",
+    "keywordColor": "#fff451",
     "diff.modified": "#243558",
     "diff.inserted": "#233D2A",
     "diff.conflict": "#492929",
