@@ -1,0 +1,65 @@
+{
+  "id": "93035c21-9eb7-4b0e-92d0-35d66d16c8e0",
+  "name": "Chocola",
+  "displayName": "Chocola",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "NekoPara",
+  "stickers": {
+    "default": "chocola_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#9bf8ff",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#6f6880",
+    "caretRow": "#393243",
+    "lineNumberColor": "#605a6c",
+    "baseIconColor": "#746c7d",
+    "contrastColor": "#463d55",
+    "nonProjectFileScopeColor": "#393537",
+    "secondaryBackground": "#2d2735",
+    "selectionForeground": "#fefefe",
+    "headerColor": "#312c3a",
+    "baseBackground": "#3a3143",
+    "borderColor": "#453b4e",
+    "buttonColor": "#3e3948",
+    "selectionInactive": "#2e3b53",
+    "identifierHighlight": "#423a4b",
+    "selectionBackground": "#255b82",
+    "selectionBackgroundTransparent": "#255b82AA",
+    "buttonFont": "#b4afa2",
+    "foregroundColor": "#b0b0b0",
+    "highlightColor": "#473b58",
+    "disabledColor": "#625b6f",
+    "accentColorTransparent": "#d2b5035A",
+    "accentColorLessTransparent": "#d2b5039A",
+    "accentColorMoreTransparent": "#d2b5032A",
+    "accentColor": "#d2b503",
+    "accentContrastColor": "#182f42",
+    "infoForeground": "#b0a17f",
+    "startColor": "#595959",
+    "stopColor": "#e66895",
+    "testScopeColor": "#2e3637",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#2f3354",
+    "foldedTextBackground": "#383142",
+    "textEditorBackground": "#312b3a",
+    "constantColor": "#50b5d1",
+    "unusedColor": "#545c5b",
+    "classNameColor": "#9d8df6",
+    "htmlTagColor": "#ff858c",
+    "stringColor": "#F6E9CB",
+    "keyColor": "#48eae4",
+    "keywordColor": "#f689f6",
+    "diff.modified": "#244658",
+    "diff.inserted": "#233D2A",
+    "diff.conflict": "#492929",
+    "diff.deleted": "#373645"
+  }
+}
