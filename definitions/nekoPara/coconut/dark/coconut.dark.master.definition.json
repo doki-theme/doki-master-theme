@@ -12,7 +12,7 @@
     "editorScheme": {
       "colors": {
         "accentColor": "#9bf8ff",
-        "startColor": "#597cee"
+        "startColor": "#9467ee"
       }
     }
   },
@@ -34,7 +34,7 @@
     "selectionBackground": "#255b82",
     "selectionBackgroundTransparent": "#255b82AA",
     "buttonFont": "#b4afa2",
-    "foregroundColor": "#b0b0b0",
+    "foregroundColor": "#d3d3d3",
     "highlightColor": "#473b58",
     "disabledColor": "#625b6f",
     "accentColorTransparent": "#d2b5035A",
