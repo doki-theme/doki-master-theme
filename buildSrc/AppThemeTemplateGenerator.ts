@@ -98,14 +98,14 @@ const homeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
 function buildApplicationTemplate(
   dokiThemeDefinition: MasterDokiThemeDefinition
 ) {
-  return jetbrainsTemplate(dokiThemeDefinition);
+  return visualStudioTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
  *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home | visualstudio
  */
-const appName = 'jetbrains';
+const appName = 'visualstudio';
 
 /**************************************************************************/
 
