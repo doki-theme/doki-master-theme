@@ -29,6 +29,7 @@ const visualStudioTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) =>
   laf: {},
   syntax: {},
   colors: {},
+  backgrounds: {},
 });
 
 const chromeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
@@ -98,14 +99,14 @@ const homeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
 function buildApplicationTemplate(
   dokiThemeDefinition: MasterDokiThemeDefinition
 ) {
-  return visualStudioTemplate(dokiThemeDefinition);
+  return jetbrainsTemplate(dokiThemeDefinition);
 }
 
 /**
  * You also want to change this as well
  *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home | visualstudio
  */
-const appName = 'visualstudio';
+const appName = 'jetbrains';
 
 /**************************************************************************/
 
