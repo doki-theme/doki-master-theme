@@ -25,7 +25,7 @@
     "completionWindowBackground": "#e7e5ea",
     "baseIconColor": "#f2fdff",
     "contrastColor": "#27494f",
-    "nonProjectFileScopeColor": "#3d4b70",
+    "nonProjectFileScopeColor": "#413f79",
     "secondaryBackground": "#333184",
     "selectionForeground": "#e7e9ff",
     "headerColor": "#37357f",
@@ -48,7 +48,7 @@
     "accentColor": "#54e255",
     "accentContrastColor": "#355082",
     "stopColor": "#98ff3d",
-    "testScopeColor": "#2d5572",
+    "testScopeColor": "#343f79",
     "popupMask": "#648adc08",
     "codeBlock": "#33417a",
     "textEditorBackground": "#343277",
@@ -69,9 +69,9 @@
     "terminal.ansiMagenta": "#FF91BF",
     "terminal.ansiCyan": "#6DD6EE",
 
-    "diff.deleted": "#4F6387",
-    "diff.conflict": "#554069",
-    "diff.inserted": "#1E6168",
-    "diff.modified": "#3C64C9"
+    "diff.deleted": "#3B4267",
+    "diff.conflict": "#622E4C",
+    "diff.inserted": "#1B5059",
+    "diff.modified": "#274B9B"
   }
 }
