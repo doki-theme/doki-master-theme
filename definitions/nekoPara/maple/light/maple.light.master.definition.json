@@ -1,0 +1,66 @@
+{
+  "id": "ea7a8b00-2d86-4e06-81a2-5c14a46264d5",
+  "name": "Maple Light",
+  "displayName": "Maple",
+  "dark": false,
+  "author": "Unthrottled",
+  "group": "NekoPara",
+  "stickers": {
+    "default": "maple_light.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#aa2537",
+        "startColor": "#d96a36"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#ffe797",
+    "baseIconColor": "#3d455d",
+    "lineNumberColor": "#693434",
+    "infoForeground": "#763530",
+    "contrastColor": "#f0c07e",
+    "nonProjectFileScopeColor": "#f9d27e",
+    "secondaryBackground": "#fde388",
+    "selectionForeground": "#652009",
+    "headerColor": "#fecf91",
+    "baseBackground": "#ffd297",
+    "borderColor": "#e8bf69",
+    "buttonColor": "#ffce85",
+    "selectionInactive": "#f0c07e",
+    "identifierHighlight": "#ffe89f",
+    "selectionBackground": "#ec9e74",
+    "selectionBackgroundTransparent": "#ec9e7455",
+    "buttonFont": "#96612f",
+    "foregroundColor": "#101010",
+    "startColor": "#db3e4c",
+    "highlightColor": "#f3bc80",
+    "disabledColor": "#8a7f48",
+    "accentColorTransparent": "#d23c4b5A",
+    "accentColorLessTransparent": "#d23c4b9A",
+    "accentColorMoreTransparent": "#d23c4b2A",
+    "accentColor": "#d23c4b",
+    "darkerAccentColor": "#dcab2b",
+    "stopColor": "#ff784b",
+    "testScopeColor": "#e8dd88",
+    "popupMask": "#f6d98830",
+    "comments": "#908250",
+    "unusedColor": "#afaf77",
+    "codeBlock": "#f9da7d",
+    "textEditorBackground": "#ffe090",
+    "foldedTextBackground": "#ffe692",
+    "classNameColor": "#0E8D61",
+    "htmlTagColor": "#1a821b",
+    "stringColor": "#005CC5",
+    "keyColor": "#176B82",
+    "keywordColor": "#A74503",
+    "constantColor": "#005CC5",
+    "terminal.ansiCyan": "#1fb5cd",
+    "diff.deleted": "#edd289",
+    "diff.modified": "#ecd19e",
+    "diff.conflict": "#f9bf7c",
+    "diff.inserted": "#cfe287"
+  }
+}
