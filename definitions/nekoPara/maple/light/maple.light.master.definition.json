@@ -1,0 +1,69 @@
+{
+  "id": "ea7a8b00-2d86-4e06-81a2-5c14a46264d5",
+  "name": "Maple Light",
+  "displayName": "Maple",
+  "dark": false,
+  "author": "Unthrottled",
+  "group": "NekoPara",
+  "stickers": {
+    "default": "maple_light.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#810808",
+        "startColor": "#d96a36"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#FFC392",
+    "baseIconColor": "#5d3855",
+    "lineNumberColor": "#693434",
+    "infoForeground": "#763530",
+    "contrastColor": "#f0c07e",
+    "nonProjectFileScopeColor": "#fdd58f",
+    "secondaryBackground": "#f9ca92",
+    "selectionForeground": "#651c10",
+    "headerColor": "#fdcd8f",
+    "baseBackground": "#ffd297",
+    "borderColor": "#f1bb73",
+    "buttonColor": "#eab184",
+    "selectionInactive": "#f7bd86",
+    "identifierHighlight": "#F8B786",
+    "selectionBackground": "#ec9e74",
+    "selectionBackgroundTransparent": "#ec9e7455",
+    "buttonFont": "#8c5432",
+    "foregroundColor": "#101010",
+    "startColor": "#5c4c58",
+    "highlightColor": "#f3bc80",
+    "disabledColor": "#8a7f48",
+    "accentColorTransparent": "#923A4E5A",
+    "accentColorLessTransparent": "#923A4E9A",
+    "accentColorMoreTransparent": "#923A4E2A",
+    "accentColor": "#923A4E",
+    "darkerAccentColor": "#dcab2b",
+    "stopColor": "#46ab79",
+    "testScopeColor": "#ead88a",
+    "popupMask": "#f6d98830",
+    "comments": "#908250",
+    "unusedColor": "#afaf77",
+    "codeBlock": "#ead88a",
+    "textEditorBackground": "#ffd091",
+    "foldedTextBackground": "#FABD8C",
+    "classNameColor": "#7748B7",
+    "htmlTagColor": "#2811B9",
+    "stringColor": "#208D3B",
+    "keyColor": "#007972",
+    "keywordColor": "#B03F0F",
+    "constantColor": "#005CC5",
+    "terminal.ansiGreen": "#208D3B",
+    "terminal.ansiBlue": "#7748B7",
+    "terminal.ansiCyan": "#0896AD",
+    "terminal.ansiYellow": "#A46B21",
+    "diff.deleted": "#f0c792",
+    "diff.modified": "#e1c2b5",
+    "diff.conflict": "#ffc088",
+    "diff.inserted": "#e9da84"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "84dc0d3c-1c83-4dde-87b9-e1ea27cd34b0",
+  "name": "Cinnamon",
+  "displayName": "Cinnamon",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "NekoPara",
+  "stickers": {
+    "default": "cinnamon_dark.png"
+  },
+  "meta": {
+    "isVivid": "true"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#60ff62",
+        "startColor": "#fff33a"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#3f3c91",
+    "lineNumberColor": "#ffffff",
+    "completionWindowBackground": "#e7e5ea",
+    "baseIconColor": "#f2fdff",
+    "contrastColor": "#27494f",
+    "nonProjectFileScopeColor": "#413f79",
+    "secondaryBackground": "#333184",
+    "selectionForeground": "#e7e9ff",
+    "headerColor": "#37357f",
+    "baseBackground": "#393784",
+    "borderColor": "#413e96",
+    "buttonColor": "#4a4a8c",
+    "selectionInactive": "#38497c",
+    "identifierHighlight": "#43409b",
+    "selectionBackground": "#3a6c75",
+    "selectionBackgroundTransparent": "#3a6c7533",
+    "buttonFont": "#f6f1ff",
+    "foregroundColor": "#f3edff",
+    "infoForeground": "#dfe19f",
+    "startColor": "#54e255",
+    "highlightColor": "#2f2d69",
+    "disabledColor": "#a08fb8",
+    "accentColorTransparent": "#54e2555A",
+    "accentColorLessTransparent": "#54e2559A",
+    "accentColorMoreTransparent": "#54e2552A",
+    "accentColor": "#54e255",
+    "accentContrastColor": "#355082",
+    "stopColor": "#98ff3d",
+    "testScopeColor": "#343f79",
+    "popupMask": "#648adc08",
+    "codeBlock": "#33417a",
+    "textEditorBackground": "#343277",
+    "foldedTextBackground": "#3b3886",
+    "classNameColor": "#d0a2fa",
+    "htmlTagColor": "#f3ff83",
+    "stringColor": "#b3a9ff",
+    "keyColor": "#FFD448",
+    "keywordColor": "#53dac7",
+    "constantColor": "#8bc1f8",
+    "comments": "#7384d4",
+    "unusedColor": "#64606b",
+
+    "terminal.ansiRed": "#FF7AB2",
+    "terminal.ansiGreen": "#54ea7c",
+    "terminal.ansiYellow": "#fdaa39",
+    "terminal.ansiBlue": "#B39AFF",
+    "terminal.ansiMagenta": "#FF91BF",
+    "terminal.ansiCyan": "#6DD6EE",
+
+    "diff.deleted": "#3B4267",
+    "diff.conflict": "#622E4C",
+    "diff.inserted": "#1B5059",
+    "diff.modified": "#274B9B"
+  }
+}

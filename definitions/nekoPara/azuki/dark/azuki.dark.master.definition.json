@@ -1,0 +1,65 @@
+{
+  "id": "83e94920-9ae2-4838-9b85-4c3fa22b67b8",
+  "name": "Azuki",
+  "displayName": "Azuki",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "NekoPara",
+  "stickers": {
+    "default": "azuki_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#ffe845",
+        "startColor": "#8b9df8"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#807066",
+    "caretRow": "#382a26",
+    "lineNumberColor": "#6c635a",
+    "baseIconColor": "#7d7268",
+    "contrastColor": "#271d1a",
+    "nonProjectFileScopeColor": "#33221d",
+    "secondaryBackground": "#291e1b",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#2d221f",
+    "baseBackground": "#322623",
+    "borderColor": "#403331",
+    "buttonColor": "#48403d",
+    "selectionInactive": "#402f21",
+    "identifierHighlight": "#45342f",
+    "selectionBackground": "#684e29",
+    "selectionBackgroundTransparent": "#684e29AA",
+    "buttonFont": "#bfbaae",
+    "foregroundColor": "#bfbfbf",
+    "highlightColor": "#40312d",
+    "disabledColor": "#5b606f",
+    "accentColorTransparent": "#e9b14e5A",
+    "accentColorLessTransparent": "#e9b14e9A",
+    "accentColorMoreTransparent": "#e9b14e2A",
+    "accentColor": "#e9b14e",
+    "accentContrastColor": "#182f42",
+    "infoForeground": "#b0a17f",
+    "startColor": "#595959",
+    "stopColor": "#e6c678",
+    "testScopeColor": "#2b2b1e",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#3b2b21",
+    "foldedTextBackground": "#3b2c27",
+    "textEditorBackground": "#2e221f",
+    "constantColor": "#efacfc",
+    "unusedColor": "#4c5352",
+    "classNameColor": "#c4ff8d",
+    "htmlTagColor": "#f585ab",
+    "stringColor": "#e0f6bf",
+    "keyColor": "#96f3fd",
+    "keywordColor": "#ffad46",
+    "diff.modified": "#1B3A47",
+    "diff.inserted": "#1E3425",
+    "diff.conflict": "#4B2424",
+    "diff.deleted": "#383234"
+  }
+}
