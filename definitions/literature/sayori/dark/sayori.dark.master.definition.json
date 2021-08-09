@@ -20,7 +20,7 @@
     }
   },
   "colors": {
-    "caretRow": "#252D3C",
+    "caretRow": "#17243c",
     "lineNumberColor": "#666879",
     "completionWindowBackground": "#32393F",
     "baseIconColor": "#5B777F",
@@ -35,8 +35,10 @@
     "borderColor": "#1a1c2d",
     "buttonColor": "#18303f",
     "selectionInactive": "#1d274b",
-    "identifierHighlight": "#101a37",
+    "identifierHighlight": "#1b2a46",
     "selectionBackground": "#234164",
+    "searchBackground": "#3D8FBD",
+    "searchForeground": "#051a1a",
     "buttonFont": "#26A8E8",
     "foregroundColor": "#bbbbbb",
     "startColor": "#0A74BB",
