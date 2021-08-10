@@ -35,6 +35,8 @@
     "identifierHighlight": "#f4e5fb",
     "selectionBackground": "#c7a0d2",
     "selectionBackgroundTransparent": "#b7a0d233",
+    "searchBackground": "#78c5ad",
+    "searchForeground": "#393d45",
     "buttonFont": "#252427",
     "foregroundColor": "#252427",
     "startColor": "#653b6d",

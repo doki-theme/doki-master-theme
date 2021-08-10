@@ -37,6 +37,8 @@
     "selectionInactive": "#513466",
     "identifierHighlight": "#513466",
     "selectionBackground": "#51256d",
+    "searchBackground": "#7749b2",
+    "searchForeground": "#e7e5f3",
     "buttonFont": "#c799e3",
     "foregroundColor": "#DADADA",
     "startColor": "#850ad2",
