@@ -19,7 +19,7 @@
     }
   },
   "colors": {
-    "caretRow": "#292D1F",
+    "caretRow": "#24291a",
     "lineNumberColor": "#697966",
     "completionWindowBackground": "#32393F",
     "baseIconColor": "#657F6E",
@@ -34,7 +34,7 @@
     "borderColor": "#202416",
     "buttonColor": "#1e3219",
     "selectionInactive": "#122D13",
-    "identifierHighlight": "#122D13",
+    "identifierHighlight": "#2d3320",
     "selectionBackground": "#30432B",
     "buttonFont": "#6f9a65",
     "foregroundColor": "#bbbbbb",
