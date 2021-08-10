@@ -28,6 +28,8 @@
     "identifierHighlight": "#d9d8e4",
     "selectionBackground": "#a0a9d2",
     "selectionBackgroundTransparent": "#a0a9d233",
+    "searchBackground": "#D99997",
+    "searchForeground": "#393d45",
     "buttonFont": "#252427",
     "foregroundColor": "#252427",
     "startColor": "#454c6d",

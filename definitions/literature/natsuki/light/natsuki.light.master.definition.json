@@ -29,6 +29,8 @@
     "identifierHighlight": "#FFD9E2",
     "comments": "#7d6a7d",
     "selectionBackground": "#dc99bb",
+    "searchBackground": "#dc99bb",
+    "searchForeground": "#ffffff",
     "buttonFont": "#252427",
     "foregroundColor": "#000000",
     "startColor": "#F25AAF",
