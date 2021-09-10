@@ -1,12 +1,12 @@
 {
   "id": "3a78b13e-dbf2-410f-bb20-12b57bff7735",
-  "name": "Satsuki",
+  "name": "Satsuki Light",
   "displayName": "Satsuki",
   "dark": false,
   "author": "Unthrottled",
   "group": "Kill la Kill",
   "stickers": {
-    "default": "satsuki.png"
+    "default": "satsuki_light.png"
   },
   "colors": {
     "caretRow": "#e0dfe6",
