@@ -47,20 +47,21 @@
     "stopColor": "#19e3d9",
     "testScopeColor": "#ecfded",
     "popupMask": "#e7e6eb05",
-    "comments": "#908250",
-    "unusedColor": "#afaf77",
-    "codeBlock": "#abecd3",
+    "comments": "#505D64",
+    "unusedColor": "#92ABAB",
+    "codeBlock": "#bff8e2",
     "textEditorBackground": "#ffffff",
     "foldedTextBackground": "#f6f6f6",
     "classNameColor": "#7748B7",
     "htmlTagColor": "#2811B9",
-    "stringColor": "#208D3B",
+    "errorColor": "#ff2525",
+    "stringColor": "#009BFC",
     "keyColor": "#007972",
     "keywordColor": "#B03F0F",
     "constantColor": "#005CC5",
     "terminal.ansiGreen": "#208D3B",
-    "terminal.ansiBlue": "#7748B7",
+    "terminal.ansiBlue": "#5C358D",
     "terminal.ansiCyan": "#0896AD",
-    "terminal.ansiYellow": "#A46B21"
+    "terminal.ansiYellow": "#916121"
   }
 }
