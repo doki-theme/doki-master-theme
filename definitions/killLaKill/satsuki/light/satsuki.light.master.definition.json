@@ -1,0 +1,67 @@
+{
+  "id": "3a78b13e-dbf2-410f-bb20-12b57bff7735",
+  "name": "Satsuki Light",
+  "displayName": "Satsuki",
+  "dark": false,
+  "author": "Unthrottled",
+  "group": "Kill la Kill",
+  "stickers": {
+    "default": "satsuki_light.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#1136b9",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#e6effc",
+    "baseIconColor": "#455d8e",
+    "lineNumberColor": "#344f69",
+    "infoForeground": "#1f45a1",
+    "contrastColor": "#cddff9",
+    "nonProjectFileScopeColor": "#fbf4e3",
+    "secondaryBackground": "#eef6ff",
+    "selectionForeground": "#0e2c57",
+    "headerColor": "#f5f6f7",
+    "baseBackground": "#fafbfc",
+    "borderColor": "#e5e5ee",
+    "buttonColor": "#add3fd",
+    "selectionInactive": "#bdd3f3",
+    "identifierHighlight": "#daecfa",
+    "selectionBackground": "#748fec",
+    "selectionBackgroundTransparent": "#748fec55",
+    "searchBackground": "#9c8bf0",
+    "searchForeground": "#161165",
+    "buttonFont": "#103365",
+    "foregroundColor": "#101010",
+    "startColor": "#5c4c58",
+    "highlightColor": "#e1f1fe",
+    "disabledColor": "#74889f",
+    "accentColorTransparent": "#275AB35A",
+    "accentColorLessTransparent": "#275AB39A",
+    "accentColorMoreTransparent": "#275AB32A",
+    "accentColor": "#275AB3",
+    "stopColor": "#32c5e3",
+    "testScopeColor": "#ecfded",
+    "popupMask": "#e7e6eb05",
+    "comments": "#505D64",
+    "unusedColor": "#92ABAB",
+    "codeBlock": "#cff7f5",
+    "textEditorBackground": "#ffffff",
+    "foldedTextBackground": "#f6f6f6",
+    "classNameColor": "#7748B7",
+    "htmlTagColor": "#EE5C09",
+    "errorColor": "#ff2525",
+    "stringColor": "#0F92E3",
+    "keyColor": "#79074c",
+    "keywordColor": "#13a78c",
+    "constantColor": "#005CC5",
+    "terminal.ansiGreen": "#208D3B",
+    "terminal.ansiBlue": "#5C358D",
+    "terminal.ansiCyan": "#0896AD",
+    "terminal.ansiYellow": "#916121"
+  }
+}

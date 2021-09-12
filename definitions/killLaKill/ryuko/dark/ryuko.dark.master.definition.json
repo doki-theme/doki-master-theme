@@ -1,6 +1,6 @@
 {
   "id": "19b65ec8-133c-4655-a77b-13623d8e97d3",
-  "name": "Ryuko",
+  "name": "Ryuko Dark",
   "displayName": "Ryuko",
   "dark": true,
   "author": "Unthrottled",
@@ -55,7 +55,7 @@
     "textEditorBackground": "#2b3238",
     "foldedTextBackground": "#272e34",
     "classNameColor": "#6893f3",
-    "htmlTagColor": "#a28a92",
+    "htmlTagColor": "#8C90E5",
     "stringColor": "#efa554",
     "keyColor": "#C1B5C3",
     "keywordColor": "#e0474b",

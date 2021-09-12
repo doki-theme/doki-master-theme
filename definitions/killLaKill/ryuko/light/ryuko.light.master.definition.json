@@ -1,0 +1,67 @@
+{
+  "id": "3fbd90c3-859d-4618-8e31-90461ac7a556",
+  "name": "Ryuko Light",
+  "displayName": "Ryuko",
+  "dark": false,
+  "author": "Unthrottled",
+  "group": "Kill la Kill",
+  "stickers": {
+    "default": "ryuko_light.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#EE5C09",
+        "startColor": "#d92e54"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#e6effc",
+    "baseIconColor": "#455d8e",
+    "lineNumberColor": "#344f69",
+    "infoForeground": "#1f79a1",
+    "contrastColor": "#cddff9",
+    "nonProjectFileScopeColor": "#fbf4e3",
+    "secondaryBackground": "#eef6ff",
+    "selectionForeground": "#103365",
+    "headerColor": "#f5f6f7",
+    "baseBackground": "#fafbfc",
+    "borderColor": "#e5e5ee",
+    "buttonColor": "#aaddfd",
+    "selectionInactive": "#bdd3f3",
+    "identifierHighlight": "#daecfa",
+    "selectionBackground": "#74adec",
+    "selectionBackgroundTransparent": "#74adec55",
+    "searchBackground": "#9c8bf0",
+    "searchForeground": "#161165",
+    "buttonFont": "#103365",
+    "foregroundColor": "#101010",
+    "startColor": "#5c4c58",
+    "highlightColor": "#e1f1fe",
+    "disabledColor": "#74889f",
+    "accentColorTransparent": "#169ef25A",
+    "accentColorLessTransparent": "#169ef29A",
+    "accentColorMoreTransparent": "#169ef22A",
+    "accentColor": "#169ef2",
+    "stopColor": "#19e3d9",
+    "testScopeColor": "#ecfded",
+    "popupMask": "#e7e6eb05",
+    "comments": "#505D64",
+    "unusedColor": "#92ABAB",
+    "codeBlock": "#bff8e2",
+    "textEditorBackground": "#ffffff",
+    "foldedTextBackground": "#f6f6f6",
+    "classNameColor": "#7748B7",
+    "htmlTagColor": "#2811B9",
+    "errorColor": "#ff2525",
+    "stringColor": "#0F92E3",
+    "keyColor": "#007972",
+    "keywordColor": "#B03F0F",
+    "constantColor": "#005CC5",
+    "terminal.ansiGreen": "#208D3B",
+    "terminal.ansiBlue": "#5C358D",
+    "terminal.ansiCyan": "#0896AD",
+    "terminal.ansiYellow": "#916121"
+  }
+}

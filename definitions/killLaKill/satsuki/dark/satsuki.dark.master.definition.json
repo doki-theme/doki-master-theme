@@ -1,0 +1,68 @@
+{
+  "id": "12a54623-1f0b-4769-9917-d5267092a605",
+  "name": "Satsuki Dark",
+  "displayName": "Satsuki",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Kill la Kill",
+  "stickers": {
+    "default": "satsuki_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#e4ff10",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#596570",
+    "caretRow": "#2b2e31",
+    "lineNumberColor": "#596570",
+    "baseIconColor": "#697777",
+    "contrastColor": "#2f363c",
+    "nonProjectFileScopeColor": "#312b27",
+    "secondaryBackground": "#1d2123",
+    "selectionForeground": "#fefefe",
+    "headerColor": "#212427",
+    "baseBackground": "#272b2d",
+    "borderColor": "#32373a",
+    "buttonColor": "#303537",
+    "selectionInactive": "#3f2527",
+    "identifierHighlight": "#363a3d",
+    "selectionBackground": "#5d2626",
+    "selectionBackgroundTransparent": "#5d2626AA",
+    "searchBackground": "#1A6020",
+    "searchForeground": "#fefefe",
+    "buttonFont": "#94918c",
+    "foregroundColor": "#d3d3d3",
+    "highlightColor": "#5f2c2c",
+    "disabledColor": "#5c5151",
+    "accentColorTransparent": "#f030225A",
+    "accentColorLessTransparent": "#f030229A",
+    "accentColorMoreTransparent": "#f030222A",
+    "accentColor": "#f03022",
+    "accentContrastColor": "#182f42",
+    "infoForeground": "#af543f",
+    "startColor": "#595959",
+    "stopColor": "#ee2726",
+    "testScopeColor": "#202a25",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#402729",
+    "foldedTextBackground": "#2b2e31",
+    "textEditorBackground": "#242729",
+    "constantColor": "#96b7fb",
+    "unusedColor": "#545c5b",
+    "errorColor": "#ff2525",
+    "classNameColor": "#6893f3",
+    "htmlTagColor": "#ff6b75",
+    "stringColor": "#F6E9CB",
+    "keyColor": "#46F263",
+    "keywordColor": "#e24a3e",
+    "diff.modified": "#1B3A47",
+    "diff.inserted": "#1E3425",
+    "diff.conflict": "#4B2424",
+    "diff.deleted": "#2F3334"
+  }
+}
