@@ -1,6 +1,6 @@
 {
   "name": "doki-master-theme",
-  "version": "13.1.0",
+  "version": "14.0.0",
   "description": "The Doki Theme",
   "main": "build/index.js",
   "repository": "https://github.com/doki-theme/doki-master-theme.git",
