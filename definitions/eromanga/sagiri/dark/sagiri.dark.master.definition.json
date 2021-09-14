@@ -11,17 +11,17 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#60ff62",
+        "accentColor": "#42FA71",
         "startColor": "#fff33a"
       }
     }
   },
   "colors": {
-    "caretRow": "#0b433d",
+    "caretRow": "#0b463f",
     "lineNumberColor": "#ffffff",
     "baseIconColor": "#d0eae9",
     "contrastColor": "#27494f",
-    "nonProjectFileScopeColor": "#413f79",
+    "nonProjectFileScopeColor": "#234432",
     "secondaryBackground": "#08332e",
     "selectionForeground": "#e7e9ff",
     "headerColor": "#0a3f39",
@@ -29,35 +29,35 @@
     "borderColor": "#0d514a",
     "buttonColor": "#135e57",
     "selectionInactive": "#072f2b",
-    "identifierHighlight": "#43409b",
+    "identifierHighlight": "#0c4e46",
     "selectionBackground": "#052421",
     "selectionBackgroundTransparent": "#05242133",
-    "searchBackground": "#5334D9",
+    "searchBackground": "#8A4A9F",
     "searchForeground": "#e7e9ff",
     "buttonFont": "#f6f1ff",
     "foregroundColor": "#f3edff",
     "infoForeground": "#eae99a",
     "startColor": "#595959",
-    "highlightColor": "#2f2d69",
-    "disabledColor": "#a08fb8",
+    "highlightColor": "#1e1e28",
+    "disabledColor": "#769382",
     "accentColorTransparent": "#5eabb85A",
     "accentColorLessTransparent": "#5eabb89A",
     "accentColorMoreTransparent": "#5eabb82A",
     "accentColor": "#5eabb8",
     "accentContrastColor": "#355082",
     "stopColor": "#98ff3d",
-    "testScopeColor": "#343f79",
+    "testScopeColor": "#094d36",
     "popupMask": "#648adc08",
-    "codeBlock": "#33417a",
+    "codeBlock": "#07312c",
     "textEditorBackground": "#0a3b36",
-    "foldedTextBackground": "#3b3886",
-    "classNameColor": "#d0a2fa",
+    "foldedTextBackground": "#0c4b44",
+    "classNameColor": "#FF8282",
     "htmlTagColor": "#f3ff83",
-    "stringColor": "#b3a9ff",
-    "keyColor": "#FFD448",
-    "keywordColor": "#53dac7",
-    "constantColor": "#8bc1f8",
-    "comments": "#7384d4",
+    "keyColor": "#F1A4FA",
+    "keywordColor": "#FFD448",
+    "stringColor": "#53dac7",
+    "constantColor": "#82BAFF",
+    "comments": "#507F78",
     "unusedColor": "#64606b",
 
     "terminal.ansiRed": "#FF7AB2",
@@ -67,9 +67,9 @@
     "terminal.ansiMagenta": "#FF91BF",
     "terminal.ansiCyan": "#6DD6EE",
 
-    "diff.deleted": "#3B4267",
-    "diff.conflict": "#622E4C",
-    "diff.inserted": "#1B5059",
-    "diff.modified": "#274B9B"
+    "diff.deleted": "#27423F",
+    "diff.conflict": "#491E1E",
+    "diff.inserted": "#0A5029",
+    "diff.modified": "#1B5496"
   }
 }
