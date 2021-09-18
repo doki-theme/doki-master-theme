@@ -1,0 +1,68 @@
+{
+  "id": "2f2dff01-7e0e-4ebc-ab1e-34be2486c66f",
+  "name": "Kirino",
+  "displayName": "Kirino",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "OreImo",
+  "stickers": {
+    "default": "kirino_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#8bd9ff",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#687380",
+    "caretRow": "#313a49",
+    "lineNumberColor": "#5a626c",
+    "baseIconColor": "#6c747d",
+    "contrastColor": "#404a57",
+    "nonProjectFileScopeColor": "#33393c",
+    "secondaryBackground": "#2c3039",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#2e343e",
+    "baseBackground": "#323742",
+    "borderColor": "#393e48",
+    "buttonColor": "#3a4148",
+    "selectionInactive": "#403545",
+    "identifierHighlight": "#373c47",
+    "selectionBackground": "#4f3a4e",
+    "selectionBackgroundTransparent": "#4f3a4eAA",
+    "searchBackground": "#195A80",
+    "searchForeground": "#fbfbfb",
+    "buttonFont": "#ada89c",
+    "foregroundColor": "#b0b0b0",
+    "highlightColor": "#3d4754",
+    "disabledColor": "#5b606f",
+    "accentColorTransparent": "#6688ad5A",
+    "accentColorLessTransparent": "#6688ad9A",
+    "accentColorMoreTransparent": "#6688ad2A",
+    "accentColor": "#6688ad",
+    "accentContrastColor": "#182f42",
+    "infoForeground": "#b0a17f",
+    "startColor": "#595959",
+    "stopColor": "#e66895",
+    "testScopeColor": "#2e3a3c",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#3c3443",
+    "foldedTextBackground": "#323743",
+    "textEditorBackground": "#2b303b",
+    "editorAccentColor": "#8bd9ff",
+    "constantColor": "#ec9cb2",
+    "unusedColor": "#545c5b",
+    "classNameColor": "#89acf6",
+    "htmlTagColor": "#6c7c96",
+    "stringColor": "#F6E9CB",
+    "keyColor": "#61ead9",
+    "keywordColor": "#ea73d6",
+    "diff.modified": "#253F4C",
+    "diff.inserted": "#223B28",
+    "diff.conflict": "#3E2424",
+    "diff.deleted": "#30383E"
+  }
+}
