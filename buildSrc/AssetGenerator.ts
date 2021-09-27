@@ -95,7 +95,7 @@ walkAndBuildTemplates()
               masterThemeDefinitionDirectoryPath.length
             );
             const stickerPath =
-              destinationPath.substr(0, destinationPath.lastIndexOf("/") + 1) +
+              destinationPath.substr(0, destinationPath.lastIndexOf(path.sep) + 1) +
               stickerName;
 
             // create all of the necessary sticker assets

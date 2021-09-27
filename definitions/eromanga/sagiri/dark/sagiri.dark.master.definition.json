@@ -1,0 +1,75 @@
+{
+  "id": "dc8e4142-c371-4107-a3c3-99dceefadac2",
+  "name": "Sagiri",
+  "displayName": "Sagiri",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "EroManga Sensei",
+  "stickers": {
+    "default": "sagiri_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#42FA71",
+        "startColor": "#fff33a"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#0b463f",
+    "lineNumberColor": "#ffffff",
+    "baseIconColor": "#d0eae9",
+    "contrastColor": "#27494f",
+    "nonProjectFileScopeColor": "#234432",
+    "secondaryBackground": "#08332e",
+    "selectionForeground": "#e7e9ff",
+    "headerColor": "#0a3f39",
+    "baseBackground": "#0b443e",
+    "borderColor": "#0d514a",
+    "buttonColor": "#135e57",
+    "selectionInactive": "#072f2b",
+    "identifierHighlight": "#0c4e46",
+    "selectionBackground": "#052421",
+    "selectionBackgroundTransparent": "#05242188",
+    "searchBackground": "#AD4B65",
+    "searchForeground": "#e7e9ff",
+    "buttonFont": "#f6f1ff",
+    "foregroundColor": "#f3edff",
+    "infoForeground": "#eae99a",
+    "startColor": "#595959",
+    "highlightColor": "#242431",
+    "disabledColor": "#769382",
+    "accentColorTransparent": "#5eabb85A",
+    "accentColorLessTransparent": "#5eabb89A",
+    "accentColorMoreTransparent": "#5eabb82A",
+    "accentColor": "#5eabb8",
+    "accentContrastColor": "#355082",
+    "stopColor": "#98ff3d",
+    "testScopeColor": "#094d36",
+    "popupMask": "#648adc08",
+    "codeBlock": "#07312c",
+    "textEditorBackground": "#0a3b36",
+    "foldedTextBackground": "#0c4b44",
+    "classNameColor": "#FF8282",
+    "htmlTagColor": "#f3ff83",
+    "keyColor": "#F1A4FA",
+    "keywordColor": "#FFD448",
+    "stringColor": "#53dac7",
+    "constantColor": "#82BAFF",
+    "comments": "#507F78",
+    "unusedColor": "#64606b",
+
+    "terminal.ansiRed": "#FF7AB2",
+    "terminal.ansiGreen": "#54ea7c",
+    "terminal.ansiYellow": "#fdaa39",
+    "terminal.ansiBlue": "#B39AFF",
+    "terminal.ansiMagenta": "#FF91BF",
+    "terminal.ansiCyan": "#6DD6EE",
+
+    "diff.deleted": "#27423F",
+    "diff.conflict": "#491E1E",
+    "diff.inserted": "#0A5029",
+    "diff.modified": "#1B5496"
+  }
+}

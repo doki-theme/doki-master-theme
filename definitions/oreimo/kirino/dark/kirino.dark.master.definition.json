@@ -1,0 +1,68 @@
+{
+  "id": "2f2dff01-7e0e-4ebc-ab1e-34be2486c66f",
+  "name": "Kirino",
+  "displayName": "Kirino",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "OreImo",
+  "stickers": {
+    "default": "kirino_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#8bd9ff",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#6A8882",
+    "caretRow": "#221f28",
+    "lineNumberColor": "#657978",
+    "baseIconColor": "#6b7e79",
+    "contrastColor": "#3d2d3d",
+    "nonProjectFileScopeColor": "#23281b",
+    "secondaryBackground": "#182826",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#121e1c",
+    "baseBackground": "#152321",
+    "borderColor": "#1e322f",
+    "buttonColor": "#253e3a",
+    "selectionInactive": "#2a1f2e",
+    "identifierHighlight": "#233a36",
+    "selectionBackground": "#3d213e",
+    "selectionBackgroundTransparent": "#3d213eAA",
+    "searchBackground": "#195A80",
+    "searchForeground": "#fbfbfb",
+    "buttonFont": "#ada89c",
+    "foregroundColor": "#cbcbcb",
+    "highlightColor": "#213834",
+    "disabledColor": "#5b6f6d",
+    "accentColorTransparent": "#6cb3b55A",
+    "accentColorLessTransparent": "#6cb3b59A",
+    "accentColorMoreTransparent": "#6cb3b52A",
+    "accentColor": "#6cb3b5",
+    "accentContrastColor": "#182f42",
+    "infoForeground": "#b0a17f",
+    "startColor": "#595959",
+    "stopColor": "#e6be68",
+    "testScopeColor": "#122f1b",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#292a1f",
+    "foldedTextBackground": "#1b2d2a",
+    "textEditorBackground": "#121e1c",
+    "errorColor": "#ff2525",
+    "constantColor": "#EA7797",
+    "unusedColor": "#545c5b",
+    "classNameColor": "#E77FD5",
+    "htmlTagColor": "#8BEF85",
+    "stringColor": "#F6E9CB",
+    "keyColor": "#eec45e",
+    "keywordColor": "#49e7d0",
+    "diff.modified": "#1B3360",
+    "diff.inserted": "#153315",
+    "diff.conflict": "#3E2424",
+    "diff.deleted": "#1F2F2D"
+  }
+}

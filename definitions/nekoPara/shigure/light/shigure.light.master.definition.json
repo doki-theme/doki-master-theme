@@ -1,0 +1,70 @@
+{
+  "id": "67278007-b7f8-46d4-88b7-e40cac3576a7",
+  "name": "Shigure",
+  "displayName": "Shigure",
+  "dark": false,
+  "author": "Unthrottled",
+  "group": "NekoPara",
+  "stickers": {
+    "default": "shigure_light.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#C209A9",
+        "startColor": "#A46B21"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#d4d2ff",
+    "baseIconColor": "#4a385d",
+    "lineNumberColor": "#38336b",
+    "infoForeground": "#584484",
+    "contrastColor": "#b4b1f0",
+    "nonProjectFileScopeColor": "#e4e1ea",
+    "secondaryBackground": "#cccaff",
+    "selectionForeground": "#d3dcfd",
+    "headerColor": "#dad9ff",
+    "baseBackground": "#e5e5ff",
+    "borderColor": "#d6d5fe",
+    "buttonColor": "#b1affc",
+    "selectionInactive": "#b4b2fa",
+    "identifierHighlight": "#C2C0FF",
+    "selectionBackground": "#5756a2",
+    "selectionBackgroundTransparent": "#5756a255",
+    "searchBackground": "#F39AE9",
+    "searchForeground": "#323232",
+    "buttonFont": "#38328c",
+    "foregroundColor": "#101010",
+    "startColor": "#4c4f5c",
+    "highlightColor": "#d5d7fe",
+    "disabledColor": "#484d8a",
+    "accentColorTransparent": "#5e1f7f5A",
+    "accentColorLessTransparent": "#5e1f7f9A",
+    "accentColorMoreTransparent": "#5e1f7f2A",
+    "accentColor": "#5e1f7f",
+    "stopColor": "#a661b5",
+    "testScopeColor": "#d3e6ef",
+    "popupMask": "#888af610",
+    "errorColor": "#FF0707",
+    "comments": "#2E2E57",
+    "unusedColor": "#9291B0",
+    "codeBlock": "#e7d8f1",
+    "textEditorBackground": "#e9e9ff",
+    "foldedTextBackground": "#ddddff",
+    "classNameColor": "#7748B7",
+    "htmlTagColor": "#2811B9",
+    "stringColor": "#208D3B",
+    "keyColor": "#5E037E",
+    "keywordColor": "#410cb2",
+    "constantColor": "#005CC5",
+    "terminal.ansiGreen": "#208D3B",
+    "terminal.ansiBlue": "#7748B7",
+    "terminal.ansiCyan": "#0896AD",
+    "terminal.ansiYellow": "#A46B21",
+    "diff.deleted": "#D6D6EC",
+    "diff.modified": "#A7F5F8",
+    "diff.inserted": "#B7FAAF"
+  }
+}
