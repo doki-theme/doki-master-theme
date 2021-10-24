@@ -1,0 +1,69 @@
+{
+  "id": "91d0931d-3e1d-4101-b923-278ce264f0f5",
+  "name": "Jahy",
+  "displayName": "Jahy",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "The Great Jahy Will Not Be Defeated.",
+  "stickers": {
+    "default": "jahy_dark.png",
+    "secondary": "jahy_smol_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#8bd9ff",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#6A8882",
+    "caretRow": "#221f28",
+    "lineNumberColor": "#657978",
+    "baseIconColor": "#6b7e79",
+    "contrastColor": "#3d2d3d",
+    "nonProjectFileScopeColor": "#23281b",
+    "secondaryBackground": "#182826",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#1e1430",
+    "baseBackground": "#221738",
+    "borderColor": "#322252",
+    "buttonColor": "#253e3a",
+    "selectionInactive": "#2a1f2e",
+    "identifierHighlight": "#233a36",
+    "selectionBackground": "#3d213e",
+    "selectionBackgroundTransparent": "#3d213eAA",
+    "searchBackground": "#195A80",
+    "searchForeground": "#fbfbfb",
+    "buttonFont": "#ada89c",
+    "foregroundColor": "#cbcbcb",
+    "highlightColor": "#213834",
+    "disabledColor": "#5b6f6d",
+    "accentColorTransparent": "#8744885A",
+    "accentColorLessTransparent": "#8744889A",
+    "accentColorMoreTransparent": "#8744882A",
+    "accentColor": "#874488",
+    "accentContrastColor": "#182f42",
+    "infoForeground": "#b0a17f",
+    "startColor": "#595959",
+    "stopColor": "#e6be68",
+    "testScopeColor": "#122f1b",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#292a1f",
+    "foldedTextBackground": "#1b2d2a",
+    "textEditorBackground": "#1b102e",
+    "errorColor": "#ff2525",
+    "constantColor": "#EA7797",
+    "unusedColor": "#545c5b",
+    "classNameColor": "#E77FD5",
+    "htmlTagColor": "#8BEF85",
+    "stringColor": "#f3b085",
+    "keyColor": "#eec45e",
+    "keywordColor": "#49e7d0",
+    "diff.modified": "#1B3360",
+    "diff.inserted": "#153315",
+    "diff.conflict": "#3E2424",
+    "diff.deleted": "#1F2F2D"
+  }
+}
