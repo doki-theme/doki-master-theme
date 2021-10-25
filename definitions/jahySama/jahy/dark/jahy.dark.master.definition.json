@@ -6,8 +6,7 @@
   "author": "Unthrottled",
   "group": "The Great Jahy Will Not Be Defeated.",
   "stickers": {
-    "default": "jahy_dark.png",
-    "secondary": "jahy_smol_dark.png"
+    "default": "jahy_dark_smol.png"
   },
   "overrides": {
     "editorScheme": {
