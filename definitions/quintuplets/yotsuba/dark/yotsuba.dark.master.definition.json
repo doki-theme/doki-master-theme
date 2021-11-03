@@ -1,0 +1,67 @@
+{
+  "id": "3b11c8f4-d030-4a7e-a46f-b22d3e430a1d",
+  "name": "Nakano Yotsuba",
+  "displayName": "Yotsuba",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Quintessential Quintuplets",
+  "stickers": {
+    "default": "yotsuba_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#fc9ee6",
+        "startColor": "#68c4ee"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#272328",
+    "lineNumberColor": "#666879",
+    "completionWindowBackground": "#22282b",
+    "baseIconColor": "#7d757e",
+    "contrastColor": "#3a2b3a",
+    "nonProjectFileScopeColor": "#24201f",
+    "secondaryBackground": "#221c23",
+    "selectionForeground": "#fbfbfb",
+    "inactiveBackground": "#2d1f27",
+    "headerColor": "#221c22",
+    "baseBackground": "#1c181e",
+    "borderColor": "#232024",
+    "buttonColor": "#2d2330",
+    "selectionInactive": "#2d1f27",
+    "identifierHighlight": "#312d32",
+    "selectionBackground": "#452735",
+    "selectionBackgroundTransparent": "#452735AA",
+    "searchBackground": "#35637C",
+    "searchForeground": "#fbfbfb",
+    "buttonFont": "#a7a7a7",
+    "foregroundColor": "#bbbbbb",
+    "startColor": "#494949",
+    "highlightColor": "#2b1e26",
+    "disabledColor": "#6f6f6f",
+    "accentColorTransparent": "#d455755A",
+    "accentColorLessTransparent": "#d455759A",
+    "accentColorMoreTransparent": "#d455752A",
+    "accentColor": "#d45575",
+    "accentContrastColor": "#272727",
+    "infoForeground": "#ab8d9f",
+    "stopColor": "#68c4ee",
+    "testScopeColor": "#1f211f",
+    "popupMask": "#EAEAF00A",
+    "codeBlock": "#232024",
+    "textEditorBackground": "#1f1b20",
+    "foldedTextBackground": "#252126",
+    "comments": "#5A4C63",
+    "errorColor": "#ff2525",
+    "constantColor": "#ff858c",
+    "classNameColor": "#5ea7ff",
+    "htmlTagColor": "#8daeef",
+    "stringColor": "#F6E3CC",
+    "keyColor": "#68c4ee",
+    "keywordColor": "#7ceec8",
+    "diff.deleted": "#262626",
+    "diff.inserted": "#142F14"
+  }
+}
