@@ -1,0 +1,69 @@
+{
+  "id": "e55e70ea-454b-47ef-9270-d46390dd2769",
+  "name": "Essex",
+  "displayName": "Essex",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Azur Lane",
+  "stickers": {
+    "default": "essex_dark.png",
+    "secondary": "essex_dark_plain.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#2D96EA",
+        "startColor": "#E7602F"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#6387AF",
+    "caretRow": "#261a30",
+    "lineNumberColor": "#5d7685",
+    "baseIconColor": "#66707c",
+    "contrastColor": "#4f1919",
+    "nonProjectFileScopeColor": "#14263b",
+    "secondaryBackground": "#002f5d",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#00203e",
+    "baseBackground": "#002446",
+    "borderColor": "#002c55",
+    "buttonColor": "#163756",
+    "selectionInactive": "#2d1a32",
+    "identifierHighlight": "#05315b",
+    "selectionBackground": "#480F0F",
+    "selectionBackgroundTransparent": "#480F0FAA",
+    "searchBackground": "#14447C",
+    "searchForeground": "#fefefe",
+    "buttonFont": "#d0d0d0",
+    "foregroundColor": "#d7d7d7",
+    "highlightColor": "#2d1d37",
+    "disabledColor": "#5b646f",
+    "accentColorTransparent": "#D532325A",
+    "accentColorLessTransparent": "#D532329A",
+    "accentColorMoreTransparent": "#D532322A",
+    "accentColor": "#D53232",
+    "accentContrastColor": "#182f42",
+    "infoForeground": "#ad9e6e",
+    "startColor": "#4f5760",
+    "stopColor": "#e51515",
+    "testScopeColor": "#02293b",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#3B1414",
+    "foldedTextBackground": "#00274e",
+    "textEditorBackground": "#001d39",
+    "errorColor": "#ff0505",
+    "constantColor": "#78DBEF",
+    "unusedColor": "#545c5b",
+    "classNameColor": "#B5AAEE",
+    "htmlTagColor": "#D92C3A",
+    "stringColor": "#f3b085",
+    "keyColor": "#eec45e",
+    "keywordColor": "#e83737",
+    "diff.modified": "#00388C",
+    "diff.inserted": "#002A08",
+    "diff.conflict": "#3F1A22",
+    "diff.deleted": "#112938"
+  }
+}

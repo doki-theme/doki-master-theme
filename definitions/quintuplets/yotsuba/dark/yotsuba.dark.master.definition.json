@@ -1,0 +1,67 @@
+{
+  "id": "3b11c8f4-d030-4a7e-a46f-b22d3e430a1d",
+  "name": "Nakano Yotsuba",
+  "displayName": "Yotsuba",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Quintessential Quintuplets",
+  "stickers": {
+    "default": "yotsuba_dark.png"
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#fc9ee6",
+        "startColor": "#68c4ee"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#2d0d0d",
+    "lineNumberColor": "#F8E3D7",
+    "baseIconColor": "#706f7e",
+    "contrastColor": "#3a2b3a",
+    "nonProjectFileScopeColor": "#181313",
+    "secondaryBackground": "#1a0d20",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#110c15",
+    "baseBackground": "#140e19",
+    "borderColor": "#231929",
+    "buttonColor": "#2d2330",
+    "selectionInactive": "#371819",
+    "identifierHighlight": "#441313",
+    "selectionBackground": "#622316",
+    "selectionBackgroundTransparent": "#622316AA",
+    "searchBackground": "#49357C",
+    "searchForeground": "#fbfbfb",
+    "buttonFont": "#a7a7a7",
+    "foregroundColor": "#bbbbbb",
+    "startColor": "#706f7e",
+    "highlightColor": "#261930",
+    "disabledColor": "#4d4c50",
+    "accentColorTransparent": "#e86a445A",
+    "accentColorLessTransparent": "#e86a449A",
+    "accentColorMoreTransparent": "#e86a442A",
+    "accentColor": "#e86a44",
+    "accentContrastColor": "#272727",
+    "infoForeground": "#c08865",
+    "stopColor": "#ee6323",
+    "testScopeColor": "#101513",
+    "popupMask": "#EAEAF00A",
+    "codeBlock": "#250a29",
+    "textEditorBackground": "#200909",
+    "foldedTextBackground": "#340e0e",
+    "comments": "#6C524E",
+    "errorColor": "#ff2525",
+    "constantColor": "#9DACF6",
+    "classNameColor": "#ffba2f",
+    "htmlTagColor": "#A884EF",
+    "stringColor": "#F6E3CC",
+    "keyColor": "#39e6a6",
+    "keywordColor": "#ff858c",
+    "diff.deleted": "#251E1C",
+    "diff.conflict": "#4D2020",
+    "diff.inserted": "#0F230F",
+    "diff.modified": "#152E41"
+  }
+}
