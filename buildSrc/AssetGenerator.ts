@@ -1,7 +1,7 @@
 import path from "path";
 import fs from "fs";
 import jimp from "jimp";
-import {masterThemeDefinitionDirectoryPath, masterThemesDirectory, walkAndBuildTemplates,} from "./BuildFunctions";
+import { masterThemeDefinitionDirectoryPath, masterThemesDirectory, walkAndBuildTemplates, } from "./BuildFunctions";
 
 function buildBlankAsset(backgroundDirectory: string): Promise<void> {
   const highlightColor = jimp.cssColorToHex("#00000000");
@@ -45,12 +45,15 @@ const createSmolAsset = (
   stickerPath: string,
   smolStickerPath: string
 ): Promise<void> => {
+  console.log(`Smolifying sticker ${stickerPath}`);
+  
   fs.mkdirSync(path.resolve(smolStickerPath, ".."), {
     recursive: true,
   });
   return new Promise((resolve, reject) => {
     jimp.read(stickerPath, function (err, img) {
-      if(err) {
+      console.log(`Read sticker ${stickerPath}`);
+      if (err) {
         reject(err)
       } else {
         const width = img.getWidth();
@@ -59,12 +62,51 @@ const createSmolAsset = (
         const newWidth = height > width ? (width / height) * 150 : 150;
         img.resize(newWidth, newHeight)
           .write(smolStickerPath, (err) => {
-            if(err) {
+            if (err) {
               reject(err)
             } else {
+              console.log(`Successfully smolified ${stickerPath}`);
               resolve()
             }
           })
+      }
+    })
+  });
+};
+
+const createSmolWallpaper = (
+  transparentWallpaperPath: string,
+  smolWallpaperPath: string
+): Promise<void> => {
+  console.log(`Smolifying wallpaper ${transparentWallpaperPath}`);
+  
+  fs.mkdirSync(path.resolve(smolWallpaperPath, ".."), {
+    recursive: true,
+  });
+  return new Promise((resolve, reject) => {
+    jimp.read(transparentWallpaperPath, function (err, img) {
+      console.log(`Read wallpaper ${transparentWallpaperPath}`);
+      if (err) {
+        reject(err)
+      } else {
+        const width = img.getWidth();
+        const height = img.getHeight();
+        if(width <= 1920) {
+          console.log(`Didn't need to do anything for ${transparentWallpaperPath}`);
+          resolve()
+        } else {
+          const newWidth = 1920;
+          const newHeight = 1920 * (height / width);
+          img.resize(newWidth, newHeight)
+          .write(smolWallpaperPath, (err) => {
+            if (err) {
+              reject(err)
+            } else {
+              console.log(`Successfully smolified ${transparentWallpaperPath}`);
+              resolve()
+            }
+          })
+        }
       }
     })
   });
@@ -79,8 +121,8 @@ walkAndBuildTemplates()
       "doki-theme-assets"
     );
 
-    dokiThemes
-      .map(({dokiFileDefinitionPath, dokiThemeDefinition}) =>
+    return dokiThemes
+      .map(({ dokiFileDefinitionPath, dokiThemeDefinition }) =>
         Object.entries(dokiThemeDefinition.stickers).map(([, stickerName]) => ({
           dokiFileDefinitionPath,
           stickerName,
@@ -90,7 +132,7 @@ walkAndBuildTemplates()
       .reduce(
         (accum, dokiTheme) =>
           accum.then(() => {
-            const {dokiFileDefinitionPath, stickerName} = dokiTheme;
+            const { dokiFileDefinitionPath, stickerName } = dokiTheme;
             const destinationPath = dokiFileDefinitionPath.substr(
               masterThemeDefinitionDirectoryPath.length
             );
@@ -139,9 +181,24 @@ walkAndBuildTemplates()
                   "stickers", "smol",
                   stickerPath
                 );
+                const chonkyWallpaperPath = path.join(
+                  dokiThemeAssetsDirectory,
+                  "backgrounds", "wallpapers", "transparent",
+                  stickerName
+                );
+                const smolWallpaperPath = path.join(
+                  dokiThemeAssetsDirectory,
+                  "backgrounds", "wallpapers", "transparent", "smol",
+                  stickerName
+                );
                 return createSmolAsset(
                   chonkyStickerPath,
                   smolStickerPath,
+                ).then(() =>
+                  createSmolWallpaper(
+                    chonkyWallpaperPath,
+                    smolWallpaperPath,
+                  )
                 );
               })
               .then(() => "");
