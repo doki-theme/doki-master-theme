@@ -93,6 +93,9 @@ const createSmolWallpaper = (
         const height = img.getHeight();
         if(width <= 1920) {
           console.log(`Didn't need to do anything for ${transparentWallpaperPath}`);
+          fs.copyFileSync(
+            transparentWallpaperPath, smolWallpaperPath
+          )
           resolve()
         } else {
           const newWidth = 1920;
