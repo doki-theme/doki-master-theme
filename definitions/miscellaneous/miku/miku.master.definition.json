@@ -65,6 +65,7 @@
     "keywordColor": "#988F9A",
     "diff.deleted": "#393F3A",
     "lightEditorColor": "#303837",
-    "breakpointColor": "#404639"
+    "breakpointColor": "#404639",
+    "breakpointActiveColor": "#325b33"
   }
 }

@@ -65,6 +65,7 @@
     "diff.deleted": "#453C4A",
     "diff.inserted": "#204b21",
     "lightEditorColor": "#453161",
-    "breakpointColor": "#523d5b"
+    "breakpointColor": "#523d5b",
+    "breakpointActiveColor": "#425451"
   }
 }

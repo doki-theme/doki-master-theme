@@ -61,6 +61,7 @@
     "diff.deleted": "#383845",
     "secondaryAccentColor": "#00c69a",
     "lightEditorColor": "#2a2d44",
-    "breakpointColor": "#383a43"
+    "breakpointColor": "#383a43",
+    "breakpointActiveColor": "#2b503c"
   }
 }

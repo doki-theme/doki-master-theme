@@ -61,6 +61,7 @@
     "constantColor": "#005CC5",
     "diff.deleted": "#E9E6DB",
     "lightEditorColor": "#fff9ec",
-    "breakpointColor": "#fffbcb"
+    "breakpointColor": "#fffbcb",
+    "breakpointActiveColor": "#c3feb7"
   }
 }

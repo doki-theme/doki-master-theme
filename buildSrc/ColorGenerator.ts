@@ -43,12 +43,12 @@ function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition
     dokiTheme.dokiThemeDefinition.colors.textEditorBackground
   );
   const overlayColor = hex_to_rgba(
-    "#fff36650"
+    "#41ff2850"
   )
   const blendedColor = blendColors(baseColor, overlayColor);
   const newColor = rgb_to_hex(blendedColor);
 
-  dokiTheme.dokiThemeDefinition.colors["breakpointColor"] = '#' + newColor
+  dokiTheme.dokiThemeDefinition.colors["breakpointActiveColor"] = '#' + newColor
 }
 
 walkAndBuildTemplates()
