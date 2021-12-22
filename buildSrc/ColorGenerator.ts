@@ -37,16 +37,18 @@ function blendColors(
 }
 
 function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition; dokiFileDefinitionPath: string }) {
+  if(dokiTheme.dokiThemeDefinition.dark) return;
+
   const baseColor = hex_to_rgba(
     dokiTheme.dokiThemeDefinition.colors.textEditorBackground
   );
   const overlayColor = hex_to_rgba(
-    dokiTheme.dokiThemeDefinition.colors.caretRow + "99"
+    "#fff36650"
   )
   const blendedColor = blendColors(baseColor, overlayColor);
   const newColor = rgb_to_hex(blendedColor);
 
-  dokiTheme.dokiThemeDefinition.colors["lightEditorColor"] = '#' + newColor
+  dokiTheme.dokiThemeDefinition.colors["breakpointColor"] = '#' + newColor
 }
 
 walkAndBuildTemplates()

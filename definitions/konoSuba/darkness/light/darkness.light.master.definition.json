@@ -60,6 +60,7 @@
     "keywordColor": "#E36207",
     "constantColor": "#005CC5",
     "diff.deleted": "#E9E6DB",
-    "lightEditorColor": "#fff9ec"
+    "lightEditorColor": "#fff9ec",
+    "breakpointColor": "#fffbcb"
   }
 }

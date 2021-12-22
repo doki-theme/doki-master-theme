@@ -66,6 +66,7 @@
     "diff.conflict": "#57171a",
     "diff.inserted": "#102d0e",
     "diff.modified": "#1c2331",
-    "lightEditorColor": "#381212"
+    "lightEditorColor": "#381212",
+    "breakpointColor": "#422216"
   }
 }

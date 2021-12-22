@@ -59,6 +59,7 @@
     "keyColor": "#3F77EF",
     "constantColor": "#4C94D6",
     "keywordColor": "#9D868D",
-    "lightEditorColor": "#e4f3fa"
+    "lightEditorColor": "#e4f3fa",
+    "breakpointColor": "#f5f8cf"
   }
 }

@@ -64,6 +64,7 @@
     "keywordColor": "#58b7ff",
     "diff.inserted": "#192f24",
     "diff.deleted": "#212140",
-    "lightEditorColor": "#171942"
+    "lightEditorColor": "#171942",
+    "breakpointColor": "#28293f"
   }
 }
