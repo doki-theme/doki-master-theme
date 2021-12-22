@@ -62,6 +62,7 @@
     "keyColor": "#3B82BD",
     "keywordColor": "#988F9A",
     "diff.deleted": "#242426",
-    "diff.inserted": "#1B3B1C"
+    "diff.inserted": "#1B3B1C",
+    "lightEditorColor": "#1d1d1d"
   }
 }

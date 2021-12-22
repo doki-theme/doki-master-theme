@@ -59,6 +59,7 @@
     "keyColor": "#6893f3",
     "keywordColor": "#988F9A",
     "diff.deleted": "#383845",
-    "secondaryAccentColor": "#00c69a"
+    "secondaryAccentColor": "#00c69a",
+    "lightEditorColor": "#2a2d44"
   }
 }

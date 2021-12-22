@@ -65,6 +65,7 @@
     "terminal.ansiYellow": "#A46B21",
     "diff.deleted": "#D6D6EC",
     "diff.modified": "#A7F5F8",
-    "diff.inserted": "#B7FAAF"
+    "diff.inserted": "#B7FAAF",
+    "lightEditorColor": "#dcdbff"
   }
 }

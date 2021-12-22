@@ -62,6 +62,7 @@
     "terminal.ansiGreen": "#208D3B",
     "terminal.ansiBlue": "#5C358D",
     "terminal.ansiCyan": "#0896AD",
-    "terminal.ansiYellow": "#916121"
+    "terminal.ansiYellow": "#916121",
+    "lightEditorColor": "#f0f5fd"
   }
 }

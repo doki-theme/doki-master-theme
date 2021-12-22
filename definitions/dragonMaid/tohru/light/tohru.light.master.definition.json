@@ -63,6 +63,7 @@
     "diff.deleted": "#edd289",
     "diff.modified": "#ecd19e",
     "diff.conflict": "#f9bf7c",
-    "diff.inserted": "#cfe287"
+    "diff.inserted": "#cfe287",
+    "lightEditorColor": "#ffe494"
   }
 }

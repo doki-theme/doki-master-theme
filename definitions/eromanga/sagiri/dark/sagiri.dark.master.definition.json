@@ -59,17 +59,16 @@
     "constantColor": "#82BAFF",
     "comments": "#507F78",
     "unusedColor": "#64606b",
-
     "terminal.ansiRed": "#FF7AB2",
     "terminal.ansiGreen": "#54ea7c",
     "terminal.ansiYellow": "#fdaa39",
     "terminal.ansiBlue": "#B39AFF",
     "terminal.ansiMagenta": "#FF91BF",
     "terminal.ansiCyan": "#6DD6EE",
-
     "diff.deleted": "#27423F",
     "diff.conflict": "#491E1E",
     "diff.inserted": "#0A5029",
-    "diff.modified": "#1B5496"
+    "diff.modified": "#1B5496",
+    "lightEditorColor": "#0b423b"
   }
 }

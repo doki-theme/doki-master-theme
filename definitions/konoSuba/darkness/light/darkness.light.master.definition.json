@@ -59,6 +59,7 @@
     "keyColor": "#3492b1",
     "keywordColor": "#E36207",
     "constantColor": "#005CC5",
-    "diff.deleted": "#E9E6DB"
+    "diff.deleted": "#E9E6DB",
+    "lightEditorColor": "#fff9ec"
   }
 }

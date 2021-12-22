@@ -57,7 +57,8 @@
     "htmlTagColor": "#9D868D",
     "stringColor": "#DC872E",
     "keyColor": "#3F77EF",
-    "constantColor":"#4C94D6",
-    "keywordColor": "#9D868D"
+    "constantColor": "#4C94D6",
+    "keywordColor": "#9D868D",
+    "lightEditorColor": "#e4f3fa"
   }
 }
