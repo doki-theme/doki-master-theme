@@ -65,6 +65,11 @@
     "diff.inserted": "#142F14",
     "lightEditorColor": "#1e2122",
     "breakpointColor": "#2c2d23",
-    "breakpointActiveColor": "#20451f"
+    "breakpointActiveColor": "#20451f",
+    "fileBlue": "#182e46",
+    "fileGray": "#28292b",
+    "fileRose": "#371f2e",
+    "fileOrange": "#342616",
+    "fileViolet": "#25213d"
   }
 }

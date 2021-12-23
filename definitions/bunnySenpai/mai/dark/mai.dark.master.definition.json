@@ -63,6 +63,11 @@
     "secondaryAccentColor": "#00c69a",
     "lightEditorColor": "#29294e",
     "breakpointColor": "#36354a",
-    "breakpointActiveColor": "#294c42"
+    "breakpointActiveColor": "#294c42",
+    "fileBlue": "#23386f",
+    "fileGray": "#333354",
+    "fileRose": "#422957",
+    "fileOrange": "#3f303f",
+    "fileViolet": "#312a66"
   }
 }

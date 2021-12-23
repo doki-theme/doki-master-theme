@@ -65,6 +65,11 @@
     "terminal.ansiYellow": "#916121",
     "lightEditorColor": "#f0f5fd",
     "breakpointColor": "#fffbcf",
-    "breakpointActiveColor": "#c3ffbc"
+    "breakpointActiveColor": "#c3ffbc",
+    "fileBlue": "#cce2f9",
+    "fileGray": "#dcdddd",
+    "fileRose": "#ebc8dc",
+    "fileOrange": "#e8dac9",
+    "fileViolet": "#e7d7f5"
   }
 }

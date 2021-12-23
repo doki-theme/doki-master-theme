@@ -61,6 +61,11 @@
     "keywordColor": "#9D868D",
     "lightEditorColor": "#e4f3fa",
     "breakpointColor": "#f5f8cf",
-    "breakpointActiveColor": "#b9fcbc"
+    "breakpointActiveColor": "#b9fcbc",
+    "fileBlue": "#c8e5ff",
+    "fileGray": "#d8e0e4",
+    "fileRose": "#e7cbe3",
+    "fileOrange": "#e4ddcf",
+    "fileViolet": "#e2dbfc"
   }
 }

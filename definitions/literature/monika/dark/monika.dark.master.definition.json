@@ -64,6 +64,11 @@
     "diff.deleted": "#38403A",
     "lightEditorColor": "#212618",
     "breakpointColor": "#30321c",
-    "breakpointActiveColor": "#244a19"
+    "breakpointActiveColor": "#244a19",
+    "fileBlue": "#1c3541",
+    "fileGray": "#2c3026",
+    "fileRose": "#3c2629",
+    "fileOrange": "#392d11",
+    "fileViolet": "#2a2738"
   }
 }

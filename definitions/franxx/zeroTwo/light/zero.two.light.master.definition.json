@@ -64,6 +64,11 @@
     "constantColor": "#0d5fa6",
     "lightEditorColor": "#f6f6f6",
     "breakpointColor": "#fdf9cd",
-    "breakpointActiveColor": "#c1fdb9"
+    "breakpointActiveColor": "#c1fdb9",
+    "fileBlue": "#d0e5fb",
+    "fileGray": "#e0e0e0",
+    "fileRose": "#efcbdf",
+    "fileOrange": "#ecddcb",
+    "fileViolet": "#ebdbf8"
   }
 }

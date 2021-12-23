@@ -66,6 +66,11 @@
     "diff.conflict": "#3E1D1D",
     "lightEditorColor": "#1b1b1b",
     "breakpointColor": "#28271c",
-    "breakpointActiveColor": "#1d4019"
+    "breakpointActiveColor": "#1d4019",
+    "fileBlue": "#1a2f45",
+    "fileGray": "#2a2a2a",
+    "fileRose": "#39202d",
+    "fileOrange": "#362715",
+    "fileViolet": "#28213c"
   }
 }
