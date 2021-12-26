@@ -59,7 +59,7 @@
     "keyColor": "#176B82",
     "keywordColor": "#A74503",
     "constantColor": "#005CC5",
-    "terminal.ansiCyan": "#1fb5cd",
+    "terminal.ansiCyan": "#0896AD",
     "diff.deleted": "#edd289",
     "diff.modified": "#ecd19e",
     "diff.conflict": "#f9bf7c",
@@ -71,6 +71,9 @@
     "fileGray": "#ddc583",
     "fileRose": "#ecb082",
     "fileOrange": "#f1bc65",
-    "fileViolet": "#e7be94"
+    "fileViolet": "#e7be94",
+    "fileYellow": "#ebd56c",
+    "fileRed": "#eaa068",
+    "filePurple": "#cc9f9f"
   }
 }

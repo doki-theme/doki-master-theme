@@ -71,6 +71,9 @@
     "fileGray": "#42242b",
     "fileRose": "#511a2e",
     "fileOrange": "#4e2116",
-    "fileViolet": "#3f1c3d"
+    "fileViolet": "#3f1c3d",
+    "fileYellow": "#4e2e1e",
+    "fileRed": "#4d151c",
+    "filePurple": "#3f1535"
   }
 }

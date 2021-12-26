@@ -52,6 +52,7 @@
     "codeBlock": "#f6f6f6",
     "textEditorBackground": "#fcfcfc",
     "foldedTextBackground": "#f6f6f6",
+    "terminal.ansiCyan": "#0896AD",
     "classNameColor": "#db974d",
     "htmlTagColor": "#e53935",
     "stringColor": "#a61d0d",
@@ -65,6 +66,9 @@
     "fileGray": "#e2e2e2",
     "fileRose": "#f2cde1",
     "fileOrange": "#f5d5b6",
-    "fileViolet": "#eeddfb"
+    "fileViolet": "#eeddfb",
+    "fileYellow": "#f0edbc",
+    "fileRed": "#efb8b8",
+    "filePurple": "#d1b7ef"
   }
 }

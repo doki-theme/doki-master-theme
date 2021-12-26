@@ -37,7 +37,7 @@ function blendColors(
 }
 
 function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition; dokiFileDefinitionPath: string }) {
-  if(dokiTheme.dokiThemeDefinition.dark) return;
+  if(!dokiTheme.dokiThemeDefinition.dark) return;
 
   const baseColor = hex_to_rgba(
     dokiTheme.dokiThemeDefinition.colors.headerColor
@@ -49,14 +49,13 @@ function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition
   const orange = hex_to_rgba("#e57e1a50")
   const rose = hex_to_rgba("#c03a7f30")
   const violet = hex_to_rgba("#6441d030")
-  const blendedColor = blendColors(baseColor, overlayColor);
-  const newColor = rgb_to_hex(blendedColor);
+  const yellow = hex_to_rgba("#d3cb2f25")
+  const red = hex_to_rgba("#d0222225")
+  const purple = hex_to_rgba("#701fd025")
 
-  // dokiTheme.dokiThemeDefinition.colors["fileBlue"] = '#' + newColor
-  // dokiTheme.dokiThemeDefinition.colors["fileGray"] = '#' + rgb_to_hex(blendColors(baseColor, gray))
-  // dokiTheme.dokiThemeDefinition.colors["fileRose"] = '#' + rgb_to_hex(blendColors(baseColor, rose))
-  dokiTheme.dokiThemeDefinition.colors["fileOrange"] = '#' + rgb_to_hex(blendColors(baseColor, orange))
-  // dokiTheme.dokiThemeDefinition.colors["fileViolet"] = '#' + rgb_to_hex(blendColors(baseColor, violet))
+  dokiTheme.dokiThemeDefinition.colors["fileYellow"] = '#' + rgb_to_hex(blendColors(baseColor, yellow))
+  dokiTheme.dokiThemeDefinition.colors["fileRed"] = '#' + rgb_to_hex(blendColors(baseColor, red))
+  dokiTheme.dokiThemeDefinition.colors["filePurple"] = '#' + rgb_to_hex(blendColors(baseColor, purple))
 }
 
 walkAndBuildTemplates()

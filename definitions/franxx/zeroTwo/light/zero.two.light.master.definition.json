@@ -52,6 +52,7 @@
     "accentColorOverride": "#009CEC",
     "stopColor": "#ec081e",
     "testScopeColor": "#ecfded",
+    "terminal.ansiCyan": "#0896AD",
     "popupMask": "#e7e6eb05",
     "codeBlock": "#f6f6f6",
     "textEditorBackground": "#fcfcfc",
@@ -69,6 +70,9 @@
     "fileGray": "#e0e0e0",
     "fileRose": "#efcbdf",
     "fileOrange": "#f3d3b4",
-    "fileViolet": "#ebdbf8"
+    "fileViolet": "#ebdbf8",
+    "fileYellow": "#eeebba",
+    "fileRed": "#edb6b6",
+    "filePurple": "#cfb5ed"
   }
 }
