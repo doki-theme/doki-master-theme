@@ -63,6 +63,17 @@
     "keyColor": "#BD84DD",
     "keywordColor": "#58b7ff",
     "diff.inserted": "#192f24",
-    "diff.deleted": "#212140"
+    "diff.deleted": "#212140",
+    "lightEditorColor": "#171942",
+    "breakpointColor": "#28293f",
+    "breakpointActiveColor": "#1d4238",
+    "fileBlue": "#193067",
+    "fileGray": "#292b4c",
+    "fileRose": "#38214f",
+    "fileOrange": "#362837",
+    "fileViolet": "#27225e",
+    "fileYellow": "#343541",
+    "fileRed": "#341c3f",
+    "filePurple": "#261c58"
   }
 }

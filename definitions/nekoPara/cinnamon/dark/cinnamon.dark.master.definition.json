@@ -63,17 +63,26 @@
     "constantColor": "#8bc1f8",
     "comments": "#7384d4",
     "unusedColor": "#64606b",
-
     "terminal.ansiRed": "#FF7AB2",
     "terminal.ansiGreen": "#54ea7c",
     "terminal.ansiYellow": "#fdaa39",
     "terminal.ansiBlue": "#B39AFF",
     "terminal.ansiMagenta": "#FF91BF",
     "terminal.ansiCyan": "#6DD6EE",
-
     "diff.deleted": "#3B4267",
     "diff.conflict": "#622E4C",
     "diff.inserted": "#1B5059",
-    "diff.modified": "#274B9B"
+    "diff.modified": "#274B9B",
+    "lightEditorColor": "#3b3887",
+    "breakpointColor": "#454276",
+    "breakpointActiveColor": "#365868",
+    "fileBlue": "#324597",
+    "fileGray": "#42407c",
+    "fileRose": "#51367f",
+    "fileOrange": "#4e3d67",
+    "fileViolet": "#3f378e",
+    "fileYellow": "#4e4b73",
+    "fileRed": "#4d3272",
+    "filePurple": "#3f328b"
   }
 }

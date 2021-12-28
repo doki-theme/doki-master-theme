@@ -57,7 +57,18 @@
     "htmlTagColor": "#9D868D",
     "stringColor": "#DC872E",
     "keyColor": "#3F77EF",
-    "constantColor":"#4C94D6",
-    "keywordColor": "#9D868D"
+    "constantColor": "#4C94D6",
+    "keywordColor": "#9D868D",
+    "lightEditorColor": "#e4f3fa",
+    "breakpointColor": "#f5f8cf",
+    "breakpointActiveColor": "#b9fcbc",
+    "fileBlue": "#c8e5ff",
+    "fileGray": "#d8e0e4",
+    "fileRose": "#e7cbe3",
+    "fileOrange": "#edd3b7",
+    "fileViolet": "#e2dbfc",
+    "fileYellow": "#e7ebbe",
+    "fileRed": "#e6b6ba",
+    "filePurple": "#c8b5f0"
   }
 }

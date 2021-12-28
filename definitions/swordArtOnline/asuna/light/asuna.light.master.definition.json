@@ -16,7 +16,7 @@
     }
   },
   "colors": {
-    "caretRow": "#f6f6f6",
+    "caretRow": "#feeeee",
     "lineNumberColor": "#aaaaaa",
     "infoForeground": "#a25252",
     "completionWindowBackground": "#e7e5ea",
@@ -52,11 +52,23 @@
     "codeBlock": "#f6f6f6",
     "textEditorBackground": "#fcfcfc",
     "foldedTextBackground": "#f6f6f6",
+    "terminal.ansiCyan": "#0896AD",
     "classNameColor": "#db974d",
     "htmlTagColor": "#e53935",
     "stringColor": "#a61d0d",
     "keyColor": "#0d5fa6",
     "keywordColor": "#a61d0d",
-    "constantColor": "#4C94D6"
+    "constantColor": "#4C94D6",
+    "lightEditorColor": "#f6f6f6",
+    "breakpointColor": "#fdf9cd",
+    "breakpointActiveColor": "#c1fdb9",
+    "fileBlue": "#d2e8fd",
+    "fileGray": "#e2e2e2",
+    "fileRose": "#f2cde1",
+    "fileOrange": "#f5d5b6",
+    "fileViolet": "#eeddfb",
+    "fileYellow": "#f0edbc",
+    "fileRed": "#efb8b8",
+    "filePurple": "#d1b7ef"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "doki-master-theme",
-  "version": "17.0.0",
+  "version": "17.1.0",
   "description": "The Doki Theme",
   "main": "build/index.js",
   "repository": "https://github.com/doki-theme/doki-master-theme.git",
@@ -9,13 +9,14 @@
   "private": false,
   "scripts": {
     "generateTemplates": "ts-node buildSrc/AppThemeTemplateGenerator.ts",
-    "generateAssets": "ts-node buildSrc/AssetGenerator.ts"
+    "generateAssets": "ts-node buildSrc/AssetGenerator.ts",
+    "generateColors": "ts-node buildSrc/ColorGenerator.ts"
   },
   "devDependencies": {
     "@types/jimp": "^0.2.28",
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.7.7",
-    "doki-build-source": "^1.1.0",
+    "doki-build-source": "^1.8.0",
     "jimp": "^0.16.1",
     "ts-node": "^8.6.2",
     "typescript": "^3.8.3"

@@ -63,6 +63,17 @@
     "diff.modified": "#1B3A47",
     "diff.inserted": "#1E3425",
     "diff.conflict": "#4B2424",
-    "diff.deleted": "#2F3334"
+    "diff.deleted": "#2F3334",
+    "lightEditorColor": "#282b2e",
+    "breakpointColor": "#36382e",
+    "breakpointActiveColor": "#294f29",
+    "fileBlue": "#203750",
+    "fileGray": "#303235",
+    "fileRose": "#3f2838",
+    "fileOrange": "#3c2f20",
+    "fileViolet": "#2e2947",
+    "fileYellow": "#3b3c28",
+    "fileRed": "#3a2426",
+    "filePurple": "#2c2340"
   }
 }

@@ -65,6 +65,17 @@
     "terminal.ansiYellow": "#A46B21",
     "diff.deleted": "#D6D6EC",
     "diff.modified": "#A7F5F8",
-    "diff.inserted": "#B7FAAF"
+    "diff.inserted": "#B7FAAF",
+    "lightEditorColor": "#dcdbff",
+    "breakpointColor": "#f0eccf",
+    "breakpointActiveColor": "#b4f0bc",
+    "fileBlue": "#b6caff",
+    "fileGray": "#c6c5e4",
+    "fileRose": "#d5b0e3",
+    "fileOrange": "#ddbcb7",
+    "fileViolet": "#cfbefc",
+    "fileYellow": "#d8d5be",
+    "fileRed": "#d7a0ba",
+    "filePurple": "#b99ff0"
   }
 }

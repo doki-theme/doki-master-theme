@@ -66,6 +66,17 @@
     "diff.deleted": "#f0c792",
     "diff.modified": "#e1c2b5",
     "diff.conflict": "#ffc088",
-    "diff.inserted": "#e9da84"
+    "diff.inserted": "#e9da84",
+    "lightEditorColor": "#ffc892",
+    "breakpointColor": "#FCE276",
+    "breakpointActiveColor": "#c3df70",
+    "fileBlue": "#dfb7a2",
+    "fileGray": "#e2bb89",
+    "fileRose": "#f2a688",
+    "fileOrange": "#f5b46a",
+    "fileViolet": "#eeb39b",
+    "fileYellow": "#f0cc71",
+    "fileRed": "#ef976d",
+    "filePurple": "#d196a3"
   }
 }
