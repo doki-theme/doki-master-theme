@@ -37,25 +37,48 @@ function blendColors(
 }
 
 function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition; dokiFileDefinitionPath: string }) {
-  if(!dokiTheme.dokiThemeDefinition.dark) return;
+  // if(!dokiTheme.dokiThemeDefinition.dark) return;
+  if(dokiTheme.dokiThemeDefinition.id !== "d587f5ab-9334-4b7b-a99e-58461719d87b") return;
 
-  const baseColor = hex_to_rgba(
+  const headerColor = hex_to_rgba(
     dokiTheme.dokiThemeDefinition.colors.headerColor
   );
-  const overlayColor = hex_to_rgba(
-    "#1a8bff30",
+  const textEditorColor = hex_to_rgba(
+    dokiTheme.dokiThemeDefinition.colors.textEditorBackground
+  );
+  const lightEditorColor = hex_to_rgba(
+    dokiTheme.dokiThemeDefinition.colors.caretRow + "99"
+  )
+
+  const breakpointColor = hex_to_rgba(
+  "#fff36625"
 )
+  const breakpointActiveColor = hex_to_rgba(
+  "#41ff2830"
+)
+
+  const blue = hex_to_rgba("#1a8bff30")
   const gray = hex_to_rgba("#6f6f6f30")
-  const orange = hex_to_rgba("#e57e1a50")
+  const orange = hex_to_rgba("#e57e1a30")
   const rose = hex_to_rgba("#c03a7f30")
   const violet = hex_to_rgba("#6441d030")
   const yellow = hex_to_rgba("#d3cb2f25")
   const red = hex_to_rgba("#d0222225")
   const purple = hex_to_rgba("#701fd025")
 
-  dokiTheme.dokiThemeDefinition.colors["fileYellow"] = '#' + rgb_to_hex(blendColors(baseColor, yellow))
-  dokiTheme.dokiThemeDefinition.colors["fileRed"] = '#' + rgb_to_hex(blendColors(baseColor, red))
-  dokiTheme.dokiThemeDefinition.colors["filePurple"] = '#' + rgb_to_hex(blendColors(baseColor, purple))
+  dokiTheme.dokiThemeDefinition.colors["lightEditorColor"] = '#' + rgb_to_hex(blendColors(textEditorColor, lightEditorColor))
+
+  dokiTheme.dokiThemeDefinition.colors["breakpointColor"] = '#' + rgb_to_hex(blendColors(textEditorColor, breakpointColor))
+  dokiTheme.dokiThemeDefinition.colors["breakpointActiveColor"] = '#' + rgb_to_hex(blendColors(textEditorColor, breakpointActiveColor))
+
+  dokiTheme.dokiThemeDefinition.colors["fileBlue"] = '#' + rgb_to_hex(blendColors(headerColor, blue))
+  dokiTheme.dokiThemeDefinition.colors["fileGray"] = '#' + rgb_to_hex(blendColors(headerColor, gray))
+  dokiTheme.dokiThemeDefinition.colors["fileRose"] = '#' + rgb_to_hex(blendColors(headerColor, rose))
+  dokiTheme.dokiThemeDefinition.colors["fileOrange"] = '#' + rgb_to_hex(blendColors(headerColor, orange))
+  dokiTheme.dokiThemeDefinition.colors["fileViolet"] = '#' + rgb_to_hex(blendColors(headerColor, violet))
+  dokiTheme.dokiThemeDefinition.colors["fileYellow"] = '#' + rgb_to_hex(blendColors(headerColor, yellow))
+  dokiTheme.dokiThemeDefinition.colors["fileRed"] = '#' + rgb_to_hex(blendColors(headerColor, red))
+  dokiTheme.dokiThemeDefinition.colors["filePurple"] = '#' + rgb_to_hex(blendColors(headerColor, purple))
 }
 
 walkAndBuildTemplates()
