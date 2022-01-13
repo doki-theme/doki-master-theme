@@ -11,7 +11,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#8bd9ff",
+        "accentColor": "#ff8bfd",
         "startColor": "#597cee"
       }
     }
@@ -52,28 +52,27 @@
     "codeBlock": "#332625",
     "foldedTextBackground": "#392831",
     "textEditorBackground": "#2c1f26",
-    "editorAccentColor": "#8bd9ff",
-    "constantColor": "#ec9cb2",
+    "constantColor": "#3A98EE",
     "unusedColor": "#5b545c",
-    "classNameColor": "#89acf6",
-    "htmlTagColor": "#5ec69e",
+    "classNameColor": "#61ead9",
+    "htmlTagColor": "#ea8f73",
     "stringColor": "#F6E9CB",
-    "keyColor": "#61ead9",
-    "keywordColor": "#ea73d6",
+    "keyColor": "#61c1ea",
+    "keywordColor": "#ec9cb2",
     "diff.modified": "#253F4C",
     "diff.inserted": "#223B28",
     "diff.conflict": "#3E2424",
     "diff.deleted": "#343037",
-    "lightEditorColor": "#2f3643",
-    "breakpointColor": "#3c403f",
-    "breakpointActiveColor": "#2f5637",
-    "fileBlue": "#2a4462",
-    "fileGray": "#3a3f47",
-    "fileRose": "#49354a",
-    "fileOrange": "#473c32",
-    "fileViolet": "#383659",
-    "fileYellow": "#464a3c",
-    "fileRed": "#46313a",
-    "filePurple": "#383153"
+    "lightEditorColor": "#34242d",
+    "breakpointColor": "#4b3e2f",
+    "breakpointActiveColor": "#304926",
+    "fileBlue": "#2b3550",
+    "fileGray": "#3b3035",
+    "fileRose": "#4a2638",
+    "fileOrange": "#513325",
+    "fileViolet": "#392748",
+    "fileYellow": "#473a29",
+    "fileRed": "#462127",
+    "filePurple": "#382140"
   }
 }
