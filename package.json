@@ -10,6 +10,7 @@
   "scripts": {
     "generateTemplates": "ts-node buildSrc/AppThemeTemplateGenerator.ts",
     "generateAssets": "ts-node buildSrc/AssetGenerator.ts",
+    "generateSmolAssets": "ts-node buildSrc/AssetGenerator.ts --smol",
     "generateColors": "ts-node buildSrc/ColorGenerator.ts"
   },
   "devDependencies": {
