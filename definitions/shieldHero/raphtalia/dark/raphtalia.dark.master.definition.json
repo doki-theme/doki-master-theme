@@ -11,7 +11,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#ad8cee",
+        "accentColor": "#4fe1a9",
         "startColor": "#6be9ff"
       }
     }
@@ -49,31 +49,31 @@
     "stopColor": "#ee8952",
     "testScopeColor": "#1d2110",
     "popupMask": "#928d8d05",
-    "codeBlock": "#2e2b26",
+    "codeBlock": "#2c1e12",
     "foldedTextBackground": "#2d2318",
     "textEditorBackground": "#1e1710",
     "errorColor": "#ff2525",
-    "constantColor": "#ec93a1",
+    "constantColor": "#8097e3",
     "unusedColor": "#606867",
-    "classNameColor": "#ee7fdc",
-    "htmlTagColor": "#fd9144",
+    "classNameColor": "#FFD448",
+    "htmlTagColor": "#d75e88",
     "stringColor": "#F6E9CB",
-    "keyColor": "#4fe1a9",
-    "keywordColor": "#FFD448",
+    "keyColor": "#fd9144",
+    "keywordColor": "#f19992",
     "diff.modified": "#1B3A47",
-    "diff.inserted": "#1E3425",
+    "diff.inserted": "#152F1A",
     "diff.conflict": "#4B2424",
-    "diff.deleted": "#2F2A2A",
-    "lightEditorColor": "#321f1f",
-    "breakpointColor": "#3e2f23",
-    "breakpointActiveColor": "#31471f",
-    "fileBlue": "#2b3046",
-    "fileGray": "#3b2b2b",
-    "fileRose": "#4a212e",
-    "fileOrange": "#472816",
-    "fileViolet": "#39223d",
-    "fileYellow": "#47351e",
-    "fileRed": "#461c1c",
-    "filePurple": "#381c35"
+    "diff.deleted": "#282621",
+    "lightEditorColor": "#261c14",
+    "breakpointColor": "#3f371c",
+    "breakpointActiveColor": "#254315",
+    "fileBlue": "#1c2a3c",
+    "fileGray": "#2c2521",
+    "fileRose": "#3b1b24",
+    "fileOrange": "#422811",
+    "fileViolet": "#2a1c33",
+    "fileYellow": "#372f14",
+    "fileRed": "#361612",
+    "filePurple": "#28162b"
   }
 }
