@@ -11,7 +11,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#57e1ee",
+        "accentColor": "#F16060",
         "startColor": "#eead59"
       }
     }
@@ -56,10 +56,10 @@
     "constantColor": "#EA7797",
     "unusedColor": "#4e565e",
     "classNameColor": "#8BEF85",
-    "htmlTagColor": "#E77FD5",
+    "htmlTagColor": "#7286F5",
     "stringColor": "#f3b085",
     "keyColor": "#eec45e",
-    "keywordColor": "#D53232",
+    "keywordColor": "#57e1ee",
     "diff.modified": "#183059",
     "diff.inserted": "#122C12",
     "diff.conflict": "#3F1A22",
