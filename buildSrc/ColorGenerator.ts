@@ -38,7 +38,7 @@ function blendColors(
 
 function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition; dokiFileDefinitionPath: string }) {
   // if(!dokiTheme.dokiThemeDefinition.dark) return;
-  if(dokiTheme.dokiThemeDefinition.id !== "d587f5ab-9334-4b7b-a99e-58461719d87b") return;
+  if(dokiTheme.dokiThemeDefinition.id !== "6428e1ff-202c-4a43-afb3-9999ebe3b2ca") return;
 
   const headerColor = hex_to_rgba(
     dokiTheme.dokiThemeDefinition.colors.headerColor
@@ -51,10 +51,10 @@ function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition
   )
 
   const breakpointColor = hex_to_rgba(
-  "#fff36625"
+  "#fff36620"
 )
   const breakpointActiveColor = hex_to_rgba(
-  "#41ff2830"
+  "#41ff2825"
 )
 
   const blue = hex_to_rgba("#1a8bff30")
