@@ -45,8 +45,6 @@ const createSmolAsset = (
   stickerPath: string,
   smolStickerPath: string
 ): Promise<void> => {
-  console.log(`Smolifying sticker ${stickerPath}`);
-  
   fs.mkdirSync(path.resolve(smolStickerPath, ".."), {
     recursive: true,
   });
@@ -173,6 +171,8 @@ walkAndBuildTemplates()
                 );
               })
               .then(() => {
+                if(process.argv[3] !== '--smol') return;
+
                 // create all smol image assets for doki-home
                 const chonkyStickerPath = path.join(
                   dokiThemeAssetsDirectory,

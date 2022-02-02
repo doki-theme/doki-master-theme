@@ -12,7 +12,7 @@
     "editorScheme": {
       "colors": {
         "testScopeColor": "#3a4258",
-        "accentColor": "#BC60CB",
+        "accentColor": "#AE7BFF",
         "startColor": "#DADADA"
       }
     }
@@ -28,15 +28,13 @@
     "nonProjectFileScopeColor": "#4d3458",
     "secondaryBackground": "#4e2d62",
     "selectionForeground": "#d29eff",
-    "inactiveBackground": "#441d55",
-    "inactiveBackgroundDarker": "#4e1e5f",
     "headerColor": "#4c2e5c",
     "baseBackground": "#4e3162",
     "borderColor": "#553a63",
     "buttonColor": "#553967",
     "selectionInactive": "#513466",
     "identifierHighlight": "#513466",
-    "selectionBackground": "#51256d",
+    "selectionBackground": "#5C3378",
     "searchBackground": "#7749b2",
     "searchForeground": "#e7e5f3",
     "buttonFont": "#c799e3",
@@ -56,10 +54,11 @@
     "textEditorBackground": "#492d5a",
     "foldedTextBackground": "#402a54",
     "classNameColor": "#FF9CD6",
-    "htmlTagColor": "#bca3aa",
+    "htmlTagColor": "#BF98F1",
     "stringColor": "#FDEFA2",
-    "keyColor": "#a475ef",
-    "keywordColor": "#e049b0",
+    "keyColor": "#C1A2F8",
+    "constantColor": "#FFB9A7",
+    "keywordColor": "#EF69C3",
     "diff.deleted": "#4E4151",
     "diff.inserted": "#204b21",
     "lightEditorColor": "#503161",

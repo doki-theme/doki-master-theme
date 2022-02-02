@@ -54,6 +54,7 @@
     "textEditorBackground": "#262940",
     "foldedTextBackground": "#2e3149",
     "classNameColor": "#8dc6ef",
+    "constantColor": "#48ffd6",
     "htmlTagColor": "#a28a92",
     "stringColor": "#f4fa8c",
     "keyColor": "#6893f3",
