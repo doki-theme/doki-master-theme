@@ -171,7 +171,7 @@ walkAndBuildTemplates()
                 );
               })
               .then(() => {
-                if(process.argv[3] !== '--smol') return;
+                if(process.argv[2] !== '--smol') return;
 
                 // create all smol image assets for doki-home
                 const chonkyStickerPath = path.join(
