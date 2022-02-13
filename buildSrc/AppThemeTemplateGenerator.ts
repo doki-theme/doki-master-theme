@@ -40,6 +40,15 @@ const chromeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   colors: {},
 });
 
+const firefoxTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+  id: dokiThemeDefinition.id,
+  overrides: {},
+  laf: {},
+  syntax: {},
+  colors: {},
+});
+
+
 const vimTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   id: dokiThemeDefinition.id,
   overrides: {},
@@ -88,7 +97,7 @@ const homeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
 /*********************************************************************************************/
 
 /**
- * This Function creates each application specific template and puts it in the "buildSrc/assets/templates 
+ * This Function creates each application specific template and puts it in the "buildSrc/assets/templates
  * of the current app"
  *
  * This is most handy when creating the doki theme for a new application as it preserves the
@@ -104,9 +113,9 @@ function buildApplicationTemplate(
 
 /**
  * You also want to change this as well
- *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home | visualstudio
+ *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home | visualstudio | firefox
  */
-const appName = 'jetbrains';
+const appName = 'firefox';
 
 /**************************************************************************/
 
@@ -153,7 +162,7 @@ walkAndBuildTemplates()
         null,
         2
       );
-      
+
       fs.writeFileSync(appTemplateDefinition, definitionAsString);
     });
   })
