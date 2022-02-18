@@ -7,7 +7,11 @@
   "group": "Evangelion",
   "product": "community",
   "stickers": {
-    "default": "rei_dark.png"
+    "default": {
+      "name": "rei_dark.png",
+      "anchor": "right",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

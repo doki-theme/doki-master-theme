@@ -6,8 +6,16 @@
   "author": "Unthrottled",
   "group": "Literature Club",
   "stickers": {
-    "default": "natsuki.png",
-    "secondary": "natsuki_joy.png"
+    "default": {
+      "name": "natsuki.png",
+      "anchor": "right",
+      "opacity": 15
+    },
+    "secondary": {
+      "name": "natsuki_joy.png",
+      "anchor": "center",
+      "opacity": 10
+    }
   },
   "colors": {
     "caretRow": "#ffdce6",

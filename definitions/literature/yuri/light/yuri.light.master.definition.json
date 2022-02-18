@@ -6,8 +6,16 @@
   "author": "Unthrottled",
   "group": "Literature Club",
   "stickers": {
-    "default": "yuri.png",
-    "secondary": "yuri_joy.png"
+    "default": {
+      "name": "yuri.png",
+      "anchor": "center",
+      "opacity": 10
+    },
+    "secondary": {
+      "name": "yuri_joy.png",
+      "anchor": "center",
+      "opacity": 10
+    }
   },
   "overrides": {
     "editorScheme": {

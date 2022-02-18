@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "DanganRonpa",
   "stickers": {
-    "default": "ibuki_dark.png"
+    "default": {
+      "name": "ibuki_dark.png",
+      "anchor": "right",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

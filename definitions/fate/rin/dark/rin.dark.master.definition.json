@@ -7,7 +7,11 @@
   "author": "Unthrottled",
   "group": "Fate",
   "stickers": {
-    "default": "rin_dark_v2.png"
+    "default": {
+      "name": "rin_dark_v2.png",
+      "anchor": "right",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

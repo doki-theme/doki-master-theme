@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Kill la Kill",
   "stickers": {
-    "default": "satsuki_light.png"
+    "default": {
+      "name": "satsuki_light.png",
+      "anchor": "center",
+      "opacity": 13
+    }
   },
   "overrides": {
     "editorScheme": {

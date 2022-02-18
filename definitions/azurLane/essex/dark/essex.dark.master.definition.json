@@ -6,8 +6,16 @@
   "author": "Unthrottled",
   "group": "Azur Lane",
   "stickers": {
-    "default": "essex_dark.png",
-    "secondary": "essex_dark_plain.png"
+    "default": {
+      "name": "essex_dark.png",
+      "anchor": "right",
+      "opacity": 10
+    },
+    "secondary": {
+      "name": "essex_dark_plain.png",
+      "anchor": "right",
+      "opacity": 10
+    }
   },
   "overrides": {
     "editorScheme": {

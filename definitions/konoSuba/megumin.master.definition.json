@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "KonoSuba",
   "stickers": {
-    "default": "megumin.png"
+    "default": {
+      "name": "megumin.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

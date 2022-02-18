@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Darling in the Franxx",
   "stickers": {
-    "default": "zero_two_dark.png"
+    "default": {
+      "name": "zero_two_dark.png",
+      "anchor": "center",
+      "opacity": 8
+    }
   },
   "overrides": {
     "editorScheme": {

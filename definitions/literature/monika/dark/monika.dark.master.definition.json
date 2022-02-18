@@ -6,9 +6,16 @@
   "author": "Unthrottled",
   "group": "Literature Club",
   "stickers": {
-    "default": "just_monika_dark.png",
-    "secondary": "just_monika_dark_joy.png",
-    "normal": "just_monika_dark_normal.png"
+    "default": {
+      "name": "just_monika_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    },
+    "secondary": {
+      "name": "just_monika_dark_joy.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

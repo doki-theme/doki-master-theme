@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Chuunibyou",
   "stickers": {
-    "default": "rikka_dark.png"
+    "default": {
+      "name": "rikka_dark.png",
+      "anchor": "center",
+      "opacity": 12
+    }
   },
   "overrides": {
     "editorScheme": {

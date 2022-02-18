@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Love Live",
   "stickers": {
-    "default": "umi_dark.png"
+    "default": {
+      "name": "umi_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

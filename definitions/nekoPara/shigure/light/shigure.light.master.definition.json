@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "NekoPara",
   "stickers": {
-    "default": "shigure_light.png"
+    "default": {
+      "name": "shigure_light.png",
+      "anchor": "right",
+      "opacity": 17
+    }
   },
   "overrides": {
     "editorScheme": {

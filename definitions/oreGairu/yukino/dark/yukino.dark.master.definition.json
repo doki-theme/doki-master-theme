@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "OreGairu",
   "stickers": {
-    "default": "yukino_dark.png"
+    "default": {
+      "name": "yukino_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

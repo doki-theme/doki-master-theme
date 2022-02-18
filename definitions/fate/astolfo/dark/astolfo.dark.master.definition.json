@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Fate",
   "stickers": {
-    "default": "astolfo_dark.png"
+    "default": {
+      "name": "astolfo_dark.png",
+      "anchor": "right",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

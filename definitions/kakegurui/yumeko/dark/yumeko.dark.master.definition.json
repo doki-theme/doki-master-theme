@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Kakegurui",
   "stickers": {
-    "default": "yumeko_dark.png"
+    "default": {
+      "name": "yumeko_dark.png",
+      "anchor": "right",
+      "opacity": 8
+    }
   },
   "overrides": {
     "editorScheme": {

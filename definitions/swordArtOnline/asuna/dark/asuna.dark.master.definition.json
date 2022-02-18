@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Sword Art Online",
   "stickers": {
-    "default": "asuna_dark.png"
+    "default": {
+      "name": "asuna_dark.png",
+      "anchor": "center",
+      "opacity": 6
+    }
   },
   "overrides": {
     "editorScheme": {

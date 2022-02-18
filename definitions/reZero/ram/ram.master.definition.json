@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Re Zero",
   "stickers": {
-    "default": "ram.png"
+    "default": {
+      "name": "ram.png",
+      "anchor": "right",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

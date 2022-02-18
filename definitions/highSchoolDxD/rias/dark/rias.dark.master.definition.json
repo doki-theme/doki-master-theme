@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "High School DxD",
   "stickers": {
-    "default": "rias_dark.png"
+    "default": {
+      "name": "rias_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

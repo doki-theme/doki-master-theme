@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Daily Life With A Monster Girl",
   "stickers": {
-    "default": "miia_dark.png"
+    "default": {
+      "name": "miia_dark.png",
+      "anchor": "right",
+      "opacity": 6
+    }
   },
   "overrides": {
     "editorScheme": {

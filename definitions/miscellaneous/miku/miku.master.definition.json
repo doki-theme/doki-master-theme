@@ -7,8 +7,16 @@
   "author": "Unthrottled",
   "group": "Vocaloid",
   "stickers": {
-    "default": "miku.png",
-    "secondary": "miku_secondary.png"
+    "default": {
+      "name": "miku.png",
+      "anchor": "center",
+      "opacity": 7
+    },
+    "secondary": {
+      "name": "miku_secondary.png",
+      "anchor": "right",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

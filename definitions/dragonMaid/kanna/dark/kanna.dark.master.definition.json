@@ -6,8 +6,16 @@
   "author": "Unthrottled",
   "group": "Miss Kobayashi's Dragon Maid",
   "stickers": {
-    "default": "kanna_dark.png",
-    "secondary": "kanna_dark_secondary.png"
+    "default": {
+      "name": "kanna_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    },
+    "secondary": {
+      "name": "kanna_dark_secondary.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

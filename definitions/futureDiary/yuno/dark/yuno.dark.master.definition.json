@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Future Diary",
   "stickers": {
-    "default": "yuno_dark.png"
+    "default": {
+      "name": "yuno_dark.png",
+      "anchor": "right",
+      "opacity": 8
+    }
   },
   "overrides": {
     "editorScheme": {

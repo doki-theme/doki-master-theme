@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Quintessential Quintuplets",
   "stickers": {
-    "default": "yotsuba_dark.png"
+    "default": {
+      "name": "yotsuba_dark.png",
+      "anchor": "right",
+      "opacity": 11
+    }
   },
   "overrides": {
     "editorScheme": {

@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Re Zero",
   "stickers": {
-    "default": "echidna_dark.png"
+    "default": {
+      "name": "echidna_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

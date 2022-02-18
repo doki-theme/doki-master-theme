@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "NekoPara",
   "stickers": {
-    "default": "chocola_dark.png"
+    "default": {
+      "name": "chocola_dark.png",
+      "anchor": "right",
+      "opacity": 6
+    }
   },
   "overrides": {
     "editorScheme": {

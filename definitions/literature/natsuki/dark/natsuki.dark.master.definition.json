@@ -6,9 +6,16 @@
   "author": "Unthrottled",
   "group": "Literature Club",
   "stickers": {
-    "default": "natsuki_dark.png",
-    "secondary": "natsuki_dark_normal.png",
-    "normal": "natsuki_dark_normal.png"
+    "default": {
+      "name": "natsuki_dark.png",
+      "anchor": "right",
+      "opacity": 8
+    },
+    "secondary": {
+      "name": "natsuki_dark_normal.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

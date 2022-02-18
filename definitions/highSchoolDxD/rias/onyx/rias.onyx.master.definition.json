@@ -6,8 +6,16 @@
   "author": "Unthrottled",
   "group": "High School DxD",
   "stickers": {
-    "default": "rias_onyx.png",
-    "secondary": "rias_onyx_spicy.png"
+    "default": {
+      "name": "rias_onyx.png",
+      "anchor": "center",
+      "opacity": 7
+    },
+    "secondary": {
+      "name": "rias_onyx_spicy.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

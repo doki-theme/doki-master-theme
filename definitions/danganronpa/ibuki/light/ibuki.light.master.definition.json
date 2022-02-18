@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "DanganRonpa",
   "stickers": {
-    "default": "ibuki_light.png"
+    "default": {
+      "name": "ibuki_light.png",
+      "anchor": "right",
+      "opacity": 5
+    }
   },
   "colors": {
     "caretRow": "#f7dcf3",

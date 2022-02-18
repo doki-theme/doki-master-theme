@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Steins Gate",
   "stickers": {
-    "default": "kurisu_dark.png"
+    "default": {
+      "name": "kurisu_dark.png",
+      "anchor": "center",
+      "opacity": 8
+    }
   },
   "overrides": {
     "editorScheme": {

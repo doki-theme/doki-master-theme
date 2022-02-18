@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Kill la Kill",
   "stickers": {
-    "default": "ryuko_light.png"
+    "default": {
+      "name": "ryuko_light.png",
+      "anchor": "right",
+      "opacity": 13
+    }
   },
   "overrides": {
     "editorScheme": {

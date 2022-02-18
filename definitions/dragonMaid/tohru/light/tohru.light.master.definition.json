@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Miss Kobayashi's Dragon Maid",
   "stickers": {
-    "default": "tohru_light.png"
+    "default": {
+      "name": "tohru_light.png",
+      "anchor": "right",
+      "opacity": 20
+    }
   },
   "overrides": {
     "editorScheme": {

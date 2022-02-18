@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Fate",
   "stickers": {
-    "default": "ishtar_dark.png"
+    "default": {
+      "name": "ishtar_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "KonoSuba",
   "stickers": {
-    "default": "darkness_dark.png"
+    "default": {
+      "name": "darkness_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

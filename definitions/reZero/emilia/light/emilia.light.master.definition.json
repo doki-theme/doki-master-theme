@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Re Zero",
   "stickers": {
-    "default": "emilia_light.png"
+    "default": {
+      "name": "emilia_light.png",
+      "anchor": "right",
+      "opacity": 10
+    }
   },
   "overrides": {
     "editorScheme": {

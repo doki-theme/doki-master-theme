@@ -7,7 +7,11 @@
   "author": "Unthrottled",
   "group": "Quintessential Quintuplets",
   "stickers": {
-    "default": "nakano_miku_dark.png"
+    "default": {
+      "name": "nakano_miku_dark.png",
+      "anchor": "right",
+      "opacity": 6
+    }
   },
   "overrides": {
     "editorScheme": {

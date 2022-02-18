@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Yuru Camp",
   "stickers": {
-    "default": "nadeshiko_dark.png"
+    "default": {
+      "name": "nadeshiko_dark.png",
+      "anchor": "right",
+      "opacity": 12
+    }
   },
   "overrides": {
     "editorScheme": {

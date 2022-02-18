@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "NekoPara",
   "stickers": {
-    "default": "azuki_dark.png"
+    "default": {
+      "name": "azuki_dark.png",
+      "anchor": "right",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {

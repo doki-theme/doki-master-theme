@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Toaru Majutsu no Index",
   "stickers": {
-    "default": "mikoto_dark.png"
+    "default": {
+      "name": "mikoto_dark.png",
+      "anchor": "right",
+      "opacity": 11
+    }
   },
   "overrides": {
     "editorScheme": {

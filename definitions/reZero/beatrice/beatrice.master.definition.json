@@ -6,7 +6,11 @@
   "author": "Unthrottled",
   "group": "Re Zero",
   "stickers": {
-    "default": "beatrice.png"
+    "default": {
+      "name": "beatrice.png",
+      "anchor": "right",
+      "opacity": 10
+    }
   },
   "overrides": {
     "editorScheme": {

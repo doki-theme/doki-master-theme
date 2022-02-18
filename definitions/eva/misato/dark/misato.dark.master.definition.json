@@ -7,7 +7,11 @@
   "group": "Evangelion",
   "product": "community",
   "stickers": {
-    "default": "misato_dark.png"
+    "default": {
+      "name": "misato_dark.png",
+      "anchor": "center",
+      "opacity": 7
+    }
   },
   "overrides": {
     "editorScheme": {
