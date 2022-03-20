@@ -115,7 +115,7 @@ function buildApplicationTemplate(
  * You also want to change this as well
  *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home | visualstudio | firefox
  */
-const appName = 'firefox';
+const appName = 'jetbrains';
 
 /**************************************************************************/
 
