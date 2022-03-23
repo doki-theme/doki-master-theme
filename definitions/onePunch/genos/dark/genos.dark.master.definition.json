@@ -9,7 +9,7 @@
     "default": {
       "name": "genos_dark.png",
       "anchor": "right",
-      "opacity": 11
+      "opacity": 10
     }
   },
   "overrides": {
