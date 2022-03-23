@@ -126,7 +126,7 @@ walkAndBuildTemplates()
       .map(({ dokiFileDefinitionPath, dokiThemeDefinition }) =>
         Object.entries(dokiThemeDefinition.stickers).map(([, stickerName]) => ({
           dokiFileDefinitionPath,
-          stickerName,
+          stickerName: stickerName.name,
         }))
       )
       .reduce((accum, next) => [...accum, ...next], [])
