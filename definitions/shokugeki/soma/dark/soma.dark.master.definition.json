@@ -16,7 +16,7 @@
     "editorScheme": {
       "colors": {
         "accentColor": "#EA7777",
-        "startColor": "#eead59"
+        "startColor": "#59EEE9"
       }
     }
   },
@@ -34,11 +34,11 @@
     "borderColor": "#233a55",
     "buttonColor": "#293b54",
     "selectionInactive": "#361c2b",
-    "identifierHighlight": "#4b4d50",
+    "identifierHighlight": "#27405b",
     "selectionBackground": "#4f1d27",
     "selectionBackgroundTransparent": "#4f1d27AA",
-    "searchBackground": "#9A561A",
-    "searchForeground": "#fefefe",
+    "searchBackground": "#D1D44A",
+    "searchForeground": "#1D1A1A",
     "buttonFont": "#ada19c",
     "foregroundColor": "#dbdbdb",
     "highlightColor": "#37232d",
@@ -53,15 +53,15 @@
     "stopColor": "#dc3f52",
     "testScopeColor": "#233125",
     "popupMask": "#928d8d05",
-    "codeBlock": "#463e33",
-    "foldedTextBackground": "#27282a",
+    "codeBlock": "#251a2b",
+    "foldedTextBackground": "#152940",
     "textEditorBackground": "#09192b",
-    "errorColor": "#ff2525",
-    "constantColor": "#EA7777",
+    "errorColor": "#ff1717",
+    "constantColor": "#FFA6E1",
     "unusedColor": "#788189",
-    "classNameColor": "#B39CFF",
-    "htmlTagColor": "#8dff4b",
-    "stringColor": "#FF984B",
+    "classNameColor": "#FF984B",
+    "htmlTagColor": "#B39CFF",
+    "stringColor": "#4BFF75",
     "keyColor": "#8ACAFF",
     "keywordColor": "#FFEF41",
     "diff.modified": "#204874",
