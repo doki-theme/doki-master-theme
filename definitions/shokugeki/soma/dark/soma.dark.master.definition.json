@@ -9,7 +9,7 @@
     "default": {
       "name": "soma_dark.png",
       "anchor": "right",
-      "opacity": 10
+      "opacity": 12
     }
   },
   "overrides": {
