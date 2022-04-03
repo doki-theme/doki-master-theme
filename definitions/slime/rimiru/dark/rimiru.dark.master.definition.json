@@ -62,6 +62,7 @@
     "classNameColor": "#FFA38F",
     "htmlTagColor": "#77BBFF",
     "stringColor": "#77C2FF",
+    "matchColor": "#39A6FF",
     "keyColor": "#FF96FD",
     "keywordColor": "#5FFF9F",
     "diff.modified": "#1F4966",
