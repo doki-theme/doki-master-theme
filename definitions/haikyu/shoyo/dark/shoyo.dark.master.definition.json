@@ -9,7 +9,7 @@
     "default": {
       "name": "shoyo_dark.png",
       "anchor": "right",
-      "opacity": 6
+      "opacity": 12
     }
   },
   "overrides": {
