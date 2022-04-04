@@ -1,0 +1,83 @@
+{
+  "id": "44ed0d2d-cce8-4707-a0cf-5150e1b31c16",
+  "name": "Hinata Shoyo",
+  "displayName": "Shoyo",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Haikyu!!",
+  "stickers": {
+    "default": {
+      "name": "shoyo_dark.png",
+      "anchor": "right",
+      "opacity": 12
+    }
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#49FF51",
+        "startColor": "#597cee"
+      }
+    }
+  },
+  "colors": {
+    "comments": "#6b6c80",
+    "caretRow": "#2c2847",
+    "lineNumberColor": "#55596c",
+    "baseIconColor": "#656d82",
+    "contrastColor": "#744d2b",
+    "nonProjectFileScopeColor": "#2f2e37",
+    "secondaryBackground": "#1b1830",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#24203c",
+    "baseBackground": "#26223d",
+    "borderColor": "#363056",
+    "buttonColor": "#3b4060",
+    "selectionInactive": "#3c2b3a",
+    "identifierHighlight": "#3b365d",
+    "selectionBackground": "#6a473d",
+    "selectionBackgroundTransparent": "#6a473dAA",
+    "searchBackground": "#195A80",
+    "searchForeground": "#fbfbfb",
+    "buttonFont": "#a0a0a7",
+    "foregroundColor": "#b0b0b0",
+    "highlightColor": "#463038",
+    "disabledColor": "#6f6f6f",
+    "accentColorTransparent": "#f58d025A",
+    "accentColorLessTransparent": "#f58d029A",
+    "accentColorMoreTransparent": "#f58d022A",
+    "accentColor": "#f58d02",
+    "accentContrastColor": "#1D4230",
+    "infoForeground": "#ba804b",
+    "startColor": "#595959",
+    "stopColor": "#ff7d19",
+    "testScopeColor": "#243137",
+    "popupMask": "#928d8d05",
+    "codeBlock": "#3f2b35",
+    "foldedTextBackground": "#2c2847",
+    "textEditorBackground": "#201c37",
+    "constantColor": "#ec9cb2",
+    "unusedColor": "#545c5b",
+    "classNameColor": "#61ead9",
+    "htmlTagColor": "#F8932B",
+    "stringColor": "#FFC32F",
+    "keyColor": "#84D0FF",
+    "keywordColor": "#ab77ff",
+    "diff.modified": "#223861",
+    "diff.inserted": "#1F3924",
+    "diff.conflict": "#442222",
+    "diff.deleted": "#353539",
+    "lightEditorColor": "#272341",
+    "breakpointColor": "#3c373d",
+    "breakpointActiveColor": "#253d35",
+    "fileBlue": "#223461",
+    "fileGray": "#322f46",
+    "fileRose": "#412549",
+    "fileOrange": "#483236",
+    "fileViolet": "#302658",
+    "fileYellow": "#3d393a",
+    "fileRed": "#3d2038",
+    "filePurple": "#2f2051"
+  },
+  "characterId": "9382afd2-fe24-4329-ae1d-0da8c1df4637"
+}
