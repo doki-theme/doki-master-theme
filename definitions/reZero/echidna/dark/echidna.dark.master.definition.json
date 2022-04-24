@@ -21,7 +21,7 @@
     }
   },
   "colors": {
-    "comments": "#41495A",
+    "comments": "#505A6D",
     "caretRow": "#1a171c",
     "lineNumberColor": "#6f7779",
     "completionWindowBackground": "#22282b",
@@ -37,7 +37,7 @@
     "borderColor": "#1e2021",
     "buttonColor": "#212425",
     "selectionInactive": "#1f1c21",
-    "identifierHighlight": "#1f1c21",
+    "identifierHighlight": "#322c38",
     "selectionBackground": "#274540",
     "selectionBackgroundTransparent": "#274540AA",
     "searchBackground": "#5a3b5d",
@@ -59,7 +59,7 @@
     "codeBlock": "#1e1b20",
     "textEditorBackground": "#121014",
     "foldedTextBackground": "#1b181d",
-    "unusedColor": "#3D3D42",
+    "unusedColor": "#626266",
     "classNameColor": "#EFA554",
     "htmlTagColor": "#8daeef",
     "stringColor": "#f4fa8c",
