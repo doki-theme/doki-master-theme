@@ -62,8 +62,7 @@
     "searchForeground": "#ececec",
     "textEditorBackground": "#1d2115",
     "foldedTextBackground": "#252D19",
-    "constantColor": π
-    "#FF8FCA",
+    "constantColor": "#FF8FCA",
     "classNameColor": "#FFEA82",
     "htmlTagColor": "#3eae5d",
     "stringColor": "#94CFFF",
