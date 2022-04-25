@@ -20,9 +20,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "testScopeColor": "#192d24",
-        "nonProjectFileScopeColor": "#2b2b20",
-        "borderColor": "#1B1D31"
+        "accentColor": "#01CFE7"
       }
     }
   },
@@ -63,12 +61,13 @@
     "codeBlock": "#1B1D31",
     "textEditorBackground": "#111b2d",
     "foldedTextBackground": "#1b2346",
-    "classNameColor": "#c1ff10",
-    "htmlTagColor": "#bca3aa",
-    "stringColor": "#f1fa8c",
-    "keyColor": "#3F77EF",
-    "keywordColor": "#bca3aa",
-    "diff.deleted": "#383B3F",
+    "constantColor": "#A486FD",
+    "classNameColor": "#52FFA3",
+    "htmlTagColor": "#7DA6FF",
+    "stringColor": "#FD92F4",
+    "keyColor": "#FFF37C",
+    "keywordColor": "#3F77EF",
+    "diff.deleted": "#363E42",
     "lightEditorColor": "#152036",
     "breakpointColor": "#252d32",
     "breakpointActiveColor": "#1a452c",
