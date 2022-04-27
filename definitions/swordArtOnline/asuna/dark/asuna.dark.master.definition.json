@@ -15,7 +15,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#e0474b",
+        "accentColor": "#579DFA",
         "startColor": "#e4ff10"
       }
     }
@@ -38,9 +38,9 @@
     "borderColor": "#2a2929",
     "buttonColor": "#272524",
     "selectionInactive": "#262626",
-    "identifierHighlight": "#272727",
-    "selectionBackground": "#391717",
-    "selectionBackgroundTransparent": "#391717AA",
+    "identifierHighlight": "#313131",
+    "selectionBackground": "#531616",
+    "selectionBackgroundTransparent": "#531616AA",
     "searchBackground": "#A8A117",
     "searchForeground": "#0e0505",
     "buttonFont": "#998c92",
@@ -60,11 +60,11 @@
     "unusedColor": "#3D3D42",
     "textEditorBackground": "#1b1b1b",
     "foldedTextBackground": "#212121",
-    "classNameColor": "#db974d",
-    "htmlTagColor": "#e53935",
-    "stringColor": "#f5cc5a",
-    "keyColor": "#3B82BD",
-    "keywordColor": "#988F9A",
+    "classNameColor": "#7ECAFA",
+    "htmlTagColor": "#FF6363",
+    "stringColor": "#FFD86E",
+    "keyColor": "#FCA57E",
+    "keywordColor": "#e0474b",
     "diff.deleted": "#242426",
     "diff.inserted": "#1B3B1C",
     "lightEditorColor": "#1d1d1d",
