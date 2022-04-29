@@ -9,7 +9,7 @@
     "default": {
       "name": "satsuki_dark.png",
       "anchor": "center",
-      "opacity": 7
+      "opacity": 10
     }
   },
   "overrides": {
