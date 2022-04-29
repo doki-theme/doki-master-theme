@@ -16,7 +16,7 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#68a8cb",
+        "accentColor": "#69e0f5",
         "startColor": "#68ee75"
       }
     }
@@ -36,10 +36,10 @@
     "baseBackground": "#191718",
     "borderColor": "#211e1e",
     "buttonColor": "#232121",
-    "selectionInactive": "#241B1D",
-    "identifierHighlight": "#28181c",
-    "selectionBackground": "#391717",
-    "selectionBackgroundTransparent": "#391717AA",
+    "selectionInactive": "#361b1c",
+    "identifierHighlight": "#322d30",
+    "selectionBackground": "#501F1F",
+    "selectionBackgroundTransparent": "#501F1FAA",
     "searchBackground": "#225041",
     "searchForeground": "#fbfbfb",
     "buttonFont": "#a7a7a7",
@@ -60,12 +60,13 @@
     "comments": "#4c8484",
     "textEditorBackground": "#161415",
     "foldedTextBackground": "#211D1E",
-    "unusedColor": "#3D3D42",
+    "errorColor": "#C20000",
+    "unusedColor": "#67414A",
     "classNameColor": "#EFA554",
-    "htmlTagColor": "#e0474b",
-    "stringColor": "#69e0f5",
+    "htmlTagColor": "#FC5773",
+    "stringColor": "#72F8B5",
     "keyColor": "#e0474b",
-    "keywordColor": "#666f71",
+    "keywordColor": "#859395",
     "diff.modified": "#1A233D",
     "diff.inserted": "#142D14",
     "diff.conflict": "#422121",

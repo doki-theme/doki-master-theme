@@ -9,18 +9,18 @@
     "default": {
       "name": "yuri.png",
       "anchor": "center",
-      "opacity": 10
+      "opacity": 6
     },
     "secondary": {
       "name": "yuri_joy.png",
       "anchor": "center",
-      "opacity": 10
+      "opacity": 6
     }
   },
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#90468c"
+        "accentColor": "#95348C"
       }
     }
   },
@@ -62,11 +62,11 @@
     "textEditorBackground": "#f3f0ff",
     "foldedTextBackground": "#eae5f6",
     "classNameColor": "#c26a9d",
-    "htmlTagColor": "#7B6970",
-    "stringColor": "#d27f2d",
-    "keyColor": "#7C75EF",
+    "htmlTagColor": "#5E24BA",
+    "stringColor": "#2DA0D2",
+    "keyColor": "#D579D0",
     "constantColor": "#4C94D6",
-    "keywordColor": "#c26a9d",
+    "keywordColor": "#7C75EF",
     "diff.deleted": "#ECE3EC",
     "lightEditorColor": "#eae4fa",
     "breakpointColor": "#f7f1cf",

@@ -20,7 +20,7 @@
     }
   },
   "colors": {
-    "comments": "#41495A",
+    "comments": "#596477",
     "caretRow": "#23252a",
     "lineNumberColor": "#545e6d",
     "completionWindowBackground": "#23241d",
@@ -49,6 +49,7 @@
     "accentColorLessTransparent": "#2d63829A",
     "accentColorMoreTransparent": "#2d63822A",
     "accentColor": "#2d6382",
+    "accentColorBrighter": "#2488cb",
     "accentContrastColor": "#0f0d0e",
     "infoForeground": "#456186",
     "startColor": "#595959",
