@@ -9,7 +9,7 @@
     "default": {
       "name": "asuna_dark.png",
       "anchor": "center",
-      "opacity": 6
+      "opacity": 9
     }
   },
   "overrides": {
