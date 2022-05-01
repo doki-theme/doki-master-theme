@@ -29,7 +29,6 @@ const visualStudioTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) =>
   laf: {},
   syntax: {},
   colors: {},
-  backgrounds: {},
 });
 
 const chromeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
@@ -59,7 +58,6 @@ const vimTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
 
 const hyperTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   id: dokiThemeDefinition.id,
-  backgrounds: {},
 });
 
 const githubTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
@@ -90,7 +88,6 @@ const homeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   id: dokiThemeDefinition.id,
   overrides: {},
   content: {},
-  "backgrounds": {},
 });
 
 
