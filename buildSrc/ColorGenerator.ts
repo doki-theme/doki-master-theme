@@ -37,7 +37,7 @@ function blendColors(
 
 function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition; dokiFileDefinitionPath: string }) {
   // if(!dokiTheme.dokiThemeDefinition.dark) return;
-  if(dokiTheme.dokiThemeDefinition.id !== "926c4bf5-eafb-463e-815a-b6a101fc1f4a") return;
+  if(dokiTheme.dokiThemeDefinition.id !== "3462121b-b101-406f-8b31-ce04d09b2ef6") return;
 
   const headerColor = hex_to_rgba(
     dokiTheme.dokiThemeDefinition.colors.headerColor
