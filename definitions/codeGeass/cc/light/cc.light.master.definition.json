@@ -9,7 +9,7 @@
     "default": {
       "name": "cc_light.png",
       "anchor": "right",
-      "opacity": 11
+      "opacity": 13
     }
   },
   "overrides": {
@@ -48,7 +48,7 @@
     "accentColorLessTransparent": "#68ac179A",
     "accentColorMoreTransparent": "#68ac172A",
     "accentColor": "#68ac17",
-    "stopColor": "#c12e7a",
+    "stopColor": "#eaa007",
     "testScopeColor": "#b7e783",
     "popupMask": "#888af610",
     "errorColor": "#FF0817",
@@ -59,7 +59,7 @@
     "foldedTextBackground": "#bbe27c",
     "classNameColor": "#7748B7",
     "htmlTagColor": "#B31141",
-    "stringColor": "#C13ABF",
+    "stringColor": "#CB5A29",
     "keyColor": "#098776",
     "keywordColor": "#0803A5",
     "constantColor": "#2B57A7",
