@@ -1,13 +1,13 @@
 {
-  "id": "4fb20370-1b89-4a0d-9f8f-84542ec147b2",
-  "name": "Tomori Nao",
-  "displayName": "Nao",
+  "id": "a8c6675e-7bdb-41f0-af80-4e9ebbf617d2",
+  "name": "Nakano Ichika",
+  "displayName": "Ichika",
   "dark": false,
   "author": "Unthrottled",
-  "group": "Charlotte",
+  "group": "Quintessential Quintuplets",
   "stickers": {
     "default": {
-      "name": "nao_light.png",
+      "name": "ichika_light.png",
       "anchor": "right",
       "opacity": 15
     }
@@ -30,7 +30,7 @@
     "secondaryBackground": "#e9e0db",
     "selectionForeground": "#101010",
     "headerColor": "#f1e7de",
-    "baseBackground": "#f5ede5",
+    "baseBackground": "#ebd3ff",
     "borderColor": "#cac3bd",
     "buttonColor": "#efe6df",
     "selectionInactive": "#d6d9eb",
@@ -83,5 +83,5 @@
     "fileRed": "#eccac3",
     "filePurple": "#decadc"
   },
-  "characterId": "273e209f-0f21-40fe-93df-a1c44fba48c5"
+  "characterId": "92751be4-a39a-464c-b397-02a32a1b5e88"
 }
