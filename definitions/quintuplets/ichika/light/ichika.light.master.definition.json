@@ -9,14 +9,14 @@
     "default": {
       "name": "ichika_light.png",
       "anchor": "right",
-      "opacity": 15
+      "opacity": 13
     }
   },
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#D659E3",
-        "startColor": "#2298A0"
+        "accentColor": "#C95FC0",
+        "startColor": "#B4273C"
       }
     }
   },
@@ -32,12 +32,12 @@
     "headerColor": "#e2c9fa",
     "baseBackground": "#ebd3ff",
     "borderColor": "#c3afd4",
-    "buttonColor": "#f0e0ff",
+    "buttonColor": "#ebdaff",
     "selectionInactive": "#e9c1ea",
-    "identifierHighlight": "#d4dee1",
+    "identifierHighlight": "#e9bff2",
     "selectionBackground": "#f1b7d6",
     "selectionBackgroundTransparent": "#f1b7d655",
-    "searchBackground": "#8CF385",
+    "searchBackground": "#80CEFF",
     "searchForeground": "#323232",
     "buttonFont": "#2e457f",
     "foregroundColor": "#101010",
@@ -62,17 +62,15 @@
     "stringColor": "#8747CE",
     "keyColor": "#3E6DE5",
     "keywordColor": "#5815CE",
-    "_keywordColor": "#AC2596",
     "constantColor": "#251CDE",
-    "_constantColor": "#DC27A7",
     "terminal.ansiGreen": "#208D3B",
     "terminal.ansiBlue": "#7748B7",
     "terminal.ansiCyan": "#0896AD",
     "terminal.ansiYellow": "#A46B21",
-    "diff.deleted": "#DED6C6",
-    "diff.conflict": "#E79C9C",
-    "diff.modified": "#83D8E8",
-    "diff.inserted": "#ACE79D",
+    "diff.deleted": "#CAC7DE",
+    "diff.conflict": "#FA9B9B",
+    "diff.modified": "#ADBCF6",
+    "diff.inserted": "#b4e6c3",
     "lightEditorColor": "#e2d9ed",
     "breakpointColor": "#e7d1ea",
     "breakpointActiveColor": "#cbd3de",
