@@ -1,15 +1,13 @@
-import {
-  MasterDokiThemeDefinition,
-} from "doki-build-source";
+import {MasterDokiThemeDefinition,} from "doki-build-source";
 import path from "path";
 import fs from "fs";
-import { masterThemeDefinitionDirectoryPath, masterThemesDirectory, walkAndBuildTemplates } from "./BuildFunctions";
+import {masterThemeDefinitionDirectoryPath, masterThemesDirectory, walkAndBuildTemplates} from "./BuildFunctions";
 
 const jetbrainsTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   id: dokiThemeDefinition.id,
   editorScheme: {
     type: "template",
-    name: dokiThemeDefinition.dark ? "Doki Dark" : "Doki Light",
+    name: dokiThemeDefinition.dark ? "Doki Dark" : "Doki Light v2",
   },
   overrides: {},
   ui: {},
