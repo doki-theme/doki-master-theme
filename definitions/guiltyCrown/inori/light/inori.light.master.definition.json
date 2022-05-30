@@ -36,7 +36,7 @@
     "selectionInactive": "#ed9261",
     "identifierHighlight": "#F88E7A",
     "selectionBackground": "#EC7F54",
-    "selectionBackgroundTransparent": "#5756a255",
+    "selectionBackgroundTransparent": "#EC7F5455",
     "searchBackground": "#C89AF3",
     "searchForeground": "#323232",
     "buttonFont": "#8c3232",
