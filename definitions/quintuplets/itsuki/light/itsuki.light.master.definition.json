@@ -9,7 +9,7 @@
     "default": {
       "name": "itsuki_light.png",
       "anchor": "right",
-      "opacity": 13
+      "opacity": 8
     }
   },
   "overrides": {
@@ -41,14 +41,14 @@
     "searchForeground": "#323232",
     "buttonFont": "#742525",
     "foregroundColor": "#101010",
-    "startColor": "#4c4f5c",
+    "startColor": "#2c23de",
     "highlightColor": "#f67e73",
     "disabledColor": "#906158",
     "accentColorTransparent": "#4f52c45A",
     "accentColorLessTransparent": "#4f52c49A",
     "accentColorMoreTransparent": "#4f52c42A",
     "accentColor": "#4f52c4",
-    "stopColor": "#2c23de",
+    "stopColor": "#3975cb",
     "testScopeColor": "#ed7d86",
     "popupMask": "#888af610",
     "errorColor": "#ff000f",

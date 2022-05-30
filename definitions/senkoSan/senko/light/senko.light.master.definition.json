@@ -9,7 +9,7 @@
     "default": {
       "name": "senko_light.png",
       "anchor": "right",
-      "opacity": 13
+      "opacity": 11
     }
   },
   "overrides": {
@@ -40,7 +40,7 @@
     "searchBackground": "#B3BFFA",
     "searchForeground": "#323232",
     "buttonFont": "#7f592e",
-    "foregroundColor": "#383633",
+    "foregroundColor": "#073642",
     "startColor": "#4c4f5c",
     "highlightColor": "#f8dec2",
     "disabledColor": "#bab19f",
@@ -48,7 +48,7 @@
     "accentColorLessTransparent": "#cb37529A",
     "accentColorMoreTransparent": "#cb37522A",
     "accentColor": "#cb3752",
-    "stopColor": "#ff8d8d",
+    "stopColor": "#ff8c39",
     "testScopeColor": "#e4deb2",
     "popupMask": "#888af610",
     "errorColor": "#ff000f",
