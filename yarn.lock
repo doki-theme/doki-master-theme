@@ -364,7 +364,7 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
-doki-build-source@74.1.1:
+doki-build-source@78.2.3:
   version "78.2.3"
   resolved "https://registry.yarnpkg.com/doki-build-source/-/doki-build-source-78.2.3.tgz#23bacab848f51d4389615a373d266575ea880c86"
   integrity sha512-8DmTsQTEriYKWweb6zd0VFQOj5w/A31ScF1eRQjrQ8WdkB8zf5bTzqJ115ADWsTjwElBqY1gDIvD19K4+oPesg==
