@@ -19,7 +19,7 @@
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.7.7",
     "@types/uuid": "^8.3.4",
-    "doki-build-source": "78.2.3",
+    "doki-build-source": "84.2.3",
     "jimp": "^0.16.1",
     "ts-node": "^8.6.2",
     "typescript": "^3.8.3"
