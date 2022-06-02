@@ -364,10 +364,10 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
-doki-build-source@^1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/doki-build-source/-/doki-build-source-1.8.0.tgz#30f82942eca97f4091697302e55ff5504a7bf42e"
-  integrity sha512-l7gvHdcptjruHPVe0KB5UgY9lTjtbxC8aqE2ds4+eD78OttjCgUrfJjAVeeY0tF2cp3vZ8+3eUB9EthbuwL3eQ==
+doki-build-source@84.2.3:
+  version "84.2.3"
+  resolved "https://registry.yarnpkg.com/doki-build-source/-/doki-build-source-84.2.3.tgz#5ced56b98db19f283be92e75c58dc75ef49a1462"
+  integrity sha512-4dI69k1ENipAkEM6+2KBoHzeEPh9OOqsQxj7ibgK3WPzqbLFVWJIpmznPJZ+gQgmLxM4LPd3qAomK6aOpxv4qg==
 
 dom-walk@^0.1.0:
   version "0.1.2"

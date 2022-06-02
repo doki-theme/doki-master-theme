@@ -1,6 +1,5 @@
-import path from "path";
 import fs from "fs";
-import {masterThemesDirectory, walkAndBuildTemplates} from "./BuildFunctions";
+import {walkAndBuildTemplates} from "./BuildFunctions";
 import {MasterDokiThemeDefinition} from "doki-build-source";
 
 console.log("Preparing to create color.");
@@ -38,7 +37,7 @@ function blendColors(
 
 function addNewColor(dokiTheme: { dokiThemeDefinition: MasterDokiThemeDefinition; dokiFileDefinitionPath: string }) {
   // if(!dokiTheme.dokiThemeDefinition.dark) return;
-  if(dokiTheme.dokiThemeDefinition.id !== "6428e1ff-202c-4a43-afb3-9999ebe3b2ca") return;
+  if(dokiTheme.dokiThemeDefinition.id !== "7bafa167-148d-472a-8a9b-6f4129ef2e1f") return;
 
   const headerColor = hex_to_rgba(
     dokiTheme.dokiThemeDefinition.colors.headerColor
