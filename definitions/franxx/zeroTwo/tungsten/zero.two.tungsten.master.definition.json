@@ -1,0 +1,82 @@
+{
+  "id": "13adffd9-acbe-47af-8101-fa71269a4c5c",
+  "name": "Zero Two Tungsten",
+  "displayName": "Zero Two",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Darling in the Franxx",
+  "stickers": {
+    "default": {
+      "name": "zero_two_tungsten.png",
+      "anchor": "center",
+      "opacity": 20
+    }
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#e4ff10",
+        "startColor": "#e4ff10"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#2a3037",
+    "lineNumberColor": "#666879",
+    "infoForeground": "#6e707a",
+    "completionWindowBackground": "#32393F",
+    "baseIconColor": "#717981",
+    "contrastColor": "#262c32",
+    "nonProjectFileScopeColor": "#303638",
+    "secondaryBackground": "#282f35",
+    "selectionForeground": "#E2CB14",
+    "inactiveBackground": "#2a272e",
+    "inactiveBackgroundDarker": "#333037",
+    "headerColor": "#2b3238",
+    "baseBackground": "#2f363c",
+    "borderColor": "#30383d",
+    "buttonColor": "#2b3237",
+    "selectionInactive": "#292e34",
+    "identifierHighlight": "#2f3840",
+    "selectionBackground": "#563036",
+    "selectionBackgroundTransparent": "#a730355a",
+    "searchBackground": "#2C5277",
+    "searchForeground": "#E2CB14",
+    "buttonFont": "#6b8b99",
+    "foregroundColor": "#bbbbbb",
+    "startColor": "#511c22",
+    "highlightColor": "#573238",
+    "disabledColor": "#585F6F",
+    "accentColorTransparent": "#a730355A",
+    "accentColorLessTransparent": "#a730359A",
+    "accentColorMoreTransparent": "#a730352A",
+    "accentColor": "#a73035",
+    "accentContrastColor": "#271c21",
+    "stopColor": "#ee2726",
+    "testScopeColor": "#2d3e3a",
+    "popupMask": "#EAEAF00A",
+    "codeBlock": "#292e34",
+    "textEditorBackground": "#2b3238",
+    "foldedTextBackground": "#272e34",
+    "classNameColor": "#6893f3",
+    "htmlTagColor": "#8C90E5",
+    "stringColor": "#efa554",
+    "comments": "#677684",
+    "keyColor": "#99B6D5",
+    "keywordColor": "#e0474b",
+    "diff.deleted": "#3C4246",
+    "diff.inserted": "#173D17",
+    "lightEditorColor": "#2a3137",
+    "breakpointColor": "#3c423c",
+    "breakpointActiveColor": "#2f5835",
+    "fileBlue": "#28435d",
+    "fileGray": "#383d42",
+    "fileRose": "#473445",
+    "fileOrange": "#443b2d",
+    "fileViolet": "#363555",
+    "fileYellow": "#434837",
+    "fileRed": "#433035",
+    "filePurple": "#352f4e"
+  },
+  "characterId": "1d95afa2-3346-45e6-951f-2e48352ede90"
+}

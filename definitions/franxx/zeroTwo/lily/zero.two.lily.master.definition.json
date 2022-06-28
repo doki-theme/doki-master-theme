@@ -7,12 +7,12 @@
   "group": "Darling in the Franxx",
   "stickers": {
     "default": {
-      "name": "zero_two_white_lily.png",
+      "name": "zero_two_lily.png",
       "anchor": "center",
       "opacity": 20
     },
     "secondary": {
-      "name": "zero_two_white_lily_secondary.png",
+      "name": "zero_two_lily_secondary.png",
       "anchor": "center",
       "opacity": 20
     }
