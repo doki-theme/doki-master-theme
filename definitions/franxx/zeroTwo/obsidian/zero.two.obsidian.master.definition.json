@@ -15,13 +15,13 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#50FC17",
+        "accentColor": "#66FA36",
         "startColor": "#A2C1FC"
       }
     }
   },
   "colors": {
-    "caretRow": "#19202a",
+    "caretRow": "#261d21",
     "lineNumberColor": "#53615B",
     "infoForeground": "#5c9077",
     "baseIconColor": "#526A59",
@@ -34,11 +34,11 @@
     "borderColor": "#2c2226",
     "buttonColor": "#29312b",
     "selectionInactive": "#152c1e",
-    "identifierHighlight": "#2f3840",
-    "selectionBackground": "#183e29",
-    "selectionBackgroundTransparent": "#183e295a",
-    "searchBackground": "#2C5277",
-    "searchForeground": "#E2CB14",
+    "identifierHighlight": "#163215",
+    "selectionBackground": "#174a2e",
+    "selectionBackgroundTransparent": "#174a2e5a",
+    "searchBackground": "#872847",
+    "searchForeground": "#fafafa",
     "buttonFont": "#6b997c",
     "foregroundColor": "#bbbbbb",
     "startColor": "#1c512f",
@@ -51,9 +51,9 @@
     "stopColor": "#26ee65",
     "testScopeColor": "#2a0f24",
     "popupMask": "#aaf5c70A",
-    "codeBlock": "#292e34",
+    "codeBlock": "#161a2e",
     "textEditorBackground": "#17070e",
-    "foldedTextBackground": "#220914",
+    "foldedTextBackground": "#21191d",
     "unusedColor": "#6F7B6F",
     "errorColor": "#FF0000",
     "constantColor": "#2FAAF6",
