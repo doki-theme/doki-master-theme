@@ -15,8 +15,8 @@
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#e4ff10",
-        "startColor": "#1078ff"
+        "accentColor": "#50FC17",
+        "startColor": "#A2C1FC"
       }
     }
   },
@@ -54,12 +54,15 @@
     "codeBlock": "#292e34",
     "textEditorBackground": "#17070e",
     "foldedTextBackground": "#220914",
-    "classNameColor": "#6893f3",
-    "htmlTagColor": "#8C90E5",
-    "stringColor": "#efa554",
-    "comments": "#677684",
-    "keyColor": "#99B6D5",
-    "keywordColor": "#e0474b",
+    "unusedColor": "#6F7B6F",
+    "errorColor": "#FF0000",
+    "constantColor": "#2FAAF6",
+    "classNameColor": "#FFD448",
+    "htmlTagColor": "#82B1EE",
+    "stringColor": "#39e6a6",
+    "comments": "#57745D",
+    "keyColor": "#B9F8BC",
+    "keywordColor": "#FDB8EB",
     "diff.deleted": "#3C4246",
     "diff.inserted": "#173D17",
     "lightEditorColor": "#222027",
