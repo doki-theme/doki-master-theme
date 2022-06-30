@@ -1,0 +1,78 @@
+{
+  "id": "13adffd9-acbe-47af-8101-fa71269a4c5c",
+  "name": "Zero Two Obsidian",
+  "displayName": "Zero Two",
+  "dark": true,
+  "author": "Unthrottled",
+  "group": "Darling in the Franxx",
+  "stickers": {
+    "default": {
+      "name": "zero_two_obsidian.png",
+      "anchor": "center",
+      "opacity": 20
+    }
+  },
+  "overrides": {
+    "editorScheme": {
+      "colors": {
+        "accentColor": "#e4ff10",
+        "startColor": "#1078ff"
+      }
+    }
+  },
+  "colors": {
+    "caretRow": "#19202a",
+    "lineNumberColor": "#53615B",
+    "infoForeground": "#5c9077",
+    "baseIconColor": "#526A59",
+    "contrastColor": "#28362c",
+    "nonProjectFileScopeColor": "#231d1f",
+    "secondaryBackground": "#0e0509",
+    "selectionForeground": "#fbfbfb",
+    "headerColor": "#150a0e",
+    "baseBackground": "#1a0c12",
+    "borderColor": "#2c2226",
+    "buttonColor": "#29312b",
+    "selectionInactive": "#152c1e",
+    "identifierHighlight": "#2f3840",
+    "selectionBackground": "#183e29",
+    "selectionBackgroundTransparent": "#183e295a",
+    "searchBackground": "#2C5277",
+    "searchForeground": "#E2CB14",
+    "buttonFont": "#6b997c",
+    "foregroundColor": "#bbbbbb",
+    "startColor": "#1c512f",
+    "highlightColor": "#152c1e",
+    "disabledColor": "#55685c",
+    "accentColorTransparent": "#1ecd865A",
+    "accentColorLessTransparent": "#1ecd869A",
+    "accentColorMoreTransparent": "#1ecd862A",
+    "accentColor": "#1ecd86",
+    "stopColor": "#26ee65",
+    "testScopeColor": "#2a0f24",
+    "popupMask": "#aaf5c70A",
+    "codeBlock": "#292e34",
+    "textEditorBackground": "#17070e",
+    "foldedTextBackground": "#220914",
+    "classNameColor": "#6893f3",
+    "htmlTagColor": "#8C90E5",
+    "stringColor": "#efa554",
+    "comments": "#677684",
+    "keyColor": "#99B6D5",
+    "keywordColor": "#e0474b",
+    "diff.deleted": "#3C4246",
+    "diff.inserted": "#173D17",
+    "lightEditorColor": "#222027",
+    "breakpointColor": "#342519",
+    "breakpointActiveColor": "#1d2b12",
+    "fileBlue": "#16223b",
+    "fileGray": "#261d20",
+    "fileRose": "#351323",
+    "fileOrange": "#3c2010",
+    "fileViolet": "#241433",
+    "fileYellow": "#312613",
+    "fileRed": "#300d11",
+    "filePurple": "#220d2a"
+  },
+  "characterId": "1d95afa2-3346-45e6-951f-2e48352ede90"
+}
