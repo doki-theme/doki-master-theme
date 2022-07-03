@@ -1,14 +1,14 @@
 {
-  "id": "4fd5cb34-d36e-4a3c-8639-052b19b26ba1",
-  "name": "Zero Two White Lily",
+  "id": "2eedcc31-b5fa-4b30-b045-6a539e915581",
+  "name": "Zero Two Pearl",
   "displayName": "Zero Two",
   "dark": false,
   "author": "Unthrottled",
   "group": "Darling in the Franxx",
   "stickers": {
     "default": {
-      "name": "zero_two_lily.png",
-      "anchor": "right",
+      "name": "zero_two_pearl.png",
+      "anchor": "center",
       "opacity": 20
     }
   },

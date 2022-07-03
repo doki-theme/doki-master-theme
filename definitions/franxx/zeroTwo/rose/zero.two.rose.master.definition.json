@@ -8,12 +8,7 @@
   "stickers": {
     "default": {
       "name": "zero_two_rose.png",
-      "anchor": "center",
-      "opacity": 8
-    },
-    "secondary": {
-      "name": "zero_two_rose_secondary.png",
-      "anchor": "center",
+      "anchor": "right",
       "opacity": 8
     }
   },
