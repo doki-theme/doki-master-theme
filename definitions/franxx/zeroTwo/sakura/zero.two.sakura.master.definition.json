@@ -1,13 +1,13 @@
 {
   "id": "2eedcc31-b5fa-4b30-b045-6a539e915581",
-  "name": "Zero Two Light Pearl",
+  "name": "Zero Two Light Sakura",
   "displayName": "Zero Two",
   "dark": false,
   "author": "Unthrottled",
   "group": "Darling in the Franxx",
   "stickers": {
     "default": {
-      "name": "zero_two_pearl.png",
+      "name": "zero_two_sakura.png",
       "anchor": "center",
       "opacity": 20
     }
