@@ -9,13 +9,13 @@
     "default": {
       "name": "hiro_dark.png",
       "anchor": "right",
-      "opacity": 12
+      "opacity": 9
     }
   },
   "overrides": {
     "editorScheme": {
       "colors": {
-        "accentColor": "#B275E2",
+        "accentColor": "#61ead9",
         "startColor": "#597cee"
       }
     }
@@ -55,22 +55,22 @@
     "popupMask": "#928d8d05",
     "codeBlock": "#352836",
     "foldedTextBackground": "#25272d",
-    "textEditorBackground": "#1f2126",
+    "textEditorBackground": "#16171A",
     "errorColor": "#ff0000",
-    "constantColor": "#ff8bfd",
+    "constantColor": "#83F57F",
     "unusedColor": "#5C5E6C",
-    "classNameColor": "#79EA60",
+    "classNameColor": "#EA517A",
     "htmlTagColor": "#AE9AFF",
-    "stringColor": "#61ead9",
+    "stringColor": "#FDB8EB",
     "keyColor": "#89CCEC",
     "keywordColor": "#6a96e9",
     "diff.modified": "#0E2539",
     "diff.inserted": "#132D14",
     "diff.conflict": "#391B1B",
     "diff.deleted": "#2A2929",
-    "lightEditorColor": "#2f252d",
-    "breakpointColor": "#3b3b2e",
-    "breakpointActiveColor": "#244126",
+    "lightEditorColor": "#202227",
+    "breakpointColor": "#333324",
+    "breakpointActiveColor": "#1c391c",
     "fileBlue": "#172d45",
     "fileGray": "#27282a",
     "fileRose": "#361e2d",
