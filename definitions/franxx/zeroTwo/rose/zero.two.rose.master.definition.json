@@ -8,7 +8,7 @@
   "stickers": {
     "default": {
       "name": "zero_two_rose.png",
-      "anchor": "right",
+      "anchor": "center",
       "opacity": 8
     }
   },
