@@ -25,7 +25,7 @@ This is the place for that. Please keep issues to a specific platform in that pl
 ## I hope you enjoy these themes!
 
 
-![Best Girls](./readmeAssets/best_girls.png)
+![Best Girl](https://doki.assets.unthrottled.io/misc/best_girl.png)
 
 
 ---

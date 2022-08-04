@@ -1,13 +1,13 @@
 {
   "id": "8c99ec4b-fda0-4ab7-95ad-a6bf80c3924b",
-  "name": "Zero Two Dark",
+  "name": "Zero Two Dark Rose",
   "displayName": "Zero Two",
   "dark": true,
   "author": "Unthrottled",
   "group": "Darling in the Franxx",
   "stickers": {
     "default": {
-      "name": "zero_two_dark.png",
+      "name": "zero_two_rose.png",
       "anchor": "center",
       "opacity": 8
     }
