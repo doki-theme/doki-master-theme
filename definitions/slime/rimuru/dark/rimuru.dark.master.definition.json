@@ -1,13 +1,13 @@
 {
   "id": "5ca2846d-31a9-40b3-8908-965dad3c127d",
-  "name": "Rimiru Tempest",
-  "displayName": "Rimiru",
+  "name": "Rimuru Tempest",
+  "displayName": "Rimuru",
   "dark": true,
   "author": "Unthrottled",
   "group": "That Time I Get ReIncarnated As A Slime",
   "stickers": {
     "default": {
-      "name": "rimiru_dark.png",
+      "name": "rimuru_dark.png",
       "anchor": "right",
       "opacity": 12
     }
