@@ -81,7 +81,8 @@
     "fileViolet": "#dfc4c8",
     "fileYellow": "#f6dfb0",
     "fileRed": "#f6c6ae",
-    "filePurple": "#e8c6c7"
+    "filePurple": "#e8c6c7",
+    "headerColorInactive": "#f9dfc3"
   },
   "characterId": "bc4cfd97-89d9-4131-83f8-f2bea867f721"
 }
