@@ -21,6 +21,10 @@
     }
   },
   "colors": {
+    "actionBackground": "#6cc4e8",
+    "actiorForeground": "#060a1c",
+    "runningBackground": "#f8d85e",
+    "runningForeground": "#060a1c",
     "comments": "#716B78",
     "caretRow": "#302931",
     "lineNumberColor": "#675a6c",

@@ -13,6 +13,8 @@
     "terminal.ansiMagenta": "#E64747",
     "terminal.ansiCyan": "#75D7EC",
     "ghostColor": "#FFFFFF00",
-    "tagColor": "#7A7A7A"
+    "tagColor": "#7A7A7A",
+    "terminateBackground": "#e55e66",
+    "terminateForeground": "#ffffff"
   }
 }
