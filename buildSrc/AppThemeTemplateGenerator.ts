@@ -82,6 +82,12 @@ const jupyterTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   colors: {},
 });
 
+const iconsTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
+  id: dokiThemeDefinition.id,
+  overrides: {},
+  colors: {},
+});
+
 const homeTemplate = (dokiThemeDefinition: MasterDokiThemeDefinition) => ({
   id: dokiThemeDefinition.id,
   overrides: {},
@@ -108,7 +114,7 @@ function buildApplicationTemplate(
 
 /**
  * You also want to change this as well
- *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home | visualstudio | firefox
+ *  jetbrains | vsCode | hyper | chrome | vim | github | eclipse | jupyter | home | visualstudio | firefox | icons
  */
 const appName = 'jetbrains';
 
