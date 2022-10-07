@@ -67,6 +67,7 @@
     "stringColor": "#7EACF8",
     "keyColor": "#FF96FD",
     "keywordColor": "#ec377e",
+    "iconContrastColorTwo": "#c72f2f",
     "diff.modified": "#173558",
     "diff.inserted": "#0F2F1D",
     "diff.conflict": "#441919",
