@@ -13,6 +13,16 @@
     "terminal.ansiMagenta": "#E64747",
     "terminal.ansiCyan": "#75D7EC",
     "ghostColor": "#FFFFFF00",
-    "tagColor": "#7A7A7A"
+    "tagColor": "#7A7A7A",
+
+    "iconContrastColorOne": "#1785ff",
+    "iconContrastColorTwo": "#6ee4f8",
+    "iconBlendColorOne": "#9a8bff",
+    "iconBlendColorTwo": "#ff8bf5",
+    "iconBlendColorThree": "#6e85f8",
+    "iconBlendColorFour": "#5c98ff",
+    "iconHighlightColorOne": "#ff958b",
+    "iconHighlightColorTwo": "#8bff95",
+    "iconError": "#e62d94"
   }
 }
