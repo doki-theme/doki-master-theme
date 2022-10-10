@@ -15,14 +15,13 @@
     "ghostColor": "#FFFFFF00",
     "tagColor": "#7A7A7A",
 
-    "iconContrastColorOne": "#1785ff",
-    "iconContrastColorTwo": "#6ee4f8",
-    "iconBlendColorOne": "#9a8bff",
-    "iconBlendColorTwo": "#ff8bf5",
-    "iconBlendColorThree": "#6e85f8",
+    "iconAccent": "#6ee4f8",
+    "iconAccentCompliment": "#1785ff",
+    "iconBaseBlend": "#6e85f8",
+    "iconSecondaryBlend": "#9a8bff",
+    "iconBlendCompliment": "#ff8bf5",
+    "iconDiversification": "#ff958b",
     "iconBlendColorFour": "#5c98ff",
-    "iconHighlightColorOne": "#ff958b",
-    "iconHighlightColorTwo": "#8bff95",
     "iconError": "#e62d94"
   }
 }
