@@ -70,6 +70,7 @@
     "iconAccentCompliment": "#E94686",
     "iconBaseBlend": "#6e85f8",
     "iconSecondaryBlend": "#a94eff",
+    "iconBlendContrast": "#fa9df4",
     "iconBlendCompliment": "#ff8bf5",
     "iconDiversification": "#e8665b",
     "terminal.ansiGreen": "#3dd664",
