@@ -72,6 +72,7 @@
     "iconBaseBlend": "#7a51f8",
     "iconSecondaryBlend": "#9a8bff",
     "iconBlendCompliment": "#ff8bf5",
+    "iconBlendContrast": "#39e6a6",
     "iconDiversification": "#53de8d",
     "diff.modified": "#173558",
     "diff.inserted": "#0F2F1D",
