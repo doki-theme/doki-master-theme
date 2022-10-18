@@ -67,6 +67,7 @@
     "iconAccentCompliment": "#b6ffbc",
     "iconBaseBlend": "#1ac680",
     "iconSecondaryBlend": "#5fffb7",
+    "iconBlendContrast": "#ffffff",
     "iconBlendCompliment": "#ffffff",
     "iconDiversification": "#FFD448",
     "diff.deleted": "#2F292D",
