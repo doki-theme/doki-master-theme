@@ -68,6 +68,13 @@
     "stringColor": "#a1e9ff",
     "keyColor": "#9d8df6",
     "keywordColor": "#ef57bf",
+    "iconAccent": "#f391e1",
+    "iconAccentCompliment": "#75cbb3",
+    "iconBaseBlend": "#927fef",
+    "iconSecondaryBlend": "#9a8bff",π
+    "iconBlendContrast": "#FFFFFF",
+    "iconBlendCompliment": "#ea6296",
+    "iconDiversification": "#978bff",
     "diff.deleted": "#3B393A",
     "diff.inserted": "#1B3B1C",
     "lightEditorColor": "#353038",
