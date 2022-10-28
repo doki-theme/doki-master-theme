@@ -1,7 +1,7 @@
 {
   "name": "doki-master-theme",
   "version": "88.1",
-  "description": "The Doki Theme",
+  "description": "Doki Theme",
   "main": "build/index.js",
   "repository": "https://github.com/doki-theme/doki-master-theme.git",
   "author": "Alex Simons <alexsimons9999@gmail.com>",
