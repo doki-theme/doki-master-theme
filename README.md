@@ -1,4 +1,4 @@
-The Doki Theme Master
+Doki Theme Master
 ---
 
 Hey friend! It looks like you eventually found your way over here, welcome!
