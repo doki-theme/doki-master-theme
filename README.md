@@ -30,7 +30,7 @@ This is the place for that. Please keep issues to a specific platform in that pl
 
 ---
 <div align="center">
-    <img src="https://doki.assets.unthrottled.io/misc/logo.svg" ></img>
+    <img src="https://doki.assets.unthrottled.io/misc/logo_v2.svg" ></img>
 </div>
 
 
