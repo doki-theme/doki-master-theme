@@ -22,6 +22,8 @@
     "iconBlendContrast": "#73ff9d",
     "iconBlendCompliment": "#ff8bf5",
     "iconDiversification": "#ff958b",
-    "iconError": "#e62d94"
+    "iconError": "#e62d94",
+    "dokiLogoAccent": "#1ecd86",
+    "dokiLogoAccentContrast": "#106e49"
   }
 }
