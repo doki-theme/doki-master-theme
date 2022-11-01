@@ -73,6 +73,8 @@
     "iconBlendContrast": "#f8f66e",
     "iconBlendCompliment": "#EFA554",
     "iconDiversification": "#f3427f",
+    "dokiLogoAccent": "#7d90f3",
+    "dokiLogoAccentContrast": "#3a4ca1",
     "diff.inserted": "#192f24",
     "diff.deleted": "#212140",
     "lightEditorColor": "#171942",
