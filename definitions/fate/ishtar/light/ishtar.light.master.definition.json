@@ -72,6 +72,8 @@
     "lightEditorColor": "#fffcf3",
     "breakpointColor": "#fffbcc",
     "breakpointActiveColor": "#c3feb9",
+    "dokiLogoAccent": "#f5a821",
+    "dokiLogoAccentContrast": "#7d5611",
     "fileBlue": "#d4e8fc",
     "fileGray": "#e4e3e1",
     "fileRose": "#f3cedf",
