@@ -82,6 +82,8 @@
     "iconBlendContrast": "#f8f66e",
     "iconBlendCompliment": "#4bcf4c",
     "iconDiversification": "#f8f66e",
+    "dokiLogoAccent": "#4bcf4c",
+    "dokiLogoAccentContrast": "#1b7b1c",
     "terminal.ansiRed": "#FF7AB2",
     "terminal.ansiGreen": "#54ea7c",
     "terminal.ansiYellow": "#fdaa39",
