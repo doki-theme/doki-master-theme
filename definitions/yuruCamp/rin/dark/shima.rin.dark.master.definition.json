@@ -72,6 +72,8 @@
     "iconBlendContrast": "#ffffff",
     "iconBlendCompliment": "#e97ff5",
     "iconDiversification": "#f18ea7",
+    "dokiLogoAccent": "#d067b3",
+    "dokiLogoAccentContrast": "#693c82",
     "diff.modified": "#253F4C",
     "diff.inserted": "#223B28",
     "diff.conflict": "#3E2424",
