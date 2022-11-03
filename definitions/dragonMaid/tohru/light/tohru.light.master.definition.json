@@ -73,6 +73,7 @@
     "dokiLogoAccentContrast": "#972f37",
     "iconDiversification": "#0E8D61",
     "terminal.ansiCyan": "#0896AD",
+    "terminal.ansiGreen": "#0D9A35",
     "diff.deleted": "#edd289",
     "diff.modified": "#ecd19e",
     "diff.conflict": "#f9bf7c",
