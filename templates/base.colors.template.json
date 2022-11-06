@@ -13,6 +13,17 @@
     "terminal.ansiMagenta": "#E64747",
     "terminal.ansiCyan": "#75D7EC",
     "ghostColor": "#FFFFFF00",
-    "tagColor": "#7A7A7A"
+    "tagColor": "#7A7A7A",
+
+    "iconAccent": "#6ee4f8",
+    "iconAccentCompliment": "#1785ff",
+    "iconBaseBlend": "#6e85f8",
+    "iconSecondaryBlend": "#9a8bff",
+    "iconBlendContrast": "#73ff9d",
+    "iconBlendCompliment": "#ff8bf5",
+    "iconDiversification": "#ff958b",
+    "iconError": "#e62d94",
+    "dokiLogoAccent": "#1ecd86",
+    "dokiLogoAccentContrast": "#106e49"
   }
 }
