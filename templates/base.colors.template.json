@@ -3,7 +3,6 @@
   "name": "base",
   "colors": {
     "constantColor":"#86dbfd",
-    "parameterColor":"#FFB86C",
     "comments": "#6272A4",
     "errorColor": "#ff5555",
     "terminal.ansiRed": "#E356A7",
